@@ -1,0 +1,2 @@
+# Pastes and scams
+
