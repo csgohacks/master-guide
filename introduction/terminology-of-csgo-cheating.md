@@ -13,7 +13,7 @@ Theese are the terms that are commomly used in the CSGO cheating community:
 
 * Config - The configuration for the cheat. Most of the cheats in CSGO provides a lot of features for the user to set up. A configuration file will help the user to load up a pre-configurated cheat settings to the cheat, reduces the time to set up the cheat all over again.
 
-* Lua/js - Some cheat providers also allows their community to create some scripts in order the let the cheat behave how the user-wanted. This could allow the user to make the cheat more flexiable. MOst of the scripts are written in [Lua](https://en.wikipedia.org/wiki/Lua_(programming_language)), however some cheat providers provide a [JavaScript](https://en.wikipedia.org/wiki/JavaScript) API, therefore there are also scripts are written in JavaScript (JS for short).
+* Lua/js - Some cheat providers also allows their community to create some scripts in order the let the cheat behave how the user-wanted. This could allow the user to make the cheat more flexiable. Most of the scripts are written in [Lua](https://en.wikipedia.org/wiki/Lua_(programming_language)), however some cheat providers provide a [JavaScript](https://en.wikipedia.org/wiki/JavaScript) API, therefore there are also scripts are written in JavaScript (JS for short).
 
 ## Cheat functions
  * Aimbot - 
@@ -21,6 +21,8 @@ Theese are the terms that are commomly used in the CSGO cheating community:
  * Triggerbot
 
  * Anti-Aim (AA)
+
+ * Legit Anti-Aim
 
  * Slient Aim
 
@@ -35,9 +37,9 @@ Theese are the terms that are commomly used in the CSGO cheating community:
  * ASUS Walls
 
 ## Cheating styles
-* Closet - Cheaters who tries to hide up their cheat to a maxiumum level in order not to get a higher chance being noticable from anti-cheat software or other people. Mostly they will only turn on a few features inside the cheat.
+* Closet - Cheaters who tries to hide up their cheat to a maxiumum level in order not to get a higher chance being noticable from anti-cheat software or other people. Mostly they will only turn on a few features inside the cheat, such as only toggle up a little bit of aim-assist, or a high smooth value of legit aimbot, sometimes they will also toggle up airstrafe and auto bunnyhop.
 
-* Legit - Cheaters who tries to play like a normal player. However the difference with closet cheaters are they will turn on more features compared to closet cheaters.
+* Legit - Which is similar to a closet cheater, who tries to play like a normal player. However the difference with closet cheaters are they will turn on more features compared to closet cheaters, such as ESP.
 
 * Blatant - Cheaters who turns on features that other plyers will notice that the cheater is cheating such as triggerbot, esp, or somtimes rage aimbot. mostly they will receive a higher chance of getting banned.
 
@@ -49,33 +51,35 @@ Theese are the terms that are commomly used in the CSGO cheating community:
 
 * Legit HvH - Simlar to HvH, but in this case, the cheater on both sidfes will only togglr their blatant configuration, since theydon't want to fack the risk of instant ban (Despite the chances of getting banned on legit hvh are very high). Mostly seens on non-prime or prime matchmakings.
 
+* P / p100 - A term to represent something is very good, near prefection. For example, when a cheater typed "hitting p" on chat, means his ragebot always hits the target, running nearly perfection. Or when some cheater say "p media", which means this is some excellent sources to be used in a video / photo,etc.
+
+* 1 - Means only using one shot to kill an enmeny. Also represents "p" in some cases.
+
+* Baim - Stands for "Body-aim". 
+
+* Sliding - When a cheater toggle side walk, other players will see the legs of  the cheater's playermodel becomes frozen, looks like sliding.
+
+![player sliding](https://thumbs.gfycat.com/GaseousUnluckyAnophelesmosquito-size_restricted.gif)
+
+Example of a player sliding. Watch for the player who is having an AWP on his back.
+
+* Dumping fake
+
+
+
 ## Community
 
-* NN - 
+* Trashtalking - Mostly happenes during a HvH or before a HvH match. In order to make another cheater becomes angry and may toggle his rage cheat configuration.
 
-• hitting p/ p100 / mega p etc. - good. hvh term
+* NN - Short term for "No-namer". Which stands for a cheater that nobody knows him. Mostly used as an insult to another cheater. 
+
+* Big namer - Which is different from a no-namer, a big namer is someone who is famous in the HvH community, which usually is someone good at HvH and posts media on different social media platforms regularly.
+
+* cya@media - similar as people "Hello youtube", which is use as to notify another player / cheat that he is going to be on public media.
+
 
 • uff ja / hhhhhh / laff / n1 - retard hvh speak
 
-• 1 - \(hvh\) means you got killed in one headshot
 
-• dump - when a hvh cheat shoots at a persons “fake” or desync
 
-• baim - body aim
-
-• cya@media - \(hvh\) saying hello to “media”. same use as “hello youtube!”
-
-• “you’re sliding” - someone can see your feet fail to do the walk animation, usually an indication of legit aa \(defined in cheat features\). This is said to call out closet cheaters.
-
-• Closet cheaters - people that are cheating but will not admit it.
-
-* NN means "no-name" in hvh speak. For example when you kill someone better than you, you would say: "LOL get 1d retarded nn ur mad."
-
-  NN is usually used by a bunch of nns calling each other nns.
-
-  It is also used by 5 queue ragers in non prime. For example in a 1v5 mm hvh when they kill you:
-
-  Rager 1: 1 nn Rager 2: bad refund Rager 3: lol cant be a real p2c Rager 4: 11111111 Rager 5: uid? uid? uid?
-
-  You: Are you guys retarded or do you not realize you are this thing called losing.
 
