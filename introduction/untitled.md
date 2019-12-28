@@ -8,4 +8,4 @@ This guide will going to help you learn more about:
 * Learning about playstyle
 * Avoiding scams
 
-However, if you are a legit player that cheating in CSGO is not really your favour, you can still check out our [tips for legit players](miscellaneous/untitled.md)
+However, if you are a legit player that cheating in CSGO is not really your favour, you can still check out our [tips for legit players](/master-guide/miscellaneous/untitled.md), which is very useful when you facing a player who is cheating! Also this guide cotains some tips on improve your skills in CSGO, which also could be useful.
