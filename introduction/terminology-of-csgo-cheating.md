@@ -15,20 +15,39 @@ Theese are the terms that are commomly used in the CSGO cheating community:
 
 * Lua/js - Some cheat providers also allows their community to create some scripts in order the let the cheat behave how the user-wanted. This could allow the user to make the cheat more flexiable. MOst of the scripts are written in [Lua](https://en.wikipedia.org/wiki/Lua_(programming_language)), however some cheat providers provide a [JavaScript](https://en.wikipedia.org/wiki/JavaScript) API, therefore there are also scripts are written in JavaScript (JS for short).
 
+## Cheat functions
+ * Aimbot - 
+
+ * Triggerbot
+
+ * Anti-Aim (AA)
+
+ * Slient Aim
+
+ * Desync
+
+ * Reslover 
+
+ * FakeLag
+
+ * ESP
+
+ * ASUS Walls
+
 ## Cheating styles
 * Closet - Cheaters who tries to hide up their cheat to a maxiumum level in order not to get a higher chance being noticable from anti-cheat software or other people. Mostly they will only turn on a few features inside the cheat.
 
 * Legit - Cheaters who tries to play like a normal player. However the difference with closet cheaters are they will turn on more features compared to closet cheaters.
 
-* Blatant - Cheaters who turns on  features that other plyers will notice that the cheater is cheating. mostly they will receive a higher chance of getting banned.
+* Blatant - Cheaters who turns on features that other plyers will notice that the cheater is cheating such as triggerbot, esp, or somtimes rage aimbot. mostly they will receive a higher chance of getting banned.
 
-* Rage - Cheaters will turn on most of the features that the cheat available in order to win a match by any cost. Mostly they will receive a ban in a day or in weeks, depends on how long the anti-cheat software detects.
+* Rage - Cheaters will turn on most of the features that the cheat available in order to win a match by any cost, such as Anti-Aim, rage aimbot, esp, etc. Mostly they will receive a ban in a day or in weeks, depends on how long the anti-cheat software detects.
 
 ## In game
 
-* HvH - A short term for "Hack-versus-Hack". In theese cases, the cheater on both sides will load up their rage configuration in order to win the match.
+* HvH - A short term for "Hack-versus-Hack". In theese cases, the cheater on both sides will load up their rage configuration in order to win the match. Mostly seens on non-prime level 2 CSGO accounts.
 
-* Legit HvH - 
+* Legit HvH - Simlar to HvH, but in this case, the cheater on both sidfes will only togglr their blatant configuration, since theydon't want to fack the risk of instant ban (Despite the chances of getting banned on legit hvh are very high). Mostly seens on non-prime or prime matchmakings.
 
 ## Community
 
