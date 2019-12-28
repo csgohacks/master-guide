@@ -59,11 +59,11 @@ Theese are the terms that are commomly used in the CSGO cheating community:
 
 * Sliding - When a cheater toggle side walk, other players will see the legs of  the cheater's playermodel becomes frozen, looks like sliding.
 
-![player sliding](https://thumbs.gfycat.com/GaseousUnluckyAnophelesmosquito-size_restricted.gif)
+![Example of a player sliding. Watch for the player who is having an AWP on his back.](https://thumbs.gfycat.com/GaseousUnluckyAnophelesmosquito-size_restricted.gif)
 
-Example of a player sliding. Watch for the player who is having an AWP on his back.
 
-* Dumping fake
+
+* Dumping fake - 
 
 
 
@@ -77,8 +77,13 @@ Example of a player sliding. Watch for the player who is having an AWP on his ba
 
 * cya@media - similar as people "Hello youtube", which is use as to notify another player / cheat that he is going to be on public media.
 
+* uff ja - No special meaning on it. Just a expression.
 
-• uff ja / hhhhhh / laff / n1 - retard hvh speak
+* hhhhhh - A HvH slang means for "Ha Ha Ha", a representation of laughing.
+
+* laff - Also a HvH slang stands for laugh. Used as an insult.
+
+* n1 -  A HvH slang. Stands for "nice one".
 
 
 
