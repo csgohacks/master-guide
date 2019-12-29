@@ -31,7 +31,7 @@ However cheaters also used this term as an irony to their paid cheat behaves lik
     * Yaw   (Rotation along the Y axis)
     * Roll  (Rotation along the Z axis)
 
-As we mentioned before, the way aimbot (What we are talking about here is rage aimbot) works is by moving your crosshair to the enmeny's head. So how anti-aim works, is to modify the angle of the playermodel's head by editing the values in pitch, yaw or roll. One of the popular anti-aim, which is spinbot, is achieved by modifying the yaw angle from -180 to 180 in one second, causing the playermodel looks like spinning.
+As we mentioned before, the way aimbot (What we are talking about here is rage aimbot) works is by moving your crosshair to the enmeny's head. So how anti-aim works, is to modify the angle of the playermodel's head by editing the values in pitch, yaw or roll, so that the aimbot will need to claculate the angle of the enmeny's head, causing the chances of getting hit will be lower. One of the popular anti-aim, which is used to be spinbot, is achieved by modifying the yaw angle from -180 to 180 in one second, causing the playermodel looks like spinning. However nowdays the most common type of anti-aim are emotion (45 degrees) on pitch with static desync or jitter.
 
  It was accidentally created by some cheat develpoer trying to recreate an air stuck/fake lag exploit. So long story short, the server displays incorrect information to the players about your hitbox location, which displays something like this: 
 
