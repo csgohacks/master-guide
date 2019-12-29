@@ -18,11 +18,11 @@ However cheaters also used this term as an irony to their paid cheat behaves lik
 * Lua/js - Some cheat providers also allows their community to create some scripts in order to let the cheat behave how the user-wanted. This could allow the user to make the cheat more flexible. Most of the scripts are written in [Lua](https://www.lua.org/), however some cheat providers provide a [JavaScript](https://en.wikipedia.org/wiki/JavaScript) API, therefore there are also scripts are written in JavaScript (JS for short).
 
 ## Cheat functions
- * Aimbot - An aimbot is a software tool that allow the player to shoot enemies without having to aim their weapon. In most cheat software theere are two types of aimbot: Legit and rage aimbot. The legitaimbot will also provide a smoothing function, which determines the speed of the aimbot moves the aim to the enmeny's head. As for a rage aimbot, it just behaves like how a general aimbot does, snaps to the enmeny's head instantly.
+ * Aimbot - An aimbot is a software tool that allow the player to shoot enemies without having to aim their weapon. In most cheat software theere are two types of aimbot: Legit and rage aimbot. The legitaimbot will also provide a smoothing function, which determines the speed of the aimbot moves the aim to the enemy's head. As for a rage aimbot, it just behaves like how a general aimbot does, snaps to the enemy's head instantly.
 
- * Triggerbot - Helps you to shoot towards an enmeny when the enmeny is located at cheater's crosshair. Usually comes with a delay function to let the user choose the delay of the triggerbot will shoot.
+ * Triggerbot - Helps you to shoot towards an enemy when the enemy is located at cheater's crosshair. Usually comes with a delay function to let the user choose the delay of the triggerbot will shoot.
 
- * Hitbox priority - In general, a playermodel hitbox is divided into differnt parts to the playermodel, in order to claculate the damage from the player
+ * Hitbox priority - In general, a playermodel hitbox is divided into different parts to the playermodel, in order to calculate the damage from the player
 
  * Recoil Control System (RCS) - Helps you control the recoil of the gun. Some cheats also comes with a standlone RCS, what it means the RCS will not affected by the aimbot.
 
@@ -31,7 +31,7 @@ However cheaters also used this term as an irony to their paid cheat behaves lik
     * Yaw   (Rotation along the Y axis)
     * Roll  (Rotation along the Z axis)
 
-As we mentioned before, the way aimbot (What we are talking about here is rage aimbot) works is by moving your crosshair to the enmeny's head. So how anti-aim works, is to modify the angle of the playermodel's head by editing the values in pitch, yaw or roll, so that the aimbot will need to claculate the angle of the enmeny's head, causing the chances of getting hit will be lower. One of the popular anti-aim, which is used to be spinbot, is achieved by modifying the yaw angle from -180 to 180 in one second, causing the playermodel looks like spinning. However nowdays the most common type of anti-aim are emotion (45 degrees) on pitch with static desync or jitter.
+As we mentioned before, the way aimbot (What we are talking about here is rage aimbot) works is by moving your crosshair to the enemy's head. So how anti-aim works, is to modify the angle of the playermodel's head by editing the values in pitch, yaw or roll, so that the aimbot will need to calculate the angle of the enemy's head, causing the chances of getting hit will be lower. One of the popular anti-aim, which is used to be spinbot, is achieved by modifying the yaw angle from -180 to 180 in one second, causing the playermodel looks like spinning. However nowdays the most common type of anti-aim are emotion (45 degrees) on pitch with static desync or jitter.
 
  It was accidentally created by some cheat develpoer trying to recreate an air stuck/fake lag exploit. So long story short, the server displays incorrect information to the players about your hitbox location, which displays something like this: 
 
@@ -39,7 +39,7 @@ As we mentioned before, the way aimbot (What we are talking about here is rage a
 
  * Legit Anti-Aim
 
- * Slient Aim
+ * Slient aim
 
  * Spread / NoSpread
 
@@ -123,7 +123,7 @@ Misc
 
 * P / p100 - A term to represent something is very good, near prefection. For example, when a cheater typed "hitting p" on chat, means his ragebot always hits the target, running nearly perfection. Or when some cheater say "p media", which means this is some excellent sources to be used in a video / photo,etc.
 
-* 1 - Means only using one shot to kill an enmeny. Also represents "p" in some cases.
+* 1 - Means only using one shot to kill an enemy. Also represents "p" in some cases.
 
 * Baim - Stands for "Body-aim". 
 
