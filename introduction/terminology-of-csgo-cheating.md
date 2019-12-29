@@ -7,24 +7,41 @@ Theese are the terms that are commomly used in the CSGO cheating community:
 
 * F2C - Cheat software that don't requires the user to pay for it, mostly are external cheats.
 
-* Paste - Cheat software that their source code are based on some open-source code that is available on popular code hosting websites such as github. Since their souce code are publicly available, so mpst of them behaves quite bad and the chances of getting dtetcteed by anti-cheat software are very high. Also some scammers would use them as a base to scame people. However cheaters also used this term as an irony to their paid cheat behaves like those cheats. 
+* Paste - Cheat software that their source code are based on some open-source code that is available on popular code hosting websites such as github. However so most of them behaves quite bad and the chances of getting detected by anti-cheat software are very high. Also some scammers would use them as a base to scame people. 
+
+However cheaters also used this term as an irony to their paid cheat behaves like those cheats. 
 
 * Crack - Cheats that are used to be paid and now being accessible for free.
 
 * Config - The configuration for the cheat. Most of the cheats in CSGO provides a lot of features for the user to set up. A configuration file will help the user to load up a pre-configurated cheat settings to the cheat, reduces the time to set up the cheat all over again.
 
-* Lua/js - Some cheat providers also allows their community to create some scripts in order the let the cheat behave how the user-wanted. This could allow the user to make the cheat more flexiable. Most of the scripts are written in [Lua](https://en.wikipedia.org/wiki/Lua_(programming_language)), however some cheat providers provide a [JavaScript](https://en.wikipedia.org/wiki/JavaScript) API, therefore there are also scripts are written in JavaScript (JS for short).
+* Lua/js - Some cheat providers also allows their community to create some scripts in order to let the cheat behave how the user-wanted. This could allow the user to make the cheat more flexible. Most of the scripts are written in [Lua](https://www.lua.org/), however some cheat providers provide a [JavaScript](https://en.wikipedia.org/wiki/JavaScript) API, therefore there are also scripts are written in JavaScript (JS for short).
 
 ## Cheat functions
- * Aimbot - 
+ * Aimbot - An aimbot is a software tool that allow the player to shoot enemies without having to aim their weapon. In most cheat software theere are two types of aimbot: Legit and rage aimbot. The legitaimbot will also provide a smoothing function, which determines the speed of the aimbot moves the aim to the enmeny's head. As for a rage aimbot, it just behaves like how a general aimbot does, snaps to the enmeny's head instantly.
 
- * Triggerbot
+ * Triggerbot - Helps you to shoot towards an enmeny when the enmeny is located at cheater's crosshair. Usually comes with a delay function to let the user choose the delay of the triggerbot will shoot.
 
- * Anti-Aim (AA)
+ * Hitbox priority - In general, a playermodel hitbox is divided into differnt parts to the playermodel, in order to claculate the damage from the player
+
+ * Recoil Control System (RCS) - Helps you control the recoil of the gun. Some cheats also comes with a standlone RCS, what it means the RCS will not affected by the aimbot.
+
+ * Anti-Aim (AA) - As known as "Spinbot" by normal CS players. In CSGO, a viewangle is made form 3 basic elements:
+    * Pitch (Rotation along the X axis)
+    * Yaw   (Rotation along the Y axis)
+    * Roll  (Rotation along the Z axis)
+
+As we mentioned before, the way aimbot (What we are talking about here is rage aimbot) works is by moving your crosshair to the enmeny's head. So how anti-aim works, is to modify the angle of the playermodel's head by editing the values in pitch, yaw or roll. One of the popular anti-aim, which is spinbot, is achieved by modifying the yaw angle from -180 to 180 in one second, causing the playermodel looks like spinning.
+
+ It was accidentally created by some cheat develpoer trying to recreate an air stuck/fake lag exploit. So long story short, the server displays incorrect information to the players about your hitbox location, which displays something like this: 
+
+ ![This is what normal csgo hvh scene's anti-aim be like nowdays,the playermodel's head looking down and their body may facing to the direction of the wall.](https://i.ytimg.com/vi/M2Tvf0EOXik/maxresdefault.jpg)
 
  * Legit Anti-Aim
 
  * Slient Aim
+
+ * Spread / NoSpread
 
  * Desync
 
@@ -35,6 +52,59 @@ Theese are the terms that are commomly used in the CSGO cheating community:
  * ESP
 
  * ASUS Walls
+
+ Cheat Features (hvh cheat features will be under the cfg guide)
+
+
+
+• Smoothing - affects the speed at which the aimbot 
+• Hitbox - what the aimbot will aim at.
+
+• Delay - the delay before the aimbot acitvates
+
+• Silent aim - the aimbot will not lock on for your view only !! overwatch and spectator still see you lock on
+
+• Backtrack - an exploit which allows you to shoot at where a certain player was and still hit them. Usually is configured in Ticks or ms.
+
+• RCS - recoil control system
+
+• FOV - The size of the zone from your crosshair that the aimbot will engage enemies in.
+
+• Shot delay - the shot number specified before aimbot targets an enemy
+
+Visuals (only ones that aren’t defined in the name. e.g. Healthbar)
+
+• Chams - colours playermodels and/or changes their materials.
+
+• Traceline - draws a line from your model to the type of person specified
+
+• Draw FOV - shows the FOV of your aimbot
+
+•Playermodel FOV - alters your playermodel FOV (makes ur hands further/closer)
+
+• Backtrack chams / History Chams - shows an enemie’s location history, and where they can be backtracked to.
+
+• Flags (common ones include: money, flashed, distance, etc.) : draws text next to a person if they meet a condition of the flag (e.g. if a person is flashed then the “flashed” text will appear on your esp next to them), or displays the info specified (e.g “Money” simply shows you the amount of money a person has.”
+
+• Spread circle - shows the weapon spread
+
+• Grenade Helper - shows the path of your grenade before you throw it
+
+• Damage indicators - shows damage you did to an enemy
+
+• Knife/Zeus range - draws the range that the knife or zeus can do damage in around your playermodel (useful in thirdperson)
+
+Misc
+
+• Autostrafe - automatically stafes for you. Looks like you are doing nothing on your screen.
+
+• Fast stop - exploit allowing a quicker stop from walking.
+
+• Fast duck/unlimited duck - exploit that breaks crouch stamina
+
+• Name stealer - changes your name around based on other players’ names in the match with you.
+
+• Slide walk - makes your playermodel slide when walking.
 
 ## Cheating styles
 * Closet - Cheaters who tries to hide up their cheat to a maxiumum level in order not to get a higher chance being noticable from anti-cheat software or other people. Mostly they will only turn on a few features inside the cheat, such as only toggle up a little bit of aim-assist, or a high smooth value of legit aimbot, sometimes they will also toggle up airstrafe and auto bunnyhop.
@@ -77,7 +147,7 @@ Theese are the terms that are commomly used in the CSGO cheating community:
 
 * cya@media - similar as people "Hello youtube", which is use as to notify another player / cheat that he is going to be on public media.
 
-* uff ja - No special meaning on it. Just a expression.
+* uff ja - No special meaning on it. Just a expression used in the end of a sentence
 
 * hhhhhh - A HvH slang means for "Ha Ha Ha", a representation of laughing.
 
