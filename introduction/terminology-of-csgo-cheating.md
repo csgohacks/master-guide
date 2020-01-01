@@ -147,11 +147,11 @@ Misc
 
 * cya@media - similar as people "Hello youtube", which is use as to notify another player / cheat that he is going to be on public media.
 
-* uff ja - No special meaning on it. Just a expression used in the end of a sentence
+* uff ja - "Yes" in german. Just a expression used in the end of a sentence
 
 * hhhhhh - A HvH slang means for "Ha Ha Ha", a representation of laughing.
 
-* laff - Also a HvH slang stands for laugh. Used as an insult.
+* laff - A HvH slang stands for laugh. 
 
 * n1 -  A HvH slang. Stands for "nice one".
 
