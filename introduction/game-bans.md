@@ -8,3 +8,5 @@ Mostly happenes when using a detected cheat. Theese kind of bans are permant, an
 ## Griefing ban
 
 ## Overwatch Ban
+
+## Untrusted

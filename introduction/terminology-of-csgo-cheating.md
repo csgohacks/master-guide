@@ -52,7 +52,7 @@ As we mentioned before, the way aimbot (What we are talking about here is rage a
 
  * Reslover - 
 
- * FakeLag - 
+ * FakeLag - Which will let the players looks like freezing bewteen frames. It works slimar to using a lag switch, in order to not let other players 
 
  * FOV - Short term for "Field Of View". Which is a feature for the aimbot to dertime the FOV range should the aimbot active.
 
@@ -62,7 +62,7 @@ As we mentioned before, the way aimbot (What we are talking about here is rage a
 
 
 
- * Name stealer
+ * Name stealer - Which will allows the player to steal other player's name, so that the player will not getting kicked out. Mostly useful when a cheater is raging in casual gamemodes or community servers.
 
 
 
