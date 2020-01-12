@@ -33,11 +33,14 @@ However cheaters also used this term as an irony to their paid cheat behaves lik
 
 As we mentioned before, the way aimbot (What we are talking about here is rage aimbot) works is by moving your crosshair to the enemy's head. So how anti-aim works, is to modify the angle of the playermodel's head by editing the values in pitch, yaw or roll, so that the aimbot will need to calculate the angle of the enemy's head, causing the chances of getting hit will be lower. One of the popular anti-aim, which is used to be spinbot, is achieved by modifying the yaw angle from -180 to 180 in one second, causing the playermodel looks like spinning. However nowdays the most common type of anti-aim are emotion (45 degrees) on pitch with static desync or jitter.
 
- It was accidentally created by some cheat develpoer trying to recreate an air stuck/fake lag exploit. So long story short, the server displays incorrect information to the players about your hitbox location, which displays something like this: 
 
- ![This is what normal csgo hvh scene's anti-aim be like nowdays,the playermodel's head looking down and their body may facing to the direction of the wall.](https://i.ytimg.com/vi/M2Tvf0EOXik/maxresdefault.jpg)
 
- * Legit Anti-Aim
+![This is what normal csgo hvh scene's anti-aim be like nowdays,the playermodel's head looking down and their body may facing to the direction of the wall.](https://i.ytimg.com/vi/M2Tvf0EOXik/maxresdefault.jpg)
+
+ * Legit Anti-Aim -  Legit anti-aim is slimar to anti-aim, but with a smaller angle. It is a chieved by using desync to a maxium  of 58 degrees. Thus the playermodel will still looks like normal, but the real hitbox is being shifted to a different angle.
+
+ ![This is how legit anti-aim looks like nowdays.](https://i.imgur.com/MgQ1jpJ.png)
+
 
  * Slient aim
 
@@ -147,13 +150,15 @@ Misc
 
 * cya@media - similar as people "Hello youtube", which is use as to notify another player / cheat that he is going to be on public media.
 
-* uff ja - "Yes" in german. Just a expression used in the end of a sentence
+* uff ja - "Yes" in german. Just a expression used in the end of a sentence.
 
 * hhhhhh - A HvH slang means for "Ha Ha Ha", a representation of laughing.
 
 * laff - A HvH slang stands for laugh. 
 
 * n1 -  A HvH slang. Stands for "nice one".
+
+* who.ru - A HvH slang represents "who are you".
 
 
 
