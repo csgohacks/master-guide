@@ -17,7 +17,7 @@ However cheaters also used this term as an irony to their paid cheat behaves lik
 
 * Lua/js - Some cheat providers also allows their community to create some scripts in order to let the cheat behave how the user-wanted. This could allow the user to make the cheat more flexible. Most of the scripts are written in [Lua](https://www.lua.org/), however some cheat providers provide a [JavaScript](https://en.wikipedia.org/wiki/JavaScript) API, therefore there are also scripts are written in JavaScript (JS for short).
 
-## Cheat functions
+## Cheat feautres
  * Aimbot - An aimbot is a software tool that allow the player to shoot enemies without having to aim their weapon. In most cheat software theere are two types of aimbot: Legit and rage aimbot. The legitaimbot will also provide a smoothing function, which determines the speed of the aimbot moves the aim to the enemy's head. As for a rage aimbot, it just behaves like how a general aimbot does, snaps to the enemy's head instantly.
 
  * Triggerbot - Helps you to shoot towards an enemy when the enemy is located at cheater's crosshair. Usually comes with a delay function to let the user choose the delay of the triggerbot will shoot.
@@ -37,31 +37,36 @@ As we mentioned before, the way aimbot (What we are talking about here is rage a
 
 ![This is what normal csgo hvh scene's anti-aim be like nowdays,the playermodel's head looking down and their body may facing to the direction of the wall.](https://i.ytimg.com/vi/M2Tvf0EOXik/maxresdefault.jpg)
 
- * Legit Anti-Aim -  Legit anti-aim is slimar to anti-aim, but with a smaller angle. It is a chieved by using desync to a maxium  of 58 degrees. Thus the playermodel will still looks like normal, but the real hitbox is being shifted to a different angle.
+ * Legit Anti-Aim -  Legit anti-aim is slimar to anti-aim, but with a smaller angle. It is a chieved by using desync to a maxium  of 58 degrees. Thus the playermodel will still looks like normal, but the real hitbox is being shifted to a different angle. Also, most cheat provides also using a LBY breaker in order to achive a 118 degrees of legit anti-aim.
 
- ![This is how legit anti-aim looks like nowdays.](https://i.imgur.com/MgQ1jpJ.png)
+ ![This is how legit anti-aim looks like. The green part is what other players will see and the part is where the actual hitbox and playermodel is located ](https://i.imgur.com/MgQ1jpJ.png)
 
 
- * Slient aim
+ * Slient aim - Slient aims wil allows you to freely moves your character without looks like snapping your corsshair into the enmeny's head instantly. In the past, there is also a server-side slient-aim, which means other players will also see you are not snaping into other player's head. However that was patched, and now there is only client-side slient aim available, which means in overwatch or demo, they will see you snaps into other player's head instantly.
 
- * Spread / NoSpread
+ * Spread / NoSpread - All weapons have spread in CSGO. In a NoSpread 
 
- * Desync
+ * LBY - A short term for lower body yaw.
 
- * Reslover 
+ * Desync - 
 
- * FakeLag
+ * Reslover - 
 
- * ESP
+ * FakeLag - 
 
- * ASUS Walls
+ * FOV - Short term for "Field Of View". Which is a feature for the aimbot to dertime the FOV range should the aimbot active.
 
- Cheat Features (hvh cheat features will be under the cfg guide)
+ * ESP - As know as "walls /wall hacking / visual assiatance". Which allows the user to see thorugh a playter thorugh various obstacle such as walls, smoke, etc. Most ESP provide multiple options for the user to set up, such as shading the playermodel, types of ESP, or what object sould be seeing through.
+
+ * ASUS Walls - A cheat feature which allows you to seeing through specific walls. It was achieved by exploiting a driver provided by ASUS, which allows to control the transparency of specific materials / textures.
+
+
+
+ * Name stealer
 
 
 
 • Smoothing - affects the speed at which the aimbot 
-• Hitbox - what the aimbot will aim at.
 
 • Delay - the delay before the aimbot acitvates
 
