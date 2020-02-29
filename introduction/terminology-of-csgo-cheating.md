@@ -157,19 +157,36 @@ Misc
 
 * NN - Short term for "No-namer". Which stands for a cheater that nobody knows him. Mostly used as an insult to another cheater. 
 
-* Big namer - Which is different from a no-namer, a big namer is someone who is famous in the HvH community, which usually is someone good at HvH and posts media on different social media platforms regularly.
+* Big namer - Antonym of "no-namer"; a big namer is someone who is famous in the HvH community, which usually is someone good at HvH and posts media on different social media platforms regularly.
 
 * cya@media - similar as people "Hello youtube", which is use as to notify another player / cheat that he is going to be on public media.
 
-* uff ja - "Yes" in german. Just a expression used in the end of a sentence.
+* uff ja - "Yes" in german. Just a expression used in the end of a sentence. Firstly used by root back in 2009 in CS:S days when he was trying to sell his cheat with the moto: "We can and we will, uff yaa $".
 
-* hhhhhh - A HvH slang means for "Ha Ha Ha", a representation of laughing.
+* hhhh - Arabic slang means for "Ha Ha Ha", a representation of laughing.
 
 * laff - A HvH slang stands for laugh. 
 
 * n1 -  A HvH slang. Stands for "nice one".
 
 * who.ru - A HvH slang represents "who are you".
+
+* ks omk - Arabic swear word, literal meaning is "your mothers vagina". One of the strongest and harshest swear words in arabic language, anyone will get triggered by it.
+
+* ga7ba - Arabic swear word, meaning "whore".
+
+* sharmoota - Synonym of "ga7ba", also meaning "whore".
+
+* gondon - Russian swear word, meaning "prick"
+
+* pizda - Russian swear word, meaning "vagina"
+
+* pizdetc - Russian swear word, meaning "pussy". Usually used on men.
+
+* hdf - German swear word, meaning "Halt die fresse" which translates to "Shut the fuck up".
+
+
+
 
 
 
