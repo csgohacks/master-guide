@@ -41,9 +41,11 @@
 ## Free and pastes <a id="pastes"></a>
 
 * [Introduction](pastes/introduction.md)
+* [Ratpoision](pastes/ratpoision/README.md)
+  * [Untitled](pastes/ratpoision/untitled-1.md)
+  * [Untitled](pastes/ratpoision/untitled.md)
 * [Pastes](pastes/untitled-4/README.md)
   * [How to set up the development environment](pastes/untitled-4/how-to-set-up-the-development-environment.md)
-  * [Ratpoision](pastes/untitled-4/ratpoision.md)
   * [Sensum](pastes/untitled-4/untitled-2.md)
   * [Osiris](pastes/untitled-4/osiris/README.md)
     * [Untitled](pastes/untitled-4/osiris/untitled.md)
@@ -86,6 +88,7 @@
   * [Legit](cheat-configuration/untitled-2/untitled-5.md)
   * [Blatant](cheat-configuration/untitled-2/untitled-4.md)
   * [HvH](cheat-configuration/untitled-2/untitled-3.md)
+* [Ratpoision](cheat-configuration/ratpoision.md)
 * [Osiris](cheat-configuration/osiris.md)
 * [Onetap crack](cheat-configuration/onetap-crack.md)
 * [Fatality crack](cheat-configuration/fatality-crack.md)
@@ -122,9 +125,9 @@
 
 ## Miscellaneous
 
-* [Tips for legit players](miscellaneous/tips-for-legit-players.md)
+* [Tips for legit players](miscellaneous/untitled.md)
 * [Scams](miscellaneous/scams.md)
 * [Things to do when your account got banned](miscellaneous/things-to-do-when-your-account-got-banned.md)
 * [How to start coding a cheat](miscellaneous/how-to-start-coding-a-cheat.md)
-* [Final words](miscellaneous/final-words.md)
+* [Final words](final-words.md)
 
