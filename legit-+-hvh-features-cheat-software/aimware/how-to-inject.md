@@ -31,4 +31,4 @@ Then a window should pop up and ask for you aimware forum username and password.
 
 ![](https://i.imgur.com/6NS5iFm.png)
 
-After you inputed your username and password, then a window will pop out to let you select which c
+After you inputed your username and password, then a window will pop out to let you select which cheat you have 
