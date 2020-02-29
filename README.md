@@ -1,6 +1,6 @@
 # Welcome !
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 This guide aims to give provide a master guide on cheating in Counter-Strike : Global offensive. This guide is divided into main 5 parts:
@@ -38,6 +38,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/matt1tk"><img src="https://avatars0.githubusercontent.com/u/54869024?v=4" width="100px;" alt=""/><br /><sub><b>matt1tk</b></sub></a><br /><a href="#projectManagement-matt1tk" title="Project Management">📆</a></td>
     <td align="center"><a href="https://github.com/danielchim"><img src="https://avatars1.githubusercontent.com/u/12156547?v=4" width="100px;" alt=""/><br /><sub><b>danielchim</b></sub></a><br /><a href="#content-danielchim" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/earlviking"><img src="https://avatars2.githubusercontent.com/u/61621750?v=4" width="100px;" alt=""/><br /><sub><b>earlviking</b></sub></a><br /><a href="#content-earlviking" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/r9119"><img src="https://avatars0.githubusercontent.com/u/59576343?v=4" width="100px;" alt=""/><br /><sub><b>Rami T</b></sub></a><br /><a href="#content-r9119" title="Content">🖋</a></td>
   </tr>
 </table>
 
