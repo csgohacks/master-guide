@@ -2,11 +2,20 @@
 
 ## Anti-Cheats
 
+## VAC (Valve Anti-Cheat)
+Valve Anti-Cheat is the default anti-cheat software used in Counter-Strike: Global Offensive (CSGO). (TODO: remove all the content after this setence in VAC section,don't trust anything in VAC introduction!) Which uses signature detection
+to detect whether a program is modifiying the memory address for CSGO. Most cheating software introduced here are aimed to bypass VAC with different methods.
+
 ## VAC vs VACNET
+A lost of people get confused about VAC and VACNET, thinking they are the same stuff, which in fact isn't.
 
 VAC is an anti cheat. It detects cheats on your computer. It's generally not very secure.
 
 VACNET is an "AI" system that can detect cheaters. It is generally only effective against spin botters. It recently had an update that stated there will be less spin botters in overwatch. Whether this means they will insta ban afterwards or it requires less confirmations, no one is sure.
+
+## ESEA Anti-Cheat
+
+--TODO
 
 ## FACEIT server side
 
