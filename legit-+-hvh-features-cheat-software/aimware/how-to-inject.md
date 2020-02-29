@@ -21,7 +21,7 @@ Then click on the VIP panel, and navigate to downloads section:
 
 ![](https://i.imgur.com/R6AYQDS.png)
 
-After that, you have two options: download the legacy client or the V5 client. The v5 client will allows you to inject both v5 and v4 version of the cheat, while the legacy client only allows you to inject the v4 verison of the cheat. In this tutoiral, we will only cover the v5 client first.
+After that, press the download V5 client button.
 
 After you downloaded the client, it should be a exectable file with a random filename. Double click it to open.
 
