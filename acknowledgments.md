@@ -2,4 +2,8 @@
 
 We sincerely thank to theese people who helped in this project:
 
-\n TODO
+| hackintosh12945 | testing |
+|-----------------|---------|
+|                 |         |
+|                 |         |
+|                 |         |
