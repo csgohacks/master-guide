@@ -9,14 +9,14 @@ A good config can help you to get more kills, but the most important thing is yo
 It's inevitable that youtubers configs get leaked and if you know where to look you can find almost any youtubers config you want. A good place to start is by looking at leaking websites and the cheat forums themselves, there are a ton of good congifs for free on the forums. Some may be over hyped in the title, like they always are, but doesnt hurt to try them.
 
 Anyways onto the leaking forums, here are some:
-Teeesense.xyz
-Streetwits.xyz
-Void.to
-hentaiware.moe
-sleek.rip
-horrid.pw
-clowned.cc
-failure.website
-spamtec.cc
+Teeesense.xyz,
+Streetwits.xyz,
+Void.to,
+hentaiware.moe,
+sleek.rip,
+horrid.pw,
+clowned.cc,
+failure.website,
+spamtec.cc,
 
 Some of the aformentioned websites are invite only sadly, but in the end almost all the websites have the same leaked configs.
