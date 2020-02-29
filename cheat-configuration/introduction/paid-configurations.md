@@ -2,7 +2,7 @@
 
 You may see lot's of famous youtubers are dominating in every hvh match, while you only barely killing a player. Then theese youtubers told you to join their membership to get access to their configs. You instantly join their membership, download their config, try it out... Aaand nothing changed. You're still gettting killed by other players, with yourself still wondering "How am I still doing badly, even though I am using their config"
 
-## Config don't represent the whole picture
+## Configs don't represent the whole picture
 A good config can help you to get more kills, but the most important thing is your playstyle. You need both to to dominate a match. Also, there is the sad truth that you may not be using the same config as the youtubers are using themselves, which means they might be selling a fake config. Even if they are selling the same config as they show in their videos, you still have the chance that it might not suit your playstyle, because its made for their own playstyle and not yours.
 
 ## Leaked Configs
