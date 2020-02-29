@@ -3,13 +3,12 @@
 If you just purchased aimware, follow the following steps:
 
 ## Prerequisites
+
 Before injecting aimwarre, make sure you have followed the following steps:
 
 * Disable you antivirus software
-
 * Shuts down steam entirely
-
-* (Recommended) Installed all the redistributales in the previous section.
+* \(Recommended\) Installed all the redistributales in the previous section.
 
 ## Download the loader
 
@@ -31,4 +30,9 @@ Then a window should pop up and ask for you aimware forum username and password.
 
 ![](https://i.imgur.com/6NS5iFm.png)
 
+<<<<<<< HEAD
 After you inputed your username and password, then a window will pop out to let you select which cheat you have 
+=======
+After you inputed your username and password, then a window will pop out to let you select which c
+
+>>>>>>> refs/remotes/origin/master
