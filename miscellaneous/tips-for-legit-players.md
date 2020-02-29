@@ -1,0 +1,2 @@
+# Tips for legit players
+
