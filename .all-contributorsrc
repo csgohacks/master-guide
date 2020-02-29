@@ -13,6 +13,33 @@
       "contributions": [
         "projectManagement"
       ]
+    },
+    {
+      "login": "danielchim",
+      "name": "danielchim",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/12156547?v=4",
+      "profile": "https://github.com/danielchim",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "earlviking",
+      "name": "earlviking",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/61621750?v=4",
+      "profile": "https://github.com/earlviking",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "r9119",
+      "name": "Rami T",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/59576343?v=4",
+      "profile": "https://github.com/r9119",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
