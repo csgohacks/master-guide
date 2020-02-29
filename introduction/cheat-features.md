@@ -12,25 +12,25 @@
     * Yaw   (Rotation along the Y axis)
     * Roll  (Rotation along the Z axis)
 
-As we mentioned before, the way aimbot (What we are talking about here is rage aimbot) works is by moving your crosshair to the enemy's head. So how anti-aim works, is to modify the angle of the playermodel's head by editing the values in pitch, yaw or roll, so that the aimbot will need to calculate the angle of the enemy's head, causing the chances of getting hit will be lower. One of the popular anti-aim, which is used to be spinbot, is achieved by modifying the yaw angle from -180 to 180 in one second, causing the playermodel looks like spinning. However nowdays the most common type of anti-aim are emotion (45 degrees) on pitch with static desync or jitter.
+As we mentioned before, the way aimbot (What we are talking about here is rage aimbot) works is by moving your crosshair to the enemy's head. So how anti-aim works, is to modify the angle of the playermodel's head by editing the values in pitch, yaw or roll, so that the aimbot will need to calculate the angle of the enemy's head, causing the chances of getting hit will be lower. One of the popular anti-aim, which is used to be spinbot, is achieved by modifying the yaw angle from -180 to 180 in one second, causing the playermodel looks like spinning. However nowadays the most common type of anti-aim are emotion (45 degrees) on pitch with static desync or jitter.
 
- It was accidentally created by some cheat develpoer trying to recreate an air stuck/fake lag exploit. So long story short, the server displays incorrect information to the players about your hitbox location, which displays something like this: 
+ It was accidentally created by some cheat developer trying to recreate an air stuck/fake lag exploit. So long story short, the server displays incorrect information to the players about your hitbox location, which displays something like this:
 
- ![This is what normal csgo hvh scene's anti-aim be like nowdays,the playermodel's head looking down and their body may facing to the direction of the wall.](https://i.ytimg.com/vi/M2Tvf0EOXik/maxresdefault.jpg)
+ ![This is what normal csgo hvh scene's anti-aim be like nowdays, the playermodel's head looking down and their body may facing to the direction of the wall.](https://i.ytimg.com/vi/M2Tvf0EOXik/maxresdefault.jpg)
 
- * Legit Anti-Aim
+ * Legit Anti-Aim - Anti aim, but not rage bot. Moves your hitbox left and right, not down like a spin bot. Can be used in legit games, but a lot of cheats still slide with legit aa (the player's feet erratically slide and don't walk), which is a dead giveaway. Used mostly in legit hvh / semi raging. Can be very difficult to resolve.
 
- * Slient aim
+ * Slient aim - makes the aimbot not show up on your screen.
 
- * Spread / NoSpread
+ * Spread / NoSpread - spread is servers with the inherent randomness of csgo weapons enabled. Nospread is without the randomness. No spread hvh is very different than spread hvh.
 
  * Desync
 
- * Reslover 
+ * Resolver - code that tries to figure out the actual hitbox of players and ignore the anti aim. Legit anti aim resolvers do exist but legit aa is harder to resolve. In hvh, resolver is to find the real head.
 
- * FakeLag
+ * FakeLag - chokes the network to make you appear like you're glitching across the screen.
 
- * ESP
+ * ESP - Extra sensory perception (any sort of visual feature that you don't get while playing csgo)
 
  * ASUS Walls
 
@@ -38,7 +38,7 @@ As we mentioned before, the way aimbot (What we are talking about here is rage a
 
 
 
-• Smoothing - affects the speed at which the aimbot 
+• Smoothing - affects the speed at which the aimbot
 • Hitbox - what the aimbot will aim at.
 
 • Delay - the delay before the aimbot acitvates
