@@ -5,11 +5,11 @@ Theese are the terms that are commomly used in the CSGO cheating community:
 ## Cheat Software-related
 * P2C - Cheat software that requires the user to pay for it.
 
-* F2C - Cheat software that don't requires the user to pay for it, mostly are external cheats.
+* F2C - Cheat software that don't requires the user to pay for it, some are external cheats.
 
-* Paste - Cheat software that their source code are based on some open-source code that is available on popular code hosting websites such as github. However so most of them behaves quite bad and the chances of getting detected by anti-cheat software are very high. Also some scammers would use them as a base to scame people. 
+* Paste - Cheat software that their source code are based on some open-source code that is available on popular code hosting websites such as github. However so most of them behaves quite bad and the chances of getting detected by anti-cheat software are very high. Also some scammers would use them as a base to scame people.
 
-However cheaters also used this term as an irony to their paid cheat behaves like those cheats. 
+However cheaters also used this term as an irony to their paid cheat behaves like those cheats.
 
 * Crack - Cheats that are used to be paid and now being accessible for free.
 
@@ -48,15 +48,15 @@ As we mentioned before, the way aimbot (What we are talking about here is rage a
 
  * LBY - A short term for lower body yaw.
 
- * Desync - 
+ * Desync -
 
- * Reslover - 
+ * Reslover -
 
  * Backtrack - An exploit which allows you to shoot at where a certain player was and still hit them. Usually is configured in ticks or ms, with a maximum of 200ms.
- 
+
  In CSGO, in order to reduce latency between client and the server, a tick system is designed. What is does is the client will collect all the local data, compressed it as a tick and send it to the server. Then the server collects the ticks from different client in a specificed time limit (which is 64 tick in offical valve servers while some community server servers will set to 128 tick.), then send the calculated result to the clients. Thus the client is always serval ticks ahead from the server, the tick which is used to determine the hitbox is the first tick chocked from the client. And what backtrack does is by boradcasting a history recorded tick to the server. This is also used in fake angles, which is achieved by boradcasting a fake tick to other client from the server, however this is patched in 2018.
 
- * FakeLag - Which will let the players looks like freezing bewteen frames. It works slimar to using a lag switch, in order to not let other players 
+ * FakeLag - Which will let the players looks like freezing bewteen frames. It works slimar to using a lag switch, in order to not let other players
 
  * FOV - Short term for "Field Of View". Which is a feature for the aimbot to dertime the FOV range should the aimbot active.
 
@@ -72,7 +72,7 @@ As we mentioned before, the way aimbot (What we are talking about here is rage a
 
 
 
-• Smoothing - affects the speed at which the aimbot 
+• Smoothing - affects the speed at which the aimbot
 
 • Delay - the delay before the aimbot acitvates
 
@@ -139,7 +139,7 @@ Misc
 
 * 1 - Means only using one shot to kill an enemy. Also represents "p" in some cases.
 
-* Baim - Stands for "Body-aim". 
+* Baim - Stands for "Body-aim".
 
 * Sliding - When a cheater toggle side walk, other players will see the legs of  the cheater's playermodel becomes frozen, looks like sliding.
 
@@ -147,7 +147,7 @@ Misc
 
 
 
-* Dumping fake - 
+* Dumping fake -
 
 
 
@@ -155,7 +155,7 @@ Misc
 
 * Trashtalking - Mostly happenes during a HvH or before a HvH match. In order to make another cheater becomes angry and may toggle his rage cheat configuration.
 
-* NN - Short term for "No-namer". Which stands for a cheater that nobody knows him. Mostly used as an insult to another cheater. 
+* NN - Short term for "No-namer". Which stands for a cheater that nobody knows him. Mostly used as an insult to another cheater.
 
 * Big namer - Antonym of "no-namer"; a big namer is someone who is famous in the HvH community, which usually is someone good at HvH and posts media on different social media platforms regularly.
 
@@ -165,7 +165,7 @@ Misc
 
 * hhhh - Arabic slang means for "Ha Ha Ha", a representation of laughing.
 
-* laff - A HvH slang stands for laugh. 
+* laff - A HvH slang stands for laugh.
 
 * n1 -  A HvH slang. Stands for "nice one".
 
@@ -184,10 +184,3 @@ Misc
 * pizdetc - Russian swear word, meaning "pussy". Usually used on men.
 
 * hdf - German swear word, meaning "Halt die fresse" which translates to "Shut the fuck up".
-
-
-
-
-
-
-

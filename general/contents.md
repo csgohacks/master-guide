@@ -130,4 +130,3 @@
 * [Things to do when your account got banned](miscellaneous/things-to-do-when-your-account-got-banned.md)
 * [How to start coding a cheat](miscellaneous/how-to-start-coding-a-cheat.md)
 * [Final words](final-words.md)
-
