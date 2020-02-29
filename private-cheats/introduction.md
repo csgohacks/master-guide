@@ -23,4 +23,4 @@ And here are some examples of private cheats.
 --TODO
 
 ## We missed out some private cheats you know?
---TODO: Just tell people stay back from those cheats first -even they are legit
+--TODO: Just tell people stay back from those cheats first -even they are legit cheat providers
