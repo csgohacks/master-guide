@@ -8,7 +8,7 @@ Valve Anti-Cheat is the default anti-cheat software used in CSGO. (TODO: remove 
 to detect whether a program is modifiying the memory address for CSGO. Most cheating software introduced here are aimed to bypass VAC with different methods.
 
 ## VAC vs VACNET
-A lost of people get confused about VAC and VACNET, thinking they are the same stuff, which in fact isn't.
+A lot of people get confused about VAC and VACNET, thinking they are the same stuff, which in fact isn't.
 
 VAC is an anti cheat. It detects cheats on your computer. It's generally not very secure.
 
