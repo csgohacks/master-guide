@@ -1,13 +1,15 @@
 # Anti-Cheats
 
 ## Anti-Cheats
-Here we will introduce some common anti-cheats for Counter-Strike: Global Offensive (CSGO). There are the most common anti-cheat: VAC (Valve Anti-Cheat) and other league cheats. In general, league cheats are more harder to bypass and way more expensive while cheats that aimed to bypass VAC are way more cheaper, while the bypass methods are more easier.
 
-## VAC (Valve Anti-Cheat)
-Valve Anti-Cheat is the default anti-cheat software used in CSGO. (TODO: remove all the content after this setence in VAC section,don't trust anything in VAC introduction!) Which uses signature detection
-to detect whether a program is modifiying the memory address for CSGO. Most cheating software introduced here are aimed to bypass VAC with different methods.
+Here we will introduce some common anti-cheats for Counter-Strike: Global Offensive \(CSGO\). There are the most common anti-cheat: VAC \(Valve Anti-Cheat\) and other league cheats. In general, league cheats are more harder to bypass and way more expensive while cheats that aimed to bypass VAC are way more cheaper, while the bypass methods are more easier.
+
+## VAC \(Valve Anti-Cheat\)
+
+Valve Anti-Cheat is the default anti-cheat software used in CSGO. \(TODO: remove all the content after this setence in VAC section,don't trust anything in VAC introduction!\) Which uses signature detection to detect whether a program is modifiying the memory address for CSGO. Most cheating software introduced here are aimed to bypass VAC with different methods.
 
 ## VAC vs VACNET
+
 A lot of people get confused about VAC and VACNET, thinking they are the same stuff, which in fact isn't.
 
 VAC is an anti cheat. It detects cheats on your computer. It's generally not very secure.

@@ -1,8 +1,10 @@
 # How to inject
 
+## How to inject
+
 If you just purchased aimware, follow the following steps:
 
-## Prerequisites
+### Prerequisites
 
 Before injecting aimwarre, make sure you have followed the following steps:
 
@@ -10,7 +12,7 @@ Before injecting aimwarre, make sure you have followed the following steps:
 * Shuts down steam entirely
 * \(Recommended\) Installed all the redistributales in the previous section.
 
-## Download the loader
+### Download the loader
 
 First of, head up to their [forums](https://aimware.net/forum/index.php), which should be look like this:
 
@@ -30,9 +32,11 @@ Then a window should pop up and ask for you aimware forum username and password.
 
 ![](https://i.imgur.com/6NS5iFm.png)
 
-<<<<<<< HEAD
-After you inputed your username and password, then a window will pop out to let you select which cheat you have 
-=======
+&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
+
+## After you inputed your username and password, then a window will pop out to let you select which cheat you have
+
 After you inputed your username and password, then a window will pop out to let you select which c
 
->>>>>>> refs/remotes/origin/master
+> > > > > > > refs/remotes/origin/master
+

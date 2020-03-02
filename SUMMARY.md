@@ -15,7 +15,7 @@
 
 ## Cheat Software
 
-* [Introduction](cheat-software/untitled.md)
+* [Introduction](pastes/introduction.md)
 * [Anti-Cheats](cheat-software/anti-cheats.md)
 * [Common mistakes when choosing a cheat software](cheat-software/common-mistakes-when-choosing-a-cheat-software.md)
 * [Pastes and scams](cheat-software/pastes-and-scams.md)
