@@ -38,5 +38,5 @@ Then a window should pop up and ask for you aimware forum username and password.
 
 After you inputed your username and password, then a window will pop out to let you select which c
 
-> > > > > > > refs/remotes/origin/master
+
 

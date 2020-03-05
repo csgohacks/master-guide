@@ -49,6 +49,7 @@
 ### Config
 
 * In .cfg file format, However not text-editable.
+* Config files are located at a generated folder with random text at %appdata%
 * LUAs are in .lua file format as a normal LUA script, text-editable
 
 ### Services
