@@ -21,7 +21,6 @@ Voluntarily die against bad players! In rounds where you're up by a handful, los
 This is why people call you out most of the time. Silver movement, Global aim. Just hack barely enough to win at your rank. No more.
 
 ## High-rank matches
-
 TODO
 
 ## Don't rage! 

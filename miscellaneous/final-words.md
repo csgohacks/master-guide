@@ -1,4 +1,3 @@
 # Final words
 
-## hi
 

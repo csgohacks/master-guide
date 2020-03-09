@@ -12,6 +12,7 @@ It's inevitable that youtubers configs get leaked and if you know where to look 
 
 Here are some examples of config-leaking websites:
 
+* [Matt1's leaked configuration collection](https://old.reddit.com/r/Csgohacks/comments/f1wdlb/freak_config_pack_reuploaded/)
 * [Teeesense.xyz](https://teeesense.xyz/forums/)
 * [Streetwits.xyz](https://streetwits.xyz/forums/)
 * [Void.to](https://void.to/)
@@ -22,5 +23,5 @@ Here are some examples of config-leaking websites:
 * failure.website
 * [spamtec.cc](http://spamtec.cc/)
 
+  
 Some of the aformentioned websites are invite only sadly, but in the end almost all the websites have the same leaked configs.
-
