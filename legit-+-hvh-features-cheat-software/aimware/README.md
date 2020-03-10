@@ -20,7 +20,7 @@
 
 ### Legitbot
 
-* Highly customizable option, which means will take time to configure
+* Highly adjustable option, which means will take time to configure
 * Smooth aimbot
 * Dymanic triggerbot
 

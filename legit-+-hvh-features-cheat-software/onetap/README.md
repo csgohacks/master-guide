@@ -20,6 +20,7 @@
 * Limited option for legitbot
 * Lesser humanized options for aimbot
 * Triggerbot behaves like a rage aimbot
+> onetap where it's super fucking snappy and blatant overall. ---u/hoursefucker88
 
 ### Ragebot
 

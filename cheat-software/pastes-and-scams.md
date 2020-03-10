@@ -12,7 +12,7 @@ Plus we do not recommend people buying Ezfrag's premium subscription, since it i
 
 Projecy infinty also has a free version, but since it has been idenitied as a paste, we do not recommend you to try it out.
 
-## zappped.cc
+## Zappped
 ## Controversial Section!
 * This section describes a highly controversial event/item that may subject to change, you should NOT take this an aboulute reference. By reading the following section, you are agreed that r/csgohacks and CSGO cheating masterguide contributors will not bear any reponsibility for any misleading information.
 

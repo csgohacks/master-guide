@@ -15,7 +15,7 @@ And here are some examples of private cheats.
 
 ## Skeet / Gamesense
 [TODO:Skeet logo+menu]
-Gamesense.pub (previously known as skeet.cc) is a private cheat provider started from 2017. It is considered the top tier cheat provider in the CSGO cheating scene. The menu has been pointed as a standard for most startup cheat providers/self-coded cheats. It has an un-hittable Anti-Aim and a 'godlike' reslover back during it's release. Despite nowdays there are lost of both private and cheats started to comes up with gamesense, it's still the top cheat for CSGO, invite only.
+Gamesense.pub (previously known as skeet.cc) is a private cheat provider started from 2017. It is considered the top tier cheat provider in the CSGO cheating scene. The menu has been pointed as a standard for most startup cheat providers/self-coded cheats. It has an un-hittable Anti-Aim and a 'godlike' reslover back during it's release. Despite nowdays there are lost of both private and cheats started to comes up with gamesense, it's still the top cheat for CSGO. Invite only.
 [TODO:Skeet unhittableaa]
 
 
