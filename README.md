@@ -18,14 +18,14 @@ We highly welcome any to contribute to this masterguide by creating a pull reque
 
 ## Contributers
 
-* *Throwaway2772 (matt1)
-* *Hackintosh12945
-* *Horsefucker88 (Dream)
-* *BigJuicyLawnMover
-* *R9119 (Rami)
-* *Earlviking (mcr)
-* *panic-at-the-party1 (Factor)
-* *RatPoisonRat (Ratto)
+* *Throwaway2772 (matt1)*
+* *Hackintosh12945*
+* *Horsefucker88 (Dream)*
+* *BigJuicyLawnMover*
+* *R9119 (Rami)*
+* *Earlviking (mcr)*
+* *panic-at-the-party1 (Factor)*
+* *RatPoisonRat (Ratto)*
 
 ## License
 
