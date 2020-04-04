@@ -29,7 +29,7 @@ We highly welcome any to contribute to this masterguide by creating a pull reque
 
 ## License
 
-This masterguide is created uder the MIT License, for more details please read our [LICENSE](https://github.com/csgohacks/master-guide/blob/master/LICENSE) file.
+This masterguide is created under the MIT License, for more details please read our [LICENSE](https://github.com/csgohacks/master-guide/blob/master/LICENSE) file.
 
 
 
