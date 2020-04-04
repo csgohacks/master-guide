@@ -16,9 +16,16 @@ You can check out the masterguide at [here](https://matt12945.gitbook.io/csgo-su
 
 We highly welcome any to contribute to this masterguide by creating a pull request or making a issue for any improvements.
 
-## Contributing to this project
+## Contributers
 
-If you're highly interested into this project, please read our code of conduct page first before creating any commits to the project. This will help the whole project can maintain a lightweight and universal style.
+* *Throwaway2772 (matt1)
+* *Hackintosh12945
+* *Horsefucker88 (Dream)
+* *BigJuicyLawnMover
+* *R9119 (Rami)
+* *Earlviking (mcr)
+* *panic-at-the-party1 (Factor)
+* *RatPoisonRat (Ratto)
 
 ## License
 
