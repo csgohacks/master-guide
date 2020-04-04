@@ -107,7 +107,7 @@
 
 ## HvH Cheating
 
-* [Introduction](https://github.com/csgohacks/master-guide/tree/0c31f98bdeae72f577f0cd0e728d3a750375a38f/general/hvh-cheating/untitled.md)
+* [Introduction](https://github.com/csgohacks/master-guide/tree/0c31f98bdeae72f577f0cd0e728d3a750375a38f/general/hvh-cheating/introduction.md)
 * [Playstyle](https://github.com/csgohacks/master-guide/tree/0c31f98bdeae72f577f0cd0e728d3a750375a38f/general/hvh-cheating/playstyle/README.md)
   * [Playstyle and configuration](https://github.com/csgohacks/master-guide/tree/0c31f98bdeae72f577f0cd0e728d3a750375a38f/general/hvh-cheating/playstyle/playstyle-and-configuration.md)
   * [Do’s and dont’s](https://github.com/csgohacks/master-guide/tree/0c31f98bdeae72f577f0cd0e728d3a750375a38f/general/hvh-cheating/playstyle/dos-and-donts.md)
@@ -132,5 +132,5 @@
 * [Scams](https://github.com/csgohacks/master-guide/tree/0c31f98bdeae72f577f0cd0e728d3a750375a38f/general/miscellaneous/scams.md)
 * [Things to do when your account got banned](https://github.com/csgohacks/master-guide/tree/0c31f98bdeae72f577f0cd0e728d3a750375a38f/general/miscellaneous/things-to-do-when-your-account-got-banned.md)
 * [How to start coding a cheat](https://github.com/csgohacks/master-guide/tree/0c31f98bdeae72f577f0cd0e728d3a750375a38f/general/miscellaneous/how-to-start-coding-a-cheat.md)
-* [Final words](https://github.com/csgohacks/master-guide/tree/0c31f98bdeae72f577f0cd0e728d3a750375a38f/general/final-words.md)
+* [Final words](https://github.com/csgohacks/master-guide/tree/0c31f98bdeae72f577f0cd0e728d3a750375a38f/general/miscellaneous/final-words.md)
 

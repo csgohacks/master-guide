@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome !](README.md)
+* [Welcome!](README.md)
 * [Acknowledgments](acknowledgments.md)
 
 ## General
@@ -12,10 +12,12 @@
 * [First steps](introduction/first-steps.md)
 * [Terminology of csgo cheating](introduction/terminology-of-csgo-cheating.md)
 * [Game Bans](introduction/game-bans.md)
+* [Internal vs External](introduction/internal-vs-external.md)
+* [Cheat Features](introduction/cheat-features.md)
 
 ## Cheat Software
 
-* [Introduction](free-and-pastes/introduction.md)
+* [Introduction](cheat-software/introduction.md)
 * [Anti-Cheats](cheat-software/anti-cheats.md)
 * [Common mistakes when choosing a cheat software](cheat-software/common-mistakes-when-choosing-a-cheat-software.md)
 * [Pastes and scams](cheat-software/pastes-and-scams.md)
@@ -38,16 +40,18 @@
   * [How to inject](legit-+-hvh-features-cheat-software/onetap/how-to-inject.md)
   * [Menu introduction](legit-+-hvh-features-cheat-software/onetap/menu-introduction.md)
 
-## Free and pastes <a id="pastes"></a>
+## Free and pastes
 
 * [Introduction](free-and-pastes/introduction.md)
+* [Ratpoison](free-and-pastes/ratpoison/README.md)
+  * [Test1](free-and-pastes/ratpoison/test1.md)
+  * [Test2](free-and-pastes/ratpoison/test2.md)
 * [Pastes](free-and-pastes/pastes/README.md)
   * [How to set up the development environment](free-and-pastes/pastes/how-to-set-up-the-development-environment.md)
-  * [Ratpoision](free-and-pastes/ratpoison/README.md)
   * [Sensum](free-and-pastes/pastes/sensum.md)
   * [Osiris](free-and-pastes/pastes/osiris/README.md)
-    * [Untitled](free-and-pastes/pastes/osiris/test1.md)
-    * [Untitled](free-and-pastes/pastes/osiris/test2.md)
+    * [Test1](free-and-pastes/pastes/osiris/test1.md)
+    * [Test2](free-and-pastes/pastes/osiris/test2.md)
   * [Xy0](free-and-pastes/pastes/xy0.md)
 * [Cracks](free-and-pastes/cracks/README.md)
   * [Onetap crack](free-and-pastes/cracks/onetap-crack/README.md)
@@ -86,11 +90,12 @@
   * [Legit](cheat-configuration/aimware/legit.md)
   * [Blatant](cheat-configuration/aimware/blatant.md)
   * [HvH](cheat-configuration/aimware/hvh.md)
+* [Ratpoison](cheat-configuration/ratpoison.md)
 * [Osiris](cheat-configuration/osiris.md)
 * [Onetap crack](cheat-configuration/onetap-crack.md)
 * [Fatality crack](cheat-configuration/fatality-crack.md)
 
-## Closet / Legit cheating <a id="legit-cheating"></a>
+## Closet / Legit cheating
 
 * [Closet? Legit?](legit-cheating/closet-legit.md)
 * [Closet Cheating](legit-cheating/closet-cheating/README.md)
@@ -98,10 +103,11 @@
 * [Legit Cheating](legit-cheating/legit-cheating/README.md)
   * [Playstyle](legit-cheating/legit-cheating/playstyle.md)
 * [Legit HvH](legit-cheating/legit-hvh.md)
+* [Tips for legits](legit-cheating/tips-for-legits.md)
 
-## HvH Cheating <a id="hvh"></a>
+## HvH Cheating
 
-* [Introduction](hvh-cheating/untitled.md)
+* [Introduction](hvh-cheating/introduction.md)
 * [Playstyle](hvh-cheating/playstyle/README.md)
   * [Playstyle and configuration](hvh-cheating/playstyle/playstyle-and-configuration.md)
   * [Do’s and dont’s](hvh-cheating/playstyle/dos-and-donts.md)
