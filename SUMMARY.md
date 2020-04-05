@@ -17,7 +17,7 @@
 
 ## Cheat Software
 
-* [Introduction](cheat-software/introduction.md)
+* [Introduction](free-and-pastes/introduction.md)
 * [Anti-Cheats](cheat-software/anti-cheats.md)
 * [Common mistakes when choosing a cheat software](cheat-software/common-mistakes-when-choosing-a-cheat-software.md)
 * [Pastes and scams](cheat-software/pastes-and-scams.md)
@@ -97,13 +97,13 @@
 
 ## Closet / Legit cheating
 
-* [Closet? Legit?](legit-cheating/closet-legit.md)
-* [Closet Cheating](legit-cheating/closet-cheating/README.md)
-  * [Playstyle](legit-cheating/closet-cheating/playstyle.md)
-* [Legit Cheating](legit-cheating/legit-cheating/README.md)
-  * [Playstyle](legit-cheating/legit-cheating/playstyle.md)
-* [Legit HvH](legit-cheating/legit-hvh.md)
-* [Tips for legits](legit-cheating/tips-for-legits.md)
+* [Closet? Legit?](closet-legit-cheating/closet-legit.md)
+* [Closet Cheating](closet-legit-cheating/closet-cheating/README.md)
+  * [Playstyle](closet-legit-cheating/closet-cheating/playstyle.md)
+* [Legit Cheating](closet-legit-cheating/legit-cheating/README.md)
+  * [Playstyle](closet-legit-cheating/legit-cheating/playstyle.md)
+* [Legit HvH](closet-legit-cheating/legit-hvh.md)
+* [Tips for legits](closet-legit-cheating/tips-for-legits.md)
 
 ## HvH Cheating
 
@@ -129,6 +129,7 @@
 ## Miscellaneous
 
 * [Tips for legit players](miscellaneous/tips-for-legit-players.md)
+* [Trust Factor](miscellaneous/trust-factor.md)
 * [Scams](miscellaneous/scams.md)
 * [Things to do when your account got banned](miscellaneous/things-to-do-when-your-account-got-banned.md)
 * [How to start coding a cheat](miscellaneous/how-to-start-coding-a-cheat.md)

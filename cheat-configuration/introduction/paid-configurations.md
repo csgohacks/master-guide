@@ -23,5 +23,5 @@ Here are some examples of config-leaking websites:
 * failure.website
 * [spamtec.cc](http://spamtec.cc/)
 
-  
 Some of the aformentioned websites are invite only sadly, but in the end almost all the websites have the same leaked configs.
+
