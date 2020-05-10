@@ -59,9 +59,9 @@ It's a good life lesson in general, if you focus on the journey the result will 
 
 * [Stack overflow](https://stackoverflow.com/):  A website for developers to ask questions, and answer questions about programming. You can always find various examples of different programming issues.
 
-* Google Yes, make use of google's search tools to find solutions before asking questions.
+* Google: Yes, make use of google's search tools to find solutions before asking questions.
 
-* x86 Assembly Disassembler will decompile programs into some x86 assembly code (The reason it's x86 assembly code is because the platform for most of the PC's no matter you're using Intel or AMD, are based on x86 architecture.). Learning them could let you understand what the program is doing. There are a lot of sources available, feel free to google them.
+* x86 Assembly: Disassembler will decompile programs into some x86 assembly code (The reason it's x86 assembly code is because the platform for most of the PC's no matter you're using Intel or AMD, are based on x86 architecture.). Learning them could let you understand what the program is doing. There are a lot of sources available, feel free to google them.
   
 ### Tools
 * Visual Studio: Visual Studio is a extremely powerful IDE for C++ development on Windows. A must have for cheat development.
