@@ -22,9 +22,13 @@ And here are some examples of private cheats.
 
 ## Novolinehook
 
-\[TODO:Novolinehook logo+menu\] Novolinehook.com is a german private cheat provider started in 2017. It is an excellent cheat if you are willing to closet, legit, or even semirage. It is mostly known for its ability to stay undetected, and has dodged many of the recent waves.   
+\[TODO:Novolinehook logo+menu\] Novolinehook.com is a german private cheat provider started in 2017. It is an excellent cheat for players who are aimed to closet, legit, or even semirage cheating. It is mostly known for its ability to stay undetected, and has dodged many of the recent waves. 
+
+Novoline also has a league, and a private vesion (Hook of Ra). League version supports VAC, SMAC, EAC, CEVO, ESL WIRE (unstable), and Faceit Serverside. Also, novolinehook has an decent staff support, with insatnt hwid resets and willing to offer you a remote session support in certain cases.  
+
+However the developers are being reported are being lazy to pushing updates to the cheat. Also keep in mind that this is a legit-focused cheat, so you won't expect to use it fight against other ragers. With being said, it's reslover and legit anti-aim is still useful to fight against other semi-ragers.
+
 This cheat is application only (although you can get invited by admins, but that is highly unlikley). The application process is fairly easy, not many get denied. You fill out an application on their forums and then get sent to do a teamspeak interview.   
-Novoline also has a league, and a private vesion (Hook of Ra). League version supports VAC, SMAC, EAC, CEVO, ESL WIRE (unstable), and Faceit Serverside. Also, novolinehook has an amazing staff support, their hwid resets are almost instant, and staff are always friendly and helpful. My only real complaints are the shitty hvh features and lack of updates. [*Here is a review by mcguidelines*](https://www.youtube.com/watch?v=x_EJ7DoM27Y)
 
 
 ## Fanta

@@ -12,7 +12,7 @@
 
 ### Opinions ahead!
 
-* The following section is only from the users who used aimware as their major cheating software, however theese only should taken as references only.
+* The following section is only from the users who used OneTap as their major cheating software, however theese only should taken as references only.
 * All theese testimonials does not represnt the offical statment of the r/csgohacks subreddit.
 
 ### Legitbot

@@ -34,6 +34,8 @@ As we mentioned before, the way aimbot \(What we are talking about here is rage 
 * Fast duck/unlimited duck - exploit that breaks crouch stamina
 * Name stealer - Which will allows the player to steal other player's name, so that the player will not getting kicked out. Mostly useful when a cheater is raging in casual gamemodes or community servers.
 
+* Inventory unlock: In competitive mode, you're not allowed to change your weapon choice once the match was started. With unventory unlock, you can access the inventory panel when the match is going.
+
 • Smoothing - affects the speed at which the aimbot
 
 • Delay - the delay before the aimbot acitvates

@@ -2,6 +2,32 @@
 
 Theese are some cheats that has been identified as scams, so just stay away from them.
 
+#TODO Section
+Theese are cheats that going to avoid. However i need reasons on them.
+## DarkAim
+
+## InsanityCheats
+
+## IWantCheats
+
+## Singularity.wtf
+
+## Icheat.io
+
+## DeadlyCheats
+
+## 420cheats
+
+## Omniaim
+
+## 5dollarcheats
+
+## Redeye Cheats
+
+## abyss.gg
+
+# End of TODO
+
 ## Ezfrags
 
 Ezfrags is not techinally a paste, but with it's high detection rate so just do not use it.

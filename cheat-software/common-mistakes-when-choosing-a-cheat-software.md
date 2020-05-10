@@ -12,6 +12,9 @@ Most common cheat providers are offering an internal cheat, due to their much be
 
 What ISN'T different between the 2: detection is not easier or harder on internal or external. They are about the individual cheat.
 
+## Where should I obtain the sources?
+A lot of people have learn about cheating mostly from influencers, cheater themselves. However please notice that the cheat they are recommending only fits their case, might not suitable to yours. Specially on youtube. Some youtube influencers will make fake reviews if they got sponsored within a amount of money. So if you're going to find reviews about different cheat, you should watch those who would also discuss about the downsides of the cheat they're reviewing. Again, that the cheat they are reviewing may only fits their case, might not suitable to yours. Tho watching those reviews could help you find a cheat to start around.
+
 ## What shall I consider when choosing my first cheat?
 
 This digram helps you to choose your first cheat by asking yourself various questions:
@@ -21,7 +24,7 @@ This digram helps you to choose your first cheat by asking yourself various ques
 * What kind of features do I want most? Legit cheating features, or with rage \(spinbot\) feature too?
 * If I will not going to pay for a cheat, do I have programming experience to fix the public sources available?...etc
 
-![Diagram when choosing an CSGO cheat.](https://i.imgur.com/st4IqSi.png)
+![Diagram when choosing an CSGO cheat. (Shoutout to matt/throwaway who made this digram, a detailed version could be found here: https://www.zenflowchart.com/docs/view/kpPy7LDdw25Xb1YKXAxl)](https://i.imgur.com/st4IqSi.png)
 
 After you go through this digram, you should have a clear mind of which cheat you should have.
 

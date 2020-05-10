@@ -18,7 +18,7 @@ We highly welcome any to contribute to this masterguide by creating a pull reque
 
 ## Contributers
 
-* _Throwaway2772 \(matt1\)_
+* _Throwaway2772 \(matt1\)_ 
 * _Hackintosh12945_
 * _Horsefucker88 \(Dream\)_
 * _R9119 \(Rami\)_
@@ -32,4 +32,5 @@ This masterguide is created under the MIT License, for more details please read 
 
 ## In memorial of
 * _BigJuicyLawnMover_
+
 
