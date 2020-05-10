@@ -12,7 +12,7 @@ Overwatch bans are manual bans where players watch your demos and ban you.
 
 ## Griefing ban
 
-Griefing bans are overwatch bans that are "minor", aka aren't permanent.
+Griefing bans are overwatch bans that are "minor", will last 30 days the first time, but will turn permenant if you get it twice.
 
 ## Untrusted
 
