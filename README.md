@@ -1,6 +1,6 @@
 # Welcome!
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](./#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](./#contributors-)
 
 This guide aims to give provide a master guide on cheating in Counter-Strike : Global offensive. This guide is divided into main 5 parts:
 
