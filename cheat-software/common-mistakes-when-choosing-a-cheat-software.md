@@ -21,7 +21,7 @@ This digram helps you to choose your first cheat by asking yourself various ques
 * What kind of features do I want most? Legit cheating features, or with rage \(spinbot\) feature too?
 * If I will not going to pay for a cheat, do I have programming experience to fix the public sources available?...etc
 
-![Diagram when choosing an CSGO cheat.](https://i.imgur.com/VfvfMXM.jpg)
+![Diagram when choosing an CSGO cheat.](https://i.imgur.com/st4IqSi.png)
 
 After you go through this digram, you should have a clear mind of which cheat you should have.
 
