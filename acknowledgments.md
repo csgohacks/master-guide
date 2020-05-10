@@ -9,8 +9,7 @@ Thanks goes to these wonderful people \([emoji key](https://allcontributors.org/
 | Project Management | Editor | Editor | Editor | Editor | Editor |
 | [matt1tk](acknowledgments.md) | [danielchim](acknowledgments.md) | [earlviking](acknowledgments.md) | [Rami T](acknowledgments.md) | [Factor101](acknowledgments.md) | [horsefucker88](acknowledgments.md) |
 |  |  |  |  |  |  |
-| Editor | Editor | Editor |  |  |  |
-| [amWhite](acknowledgments.md) | [Placeholder](acknowledgments.md) | [Placeholder](acknowledgments.md) |  |  |  |
+| Editor | Editor | Editor |  |  |  || [Ratto](acknowledgments.md)  |  |  |
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
 
