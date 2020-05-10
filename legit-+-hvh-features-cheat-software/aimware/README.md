@@ -26,7 +26,7 @@
 
 ### Ragebot
 
-* Anti-Aim is wacky --TODO
+* Anti-Aim is wacky, however a recent update brings a god-like anti-aim method to aimware. --TODO
 * Reslover is extremely un-optimized, causing FPS drop often.
 
 ### Visuals
@@ -40,9 +40,7 @@
 ### Miscellaneous
 
 * Skinchanger and Modelchanger are available. \(Modelchanger requires bypass `sv_pure`\)
-* A feature-rich LUA API which users can create their LUA scripts to customize the cheat's behaviour
-* In v4 the Cheat is barely usable wihtout the assistance of LUA scripts.
-* InV4 there are lots of unecessary features in the cheat, such as walk speed exploit, which only useful on specific community servers. 
+* A feature-rich LUA API which users can create their LUA scripts to customize the cheat's behaviour 
 * Cannot use `sv_cheats 1` command in csgo without turing off Anti-Untrusted in Miscellaneous
 * A live LUA editor is available in v5.
 
@@ -63,7 +61,7 @@
 ### Overall
 
 * Decent legitbot
-* Wacky ragebot
+* Improved ragebot
 * Meh Visuals
 * Feature-rich miscellaneous options
 * Bad customer services

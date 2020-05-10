@@ -4,4 +4,5 @@ Onetap crack is a cracked version of Onetap v2 by toast, wzn, and d3x on Unknown
 
 ## Soures to obtain a onetap crack
 
-Since the first patch to onetap crack, many people have tried to fixed the cheat by fixing the offsets []
+Since the first patch to onetap crack, many people have tried to fixed the cheat by fixing the offsets, a
+

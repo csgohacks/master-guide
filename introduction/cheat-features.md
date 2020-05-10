@@ -1,4 +1,4 @@
-# Cheat Features
+## Cheat feautres
 
 * Aimbot - An aimbot is a software tool that allow the player to shoot enemies without having to aim their weapon. In most cheat software theere are two types of aimbot: Legit and rage aimbot. The legitaimbot will also provide a smoothing function, which determines the speed of the aimbot moves the aim to the enemy's head. As for a rage aimbot, it just behaves like how a general aimbot does, snaps to the enemy's head instantly.
 * Triggerbot - Helps you to shoot towards an enemy when the enemy is located at cheater's crosshair. Usually comes with a delay function to let the user choose the delay of the triggerbot will shoot.
@@ -9,24 +9,32 @@
   * Yaw   \(Rotation along the Y axis\)
   * Roll  \(Rotation along the Z axis\)
 
-As we mentioned before, the way aimbot \(What we are talking about here is rage aimbot\) works is by moving your crosshair to the enemy's head. So how anti-aim works, is to modify the angle of the playermodel's head by editing the values in pitch, yaw or roll, so that the aimbot will need to calculate the angle of the enemy's head, causing the chances of getting hit will be lower. One of the popular anti-aim, which is used to be spinbot, is achieved by modifying the yaw angle from -180 to 180 in one second, causing the playermodel looks like spinning. However nowadays the most common type of anti-aim are emotion \(45 degrees\) on pitch with static desync or jitter.
+As we mentioned before, the way aimbot \(What we are talking about here is rage aimbot\) works is by moving your crosshair to the enemy's head. So how anti-aim works, is to modify the angle of the playermodel's head by editing the values in pitch, yaw or roll, so that the aimbot will need to calculate the angle of the enemy's head, causing the chances of getting hit will be lower. One of the popular anti-aim, which is used to be spinbot, is achieved by modifying the yaw angle from -180 to 180 in one second, causing the playermodel looks like spinning. However nowdays the most common type of anti-aim are emotion \(45 degrees\) on pitch with static desync or jitter.
 
-It was accidentally created by some cheat developer trying to recreate an air stuck/fake lag exploit. So long story short, the server displays incorrect information to the players about your hitbox location, which displays something like this:
+![This is what csgo hvh scene anti-aim be like. The playermodel&apos;s head looking down and their body may facing to the direction of the wall.](https://i.ytimg.com/vi/M2Tvf0EOXik/maxresdefault.jpg)
 
-![This is what normal csgo hvh scene&apos;s anti-aim be like nowdays, the playermodel&apos;s head looking down and their body may facing to the direction of the wall.](https://i.ytimg.com/vi/M2Tvf0EOXik/maxresdefault.jpg)
+* Legit Anti-Aim - Legit anti-aim is slimar to anti-aim, but with a smaller angle. It is a chieved by using desync to a maxium of 58 degrees. Thus the playermodel will still looks like normal, but the real hitbox is being shifted to a different angle. Also, most cheat provides also using a LBY breaker in order to achive a 118 degrees of legit anti-aim.
 
-* Legit Anti-Aim - Anti aim, but not rage bot. Moves your hitbox left and right, not down like a spin bot. Can be used in legit games, but a lot of cheats still slide with legit aa \(the player's feet erratically slide and don't walk\), which is a dead giveaway. Used mostly in legit hvh / semi raging. Can be very difficult to resolve.
-* Slient aim - makes the aimbot not show up on your screen.
-* Spread / NoSpread - spread is servers with the inherent randomness of csgo weapons enabled. Nospread is without the randomness. No spread hvh is very different than spread hvh.
-* Desync
-* Resolver - code that tries to figure out the actual hitbox of players and ignore the anti aim. Legit anti aim resolvers do exist but legit aa is harder to resolve. In hvh, resolver is to find the real head.
-* FakeLag - chokes the network to make you appear like you're glitching across the screen.
-* ESP - Extra sensory perception \(any sort of visual feature that you don't get while playing csgo\)
-* ASUS Walls
+  ![This is how legit anti-aim looks like. The green part is what other players will see and the part is where the actual hitbox and playermodel is located. ](https://i.imgur.com/MgQ1jpJ.png)
 
-  Cheat Features \(hvh cheat features will be under the cfg guide\)
+* Slient aim - Slient aims wil allows you to freely moves your character without looks like snapping your corsshair into the enmeny's head instantly. In the past, there is also a server-side slient-aim, which means other players will also see you are not snaping into other player's head. However that was patched, and now there is only client-side slient aim available, which means in overwatch or demo, they will see you snaps into other player's head instantly.
+* Spread / NoSpread - All weapons have spread in CSGO. So what nospread does is to removing all the bullet spread in the game, no matter when you are jumping, walking or running. It is only available in commnity servers.
+* LBY - A short term for lower body yaw.
+* Desync -
+* Reslover -
+* Backtrack - An exploit which allows you to shoot at where a certain player was and still hit them. Usually is configured in ticks or ms, with a maximum of 400ms.
 
-• Smoothing - affects the speed at which the aimbot • Hitbox - what the aimbot will aim at.
+  In CSGO, in order to reduce latency between client and the server, a tick system is designed. What is does is the client will collect all the local data, compressed it as a tick and send it to the server. Then the server collects the ticks from different client in a specificed time limit \(which is 64 tick in offical valve servers while some community server servers will set to 128 tick.\), then send the calculated result to the clients. Thus the client is always serval ticks ahead from the server, the tick which is used to determine the hitbox is the first tick chocked from the client. And what backtrack does is by boradcasting a history recorded tick to the server. This is also used in fake angles, which is achieved by boradcasting a fake tick to other client from the server, however this is patched in 2018.
+
+* FakeLag - Which will let the players looks like freezing bewteen frames. It works slimar to using a lag switch, in order to not let other players
+* FOV - Short term for "Field Of View". Which is a feature for the aimbot to dertime the FOV range should the aimbot active.
+* ESP - As know as "walls /wall hacking / visual assiatance". Which allows the user to see thorugh a playter thorugh various obstacle such as walls, smoke, etc. Most ESP provide multiple options for the user to set up, such as shading the playermodel, types of ESP, or what object sould be seeing through.
+* ASUS Walls - A cheat feature which allows you to seeing through specific walls. It was achieved by exploiting a driver provided by ASUS, which allows to control the transparency of specific materials / textures.
+* Fast stop - exploit allowing a quicker stop from walking.
+* Fast duck/unlimited duck - exploit that breaks crouch stamina
+* Name stealer - Which will allows the player to steal other player's name, so that the player will not getting kicked out. Mostly useful when a cheater is raging in casual gamemodes or community servers.
+
+• Smoothing - affects the speed at which the aimbot
 
 • Delay - the delay before the aimbot acitvates
 
@@ -73,4 +81,3 @@ Misc
 • Name stealer - changes your name around based on other players’ names in the match with you.
 
 • Slide walk - makes your playermodel slide when walking.
-

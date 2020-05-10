@@ -21,13 +21,15 @@ We highly welcome any to contribute to this masterguide by creating a pull reque
 * _Throwaway2772 \(matt1\)_
 * _Hackintosh12945_
 * _Horsefucker88 \(Dream\)_
-* _BigJuicyLawnMover_
 * _R9119 \(Rami\)_
-* _Earlviking \(mcr\)_
+* _Earlviking \(mcs\)_
 * _panic-at-the-party1 \(Factor\)_
 * _RatPoisonRat \(Ratto\)_
 
 ## License
 
 This masterguide is created under the MIT License, for more details please read our [LICENSE](https://github.com/csgohacks/master-guide/blob/master/LICENSE) file.
+
+## In memorial of
+* _BigJuicyLawnMover_
 

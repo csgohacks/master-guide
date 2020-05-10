@@ -26,7 +26,7 @@
 ### Ragebot
 
 * Anti-Aim is not good nor bad --TODO
-* Reslover often causes FPS drop compared to aimware, while it will forces bodyaim when failed to reslove head. Kinda bad by it's current situation.
+* Reslover less often causes FPS drop compared to aimware, while it will forces bodyaim when failed to reslove head. Kinda bad by it's current situation.
 
 > The resolver is considered highly bipolar and is sometimes dogshit. ---[u/manofeverything](https://www.reddit.com/r/Csgohacks/comments/farrad/i_need_your_feedback/fj03tnh?utm_source=share&utm_medium=web2x)
 

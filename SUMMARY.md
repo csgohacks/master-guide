@@ -128,6 +128,8 @@
 
 ## Miscellaneous
 
+* [Source 2 and HvH](miscellaneous/source2-and-cheats.md)
+* [CSGO Source Code leaks](miscellaneous/csgo-src-leak.md)
 * [Tips for legit players](miscellaneous/tips-for-legit-players.md)
 * [Trust Factor](miscellaneous/trust-factor.md)
 * [Scams](miscellaneous/scams.md)
