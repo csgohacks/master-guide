@@ -6,11 +6,9 @@ Theese are the terms that are commomly used in the CSGO cheating community:
 
 * P2C - Cheat software that requires the user to pay for it.
 * F2C - Cheat software that don't requires the user to pay for it, some are external cheats.
-* Paste - Cheat software that their source code are based on some open-source code that is available on popular code hosting websites such as github. However so most of them behaves quite bad and the chances of getting detected by anti-cheat software are very high. Also some scammers would use them as a base to scame people.
+* Paste - Cheat software that their source code are based on some open-source code that is available on popular code hosting websites such as github. However so most of them behaves quite bad and the chances of getting detected by anti-cheat software are very high. Also some scammers would use them as a base to scam people. However people also use this term in order to insult a cheat provider.
 
-However cheaters also used this term as an irony to their paid cheat behaves like those cheats.
-
-* Crack - Cheats that are used to be paid and now being accessible for free.
+* Crack - Cheats that used to be paid but now being accessible for free.
 * Config - The configuration for the cheat. Most of the cheats in CSGO provides a lot of features for the user to set up. A configuration file will help the user to load up a pre-configurated cheat settings to the cheat, reduces the time to set up the cheat all over again.
 * Lua/js - Some cheat providers also allows their community to create some scripts in order to let the cheat behave how the user-wanted. This could allow the user to make the cheat more flexible. Most of the scripts are written in [Lua](https://www.lua.org/), however some cheat providers provide a [JavaScript](https://en.wikipedia.org/wiki/JavaScript) API, therefore there are also scripts are written in JavaScript \(JS for short\).
 
@@ -18,21 +16,21 @@ However cheaters also used this term as an irony to their paid cheat behaves lik
 
 * Closet - Cheaters who tries to hide up their cheat to a maxiumum level in order not to get a higher chance being noticable from anti-cheat software or other people. Mostly they will only turn on a few features inside the cheat, such as only toggle up a little bit of aim-assist, or a high smooth value of legit aimbot, sometimes they will also toggle up airstrafe and auto bunnyhop.
 * Legit - Which is similar to a closet cheater, who tries to play like a normal player. However the difference with closet cheaters are they will turn on more features compared to closet cheaters, such as ESP.
-* Blatant - Cheaters who turns on features that other plyers will notice that the cheater is cheating such as triggerbot, esp, or somtimes rage aimbot. mostly they will receive a higher chance of getting banned.
-* Rage - Cheaters will turn on most of the features that the cheat available in order to win a match by any cost, such as Anti-Aim, rage aimbot, esp, etc. Mostly they will receive a ban in a day or in weeks, depends on how long the anti-cheat software detects.
+* Blatant - Cheaters who turns on features that other plyers will notice that the cheater is cheating such as triggerbot, esp, or somtimes rage aimbot. They will have a higher chance of getting banned.
+* Rage - Cheaters will turn on most of the features that the cheat available in order to win a match by any cost, such as Anti-Aim, rage aimbot, esp, etc. Mostly they will receive a ban in a day or in a week, depends on how long the anti-cheat software detects it.
 
 ## In game
 
-* HvH - A short term for "Hack-versus-Hack". In theese cases, the cheater on both sides will load up their rage configuration in order to win the match. Mostly seens on non-prime level 2 CSGO accounts.
-* Legit HvH - Simlar to HvH, but in this case, the cheater on both sidfes will only togglr their blatant configuration, since theydon't want to fack the risk of instant ban \(Despite the chances of getting banned on legit hvh are very high\). Mostly seens on non-prime or prime matchmakings.
-* P / p100 - A term to represent something is very good, near prefection. For example, when a cheater typed "hitting p" on chat, means his ragebot always hits the target, running nearly perfection. Or when some cheater say "p media", which means this is some excellent sources to be used in a video / photo,etc.
-* 1 - Means only using one shot to kill an enemy. Also represents "p" in some cases.
+* HvH - A short term for "Hack-versus-Hack". In these cases, the cheater on both sides will load up their rage configuration in order to win the match. Mostly seen on non-prime level 2 CSGO accounts.
+* Legit HvH - Simlar to HvH, but in this case, the cheater on both sides will only toggle their blatant configuration, since they don't want to have the risk of instant ban \(Despite the chances of getting banned on legit hvh are very high\). Mostly seen on non-prime or prime MM.
+* P / p100 - A term to represent something is very good, near prefection. For example, when a cheater typed "hitting p" on chat, means his ragebot always hits the target, running nearly perfection. Or when some cheater say "p media", which means this is some excellent sources to be used in a video / photo etc...
+* 1 - Killing the enemy with one shot (headshot)
 * Baim - Stands for "Body-aim".
-* Sliding - When a cheater toggle side walk, other players will see the legs of the cheater's playermodel becomes frozen, looks like sliding.
+* Sliding - When a cheater toggles side walk, other players will see the legs of the cheater's playermodel becomes frozen, looks like sliding.
 
-![Example of a player sliding. Watch for the player who is having an AWP on his back.](https://thumbs.gfycat.com/GaseousUnluckyAnophelesmosquito-size_restricted.gif)
+![Example of a player sliding.](https://thumbs.gfycat.com/GaseousUnluckyAnophelesmosquito-size_restricted.gif)
 
-* Dumping fake -
+* Dumping fake - Person not being able to hit the enemy while hvhing, shooting their fake body and head. This is usually due to the resolver of the cheat not being able to keep up with anothers Anti-Aim.
 
 ## Community
 
