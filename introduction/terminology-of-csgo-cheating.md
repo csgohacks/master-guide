@@ -8,7 +8,7 @@ Theese are the terms that are commomly used in the CSGO cheating community:
 * F2C - Cheat software that don't requires the user to pay for it, some are external cheats.
 * Paste - Cheat software that their source code are based on some open-source code that is available on popular code hosting websites such as github. However so most of them behaves quite bad and the chances of getting detected by anti-cheat software are very high. Also some scammers would use them as a base to scam people. However people also use this term in order to insult a cheat provider.
 
-* Crack - Cheats that used to be paid but now being accessible for free.
+* Crack - Cheats that used to be paid but now being accessible for free because of a vulnerability found in their security.
 * Config - The configuration for the cheat. Most of the cheats in CSGO provides a lot of features for the user to set up. A configuration file will help the user to load up a pre-configurated cheat settings to the cheat, reduces the time to set up the cheat all over again.
 * Lua/js - Some cheat providers also allows their community to create some scripts in order to let the cheat behave how the user-wanted. This could allow the user to make the cheat more flexible. Most of the scripts are written in [Lua](https://www.lua.org/), however some cheat providers provide a [JavaScript](https://en.wikipedia.org/wiki/JavaScript) API, therefore there are also scripts are written in JavaScript \(JS for short\).
 
