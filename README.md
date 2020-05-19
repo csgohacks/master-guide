@@ -1,6 +1,6 @@
 # Welcome!
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](./#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](./#contributors-)
 
 This guide aims to give provide a master guide on cheating in Counter-Strike : Global offensive. This guide is divided into main 5 parts:
 
@@ -25,6 +25,7 @@ We highly welcome any to contribute to this masterguide by creating a pull reque
 * _Earlviking \(mcs\)_
 * _panic-at-the-party1 \(Factor\)_
 * _RatPoisonRat \(Ratto\)_
+* _nigga \(bruh\)_
 
 ## License
 
