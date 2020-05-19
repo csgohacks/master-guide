@@ -25,3 +25,10 @@ Here are some examples of config-leaking websites:
 
 Some of the aformentioned websites are invite only sadly, but in the end almost all the websites have the same leaked configs.
 
+## Config Packs
+
+Some youtubers (Freak) have made massive cfg packs with hundreds of cfgs to try some paid, some public.
+
+Here is a link to a post on the subreddit with links to download it:
+
+[Freaks config pack](https://www.reddit.com/r/Csgohacks/comments/f1wdlb/freak_config_pack_reuploaded/)
