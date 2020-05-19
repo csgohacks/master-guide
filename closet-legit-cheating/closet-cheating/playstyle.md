@@ -4,7 +4,7 @@
 
 Closet cheating takes skill, before anyone dares to start closet cheating I suggest they first learn the mechanics of the game. Please do take time to learn crosshair placement, movement, recoil control, and a bit of gamesense.
 
-## Peaking and Crosshair Placement
+## Peeking and Crosshair Placement
 
 The definition of crosshair placement is when the player positions his/her crosshair to headshot level while peaking. It is crucial when trying to closet, since players can determine whether you are hacking or not. It takes a bit of time to memorise the placements in each corner and in each map, but after a few days of playing clean you will get the hang of it.
 
