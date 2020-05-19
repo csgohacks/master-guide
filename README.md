@@ -26,7 +26,7 @@ We highly welcome any to contribute to this masterguide by creating a pull reque
 * _panic-at-the-party1 \(Factor\)_
 * _RatPoisonRat \(Ratto\)_
 * _nigga \(bruh\)_
-* _getclonedbyfeds \(clonedbyfeds)\)_
+* _getclonedbyfeds \(clonedbyfeds\)_
 
 ## License
 
