@@ -1,7 +1,7 @@
 # Code of conduct
 
 
-Thanks for helping us to inprove to this project! Before you create any pull requests, feel free to check out some information here:
+Thanks for helping us to improve to this project! Before you create any pull requests, feel free to check out some information here:
 
 ## Behaviour
 
