@@ -1,6 +1,6 @@
 # Introduction
 
-While there are public cheats available for general users to choose, but there are also some cheats decided to go private forvarious reasons.
+While there are public cheats available for general users to choose, but there are also some cheats decided to go private for various reasons.
 
 ## Advantages of staying private
 
@@ -14,11 +14,11 @@ And here are some examples of private cheats.
 
 ## Skeet / Gamesense
 
-\[TODO:Skeet logo+menu\] Gamesense.pub \(previously known as skeet.cc\) is a private cheat provider started from 2016. It is considered the top tier cheat provider in the CSGO cheating scene. The menu has been pointed as a standard for most startup cheat providers/self-coded cheats. It has an un-hittable Anti-Aim and a 'godlike' reslover back during it's release. Despite nowdays there are lost of both private and cheats started to comes up with gamesense, it's still the top cheat for CSGO. Invite only. \[TODO:Skeet unhittableaa\]
+\[TODO:Skeet logo+menu\] Gamesense.pub \(previously known as skeet.cc\) is a private cheat provider started from 2016. It is considered the top tier cheat provider in the CSGO cheating scene. The menu has been pointed as a standard for most startup cheat providers/self-coded cheats. It has an un-hittable Anti-Aim and a 'godlike' resolver back during it's release. Despite nowadays there are lost of both private and cheats started to comes up with gamesense, it's still the top cheat for CSGO. Invite only. \[TODO:Skeet unhittableaa\]
 
 ## Fatality
 
-\[TODO:Fatality logo+menu\] Fatality.win is another private cheat provider started in 2018. It is a HvH-focused cheat, which means it is lacking of legit features. It has a \[insert\] anti-aim and a \[insert\] reslover. Invite only, but sometimes inivtes are purchasable from offical moderators.
+\[TODO:Fatality logo+menu\] Fatality.win is another private cheat provider started in 2018. It is a HvH-focused cheat, which means it is lacking of legit features. It has a \[insert\] anti-aim and a \[insert\] resolver. Invite only, but sometimes invites are purchasable from offical moderators.
 
 ## Novolinehook
 
@@ -28,7 +28,7 @@ Novoline also has a league, and a private vesion (Hook of Ra). League version su
 
 However the developers are being reported are being lazy to pushing updates to the cheat. Also keep in mind that this is a legit-focused cheat, so you won't expect to use it fight against other ragers. With being said, it's resolver and legit anti-aim is still useful to fight against other semi-ragers.
 
-This cheat is application only (although you can get invited by admins, but that is highly unlikley). The application process is fairly easy, not many get denied. You fill out an application on their forums and then get sent to do a Teamspeak interview.   
+This cheat is application only (although you can get invited by admins, but that is highly unlikely). The application process is fairly easy, not many get denied. You fill out an application on their forums and then get sent to do a Teamspeak interview.   
 
 
 ## Fanta
@@ -41,7 +41,7 @@ This cheat is application only (although you can get invited by admins, but that
 
 ## Rifk7
 
-\[TODO:rifk7 logo+menu\] Rifk7 is a private HvH cheat. Specially to mention the loader will playes music when opening it. Invites purchasable from admin. TODO
+\[TODO:rifk7 logo+menu\] Rifk7 is a private HvH cheat. Specially to mention the loader will plays music when opening it. Invites purchasable from admin. TODO
 
 ## We missed out some private cheats you know?
 
