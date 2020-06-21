@@ -3,14 +3,18 @@
 Theese are some cheats that has been identified as scams, so just stay away from them.
 
 #TODO Section
-Theese are cheats that going to avoid. However i need reasons on them.
+Theese are cheats that should be avoid. However i need reasons on them.
 ## DarkAim
 
 ## InsanityCheats
 
 ## IWantCheats
 
+Lying about permanent detections in multiple games
+
 ## Singularity.wtf
+
+Fake-Reviews, Fake-Infos
 
 ## Icheat.io
 
@@ -21,6 +25,8 @@ Theese are cheats that going to avoid. However i need reasons on them.
 ## Omniaim
 
 ## 5dollarcheats
+
+Fake-Reviews
 
 ## Redeye Cheats
 
@@ -40,13 +46,14 @@ Projecy infinty also has a free version, but since it has been idenitied as a pa
 
 ## Zappped
 
+--TODO
+
 ## Controversial Section!
 
-* This section describes a highly controversial event/item that may subject to change, you should NOT take this an aboulute reference. By reading the following section, you are agreed that r/csgohacks and CSGO cheating masterguide contributors will not bear any reponsibility for any misleading information.
+* This section describes a highly controversial event/item that may subject to change, you should NOT take this as an absolute reference. By reading the following section, you are agreeing that r/csgohacks and CSGO cheating masterguide contributors will not bear any reponsibility for any misleading information.
 
-Zapped.cc is a highly controversial cheat provider that has been claimed to leaking it's user's ip address, causing user's online privacy might be compromised. Also according to [Boring](pastes-and-scams.md), a famous cheating youtuber, who has pointed out serval evdience about zapped is a scam. However since we cannot validate the accuaracy of his sources, we are still unable to give a conclusion first right now, but until then it will still on the paste and scam list.
+Zapped.cc is a highly controversial cheat provider that has been claimed to leaking it's user's ip address, causing user's online privacy might be compromised. Also according to [Boring](pastes-and-scams.md), a famous cheating youtuber, who has pointed out serval evidence about zapped that it is a scam. However since we cannot validate the accuracy of his sources, we are still unable to give a conclusion as of right now, but until then it will still be on the paste and scam list.
 
-## Do we missed out someting?
+## Have we missed someting?
 
-If we missed out other scammers or pasted cheat providers, feel free to [create an issue on our github](https://github.com/csgohacks/master-guide/issues), and we will look at it. However keep in mind that we may not include all of them into this list.
-
+If we missed out other scammers or paste cheat providers, feel free to [create an issue on our github](https://github.com/csgohacks/master-guide/issues), and we will look at it. However keep in mind that we may not include all of them into this list.
