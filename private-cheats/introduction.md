@@ -5,7 +5,6 @@ While there are public cheats available for general users to choose, but there a
 ## Advantages of staying private
 
 * Lesser chances of being detected
-* The community will be more friendly
 * Making your cheat more famous, since not anyone can get one easily.
 
 And here are some examples of private cheats.
@@ -28,11 +27,13 @@ It has an un-hittable Anti-Aim and a 'godlike' resolver back during it's release
 ## Novolinehook
 ![novolinelogo](https://i.imgur.com/fQBhoD4.png)
 
-\[TODO:Novolinehook menu\] Novolinehook.com is a German private cheat provider started in 2017. It is an excellent cheat for players who are aimed to closet, legit, or even semirage cheating. It is mostly known for its ability to stay undetected, and has dodged many of the recent waves. 
+Novolinehook.com is a German private cheat provider started in 2017. It is an excellent cheat for players who are aimed to closet, legit, or even semirage cheating. It is mostly known for its ability to stay undetected, and has dodged many of the recent waves.
 
-Novoline also has a league, and a private vesion (Hook of Ra). League version supports VAC, SMAC, EAC, CEVO, ESL WIRE (unstable), and FaceIT Serverside. Also, NovolineHook has an decent staff support, with instant HWID resets and willing to offer you a remote session support in certain cases.  
+![novolinemenu](https://image.prntscr.com/image/d3y5BHiwQ0eHrEgLJN2E8g.png)
 
-However the developers are being reported are being lazy to pushing updates to the cheat. Also keep in mind that this is a legit-focused cheat, so you won't expect to use it fight against other ragers. With being said, it's resolver and legit anti-aim is still useful to fight against other semi-ragers.
+Novoline also has a league, and a private vesion (Hook of Ra). League version supports VAC, SMAC, EAC, CEVO, ESL WIRE (unstable), and FaceIT Serverside. Also, NovolineHook has an decent staff support, with fast HWID resets and willing to offer you remote support in certain cases.  
+
+However the developers are reported to be lazy to push updates to the cheat. Also keep in mind that this is a legit-focused cheat, so you won't have a big chance against ragers. With that being said, it's resolver and legit anti-aim are still useful to fight against other semi-ragers.
 
 This cheat is application only (although you can get invited by admins, but that is highly unlikely). The application process is fairly easy, not many get denied. You fill out an application on their forums and then get sent to do a Teamspeak interview.   
 
@@ -54,4 +55,3 @@ This cheat is application only (although you can get invited by admins, but that
 ## We missed out some private cheats you know?
 
 If you find out any other private cheats that we missed, feel free to [create an issue on our github](https://github.com/csgohacks/master-guide/issues) to submit it! However keep in mind that we will not accept all of them.
-
