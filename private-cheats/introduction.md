@@ -12,24 +12,24 @@ And here are some examples of private cheats.
 ## TODO section
 
 ## Skeet / Gamesense
-![gslogo](https://i.imgur.com/7JO0tRh.png)
+![The logo of Gamesense.pub](https://i.imgur.com/7JO0tRh.png)
 
 Gamesense.pub \(previously known as skeet.cc\) is a private cheat provider started from 2016. It is considered the top tier cheat provider in the CSGO cheating scene. The menu has been pointed as a standard for most startup cheat providers/self-coded cheats.
 
-![gsmenu](https://i.imgur.com/AWQRRDE.png)
+![The menu of gamesense.pub. ](https://i.imgur.com/AWQRRDE.png)
 
-It has an un-hittable Anti-Aim and a 'godlike' resolver back during it's release. Despite nowadays there are lost of both private and cheats started to comes up with gamesense, it's still the top cheat for CSGO. Invite only. \[TODO:Skeet unhittableaa\]
+It has an un-hittable Anti-Aim and a 'godlike' resolver back during it's release. Despite nowdays there are lots of both private and cheats started to comes up with gamesense, it's still considered the top cheat for CSGO. Invite only. \[TODO:Skeet unhittableaa\]
 
 ## Fatality
 
 \[TODO:Fatality logo+menu\] Fatality.win is another private cheat provider started in 2018. It is a HvH-focused cheat, which means it is lacking of legit features. It has a \[insert\] anti-aim and a \[insert\] resolver. Invite only, but sometimes invites are purchasable from offical moderators.
 
 ## Novolinehook
-![novolinelogo](https://i.imgur.com/fQBhoD4.png)
+![The logo of novolinehook.](https://i.imgur.com/fQBhoD4.png)
 
 Novolinehook.com is a German private cheat provider started in 2017. It is an excellent cheat for players who are aimed to closet, legit, or even semirage cheating. It is mostly known for its ability to stay undetected, and has dodged many of the recent waves.
 
-![novolinemenu](https://image.prntscr.com/image/d3y5BHiwQ0eHrEgLJN2E8g.png)
+![The menu of novolinehook.](https://image.prntscr.com/image/d3y5BHiwQ0eHrEgLJN2E8g.png)
 
 Novoline also has a league, and a private vesion (Hook of Ra). League version supports VAC, SMAC, EAC, CEVO, ESL WIRE (unstable), and FaceIT Serverside. Also, NovolineHook has an decent staff support, with fast HWID resets and willing to offer you remote support in certain cases.  
 
@@ -40,7 +40,7 @@ This cheat is application only (although you can get invited by admins, but that
 
 ## Fanta
 
-\[TODO:Fanata logo+menu\] Fanta.club is a Private legit cheat provider which mostly focuses on its semi-rage aspects. Its considered one of the best semirage cheats and is a competitor to Novoline. It has had its fair share of detections, but performance wise its really good. Although its pasted (from gladiatorcheatz) the community is still strong and the devs are trying to rebuild the cheat.
+\[TODO:Fanata logo+menu\] Fanta.club is a Private legit cheat provider which mostly focuses on its semi-rage aspects. Although there are rumours claimed it is pasted from gladiatorcheatz, it is still considered one of the best semirage cheat and is a competitor to Novoline. It has had its fair share of detections, but performance wise its really good. The community is active and the devs are constantly making updates for the cheat. Invite only.
 
 ## ev0lve
 ![evolvelogo](https://i.imgur.com/pBnYldx.png)

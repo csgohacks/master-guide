@@ -73,4 +73,4 @@ It's a good life lesson in general, if you focus on the journey the result will 
 * Extreme Injector: Extremely injector is a useful tool for users to inject their .dll files into a running process. It's has a user-friendly interface. Recommend for newcomers to use.
 
 ## Acknowledgements
-* Guidedhacking for external support on introducing game hacking
+* Guidedhacking for external support on introducing game hacking.
