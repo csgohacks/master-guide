@@ -8,6 +8,8 @@
 * 49.99 CHF \(~ 55.73 USD\) for 90 Days
 * 99.99 CHF \(~ 111.47 USD\) for 360 Days
 
+Keep in mind that onetap now uses a subscription model, which means it will automatically purhcase your subscription when your subscription ends.
+
 ## Testimonials
 
 ### Opinions ahead!
