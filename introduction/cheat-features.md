@@ -27,7 +27,7 @@ As we mentioned before, the way a aimbot \(What we are talking about here is rag
 
 * LBY - A short term for lower body yaw.
 
-* Desync -
+* Desync - An exploit abusing critical game mechanics to desynchronize the real hitbox(where shots are registered) from the fake player model(where cheats will shoot without proper resolving, preventing shots from registering).
 
 * Resolver - The resolver in a cheat, tries to calculate where an enemy's real head is. This can be really hard because some cheats got a decent AA which makes it harder for the resolver to figure out where to shoot.
 
