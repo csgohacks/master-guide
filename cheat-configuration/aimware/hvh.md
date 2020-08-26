@@ -58,7 +58,7 @@ LMGs:
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 The "Hit Scan" tab: Aimware has quite unique way of doing hitscan, we will start with the mode and advanced tabs and then take a look at the hitbox points.
-MODE
+Mode:
 https://imgur.com/kG07T99
 For bodyaim you should use lethal on everything expect on auto and awp where its recommended to use priority, for hitbox overlap (safepoint) there are 3 options.
 https://imgur.com/U8SdqWP
@@ -86,6 +86,7 @@ Scout: This is where you have multiple options, remember to keep head on higher 
 Auto: Head on blue. For body you can use different combos, anything from green to orange. For legs do nothing-green.
 AWP: Head on blue, and stomach/pelvin on green-red.
 LMGs:
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 The "Anti Aim" tab:Use Down pitch, real yaw backwards, Fake yaw default or opposite, at targets and autodirection if you dont want to use manual antiaim. Fakeduck allows you to shoot higher while crouching.
