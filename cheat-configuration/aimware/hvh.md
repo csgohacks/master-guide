@@ -97,4 +97,5 @@ Fake expose: not usefull
 Manual antiaim: personal preference.
 Anti-Resolver: Presonal preference, makes some resolvers miss more.
 Advanced configuration: Allows acces to yaw angle and lby extender, if you know what you are doing go ahead.
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
