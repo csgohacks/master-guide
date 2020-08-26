@@ -23,7 +23,7 @@ We highly welcome any to contribute to this masterguide by creating a pull reque
 * _Earlviking \(mcs\)_
 * _R9119 \(Rami\)_
 * _RatPoisonRat \(Ratto\)_
-* _getclonedbyfeds \(clonedbyfeds\)_
+* _clonedbyfeds \(Kamay\)_
 * _panic-at-the-party1 \(Factor\)_
 * _Horsefucker88 \(Dream\)_
 
