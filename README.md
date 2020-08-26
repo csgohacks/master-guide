@@ -20,12 +20,12 @@ We highly welcome any to contribute to this masterguide by creating a pull reque
 
 * _throwaway27727394927 \(matt1\)_ 
 * _Hackintosh12945_
-* _Horsefucker88 \(Dream\)_
-* _R9119 \(Rami\)_
 * _Earlviking \(mcs\)_
-* _panic-at-the-party1 \(Factor\)_
+* _R9119 \(Rami\)_
 * _RatPoisonRat \(Ratto\)_
 * _getclonedbyfeds \(clonedbyfeds\)_
+* _panic-at-the-party1 \(Factor\)_
+* _Horsefucker88 \(Dream\)_
 
 ## License
 
