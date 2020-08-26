@@ -61,41 +61,69 @@ The "Hit Scan" tab: Aimware has quite unique way of doing hitscan, we will start
 Mode:
 https://imgur.com/kG07T99
 For bodyaim you should use lethal on everything expect on auto and awp where its recommended to use priority, for hitbox overlap (safepoint) there are 3 options.
-https://imgur.com/U8SdqWP
-(use one option per weapon)
+https://imgur.com/U8SdqWP (use one option per weapon)
+
 zeus: Dont use safepoint.
+
 Pistol: use prefer or advanced.
+
 Heavy Pistol: use prefer or advanced.
+
 Submachine Gun: use prefer or advanced.
+
 Rifle: use prefer, advanced or no safepoint.
+
 Shotgun: use prefer.
+
 Scout: you should choose between no safepoint, advanced or prefer.
+
 Auto Snipers: its recomemnded to either use prefer or force.
+
 AWP: Use force safepoint.
+
 LMGs: Dont use safepoint
+
 https://imgur.com/jlsowrw
+
 For most users i recommend something between 40 and 75, lower for more agressive playstyle, for people with poor performance i recommend using the lowest option.
 ![](https://imgur.com/zZIboDs)
+
 This is the part where aimware configin comes down to personal preference, high options (red and orange) might cause fps issues on low end computers.
+
 Pistols: head green-orange body blue-green, dont use legs or hands.
+
 Heavy Pistols: if you want to baim i recommend having head on blue-green and body on green-red, dont use legs or hands. If you want to go for head use green-red  for head and blue-green for body.
+
 Submachine guns: it doesnt really matter what you use, turn head green and everything else blue.
+
 Rifle: Put head on green-red depending on your personal preference. For body use green-blue.
+
 Shotguns:
+
 Scout: This is where you have multiple options, remember to keep head on higher than body green-red,  and body on blue-orange (you can disable chest to make sure you dont shoot below mindmg)
+
 Auto: Head on blue. For body you can use different combos, anything from green to orange. For legs do nothing-green.
+
 AWP: Head on blue, and stomach/pelvin on green-red.
+
 LMGs:
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 The "Anti Aim" tab:Use Down pitch, real yaw backwards, Fake yaw default or opposite, at targets and autodirection if you dont want to use manual antiaim. Fakeduck allows you to shoot higher while crouching.
+
 Static legs: Not helpfull, sometimes breaks aa.
+
 Conditions: use disable on use (e) to get some 1ws you cant use without it, disable on grenade if you grenades go to the floor instead of where you throw them.
+
 Shift On Shot: use on scout to prevent being onshotted, on other guns its useless and makes dt slow.
+
 Fake expose: not usefull
+
 Manual antiaim: personal preference.
+
 Anti-Resolver: Presonal preference, makes some resolvers miss more.
+
 Advanced configuration: Allows acces to yaw angle and lby extender, if you know what you are doing go ahead.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
