@@ -59,7 +59,7 @@ LMGs:
 
 The "Hit Scan" tab: Aimware has quite unique way of doing hitscan, we will start with the mode and advanced tabs and then take a look at the hitbox points.
 MODE
-![](https://imgur.com/kG07T99)
+https://imgur.com/kG07T99
 For bodyaim you should use lethal on everything expect on auto and awp where its recommended to use priority, for hitbox overlap (safepoint) there are 3 options.
 ![](https://imgur.com/U8SdqWP)
 (use one option per weapon)
@@ -73,7 +73,7 @@ Scout: you should choose between no safepoint, advanced or prefer.
 Auto Snipers: its recomemnded to either use prefer or force.
 AWP: Use force safepoint.
 LMGs: Dont use safepoint
-![](https://imgur.com/jlsowrw)
+https://imgur.com/jlsowrw
 For most users i recommend something between 40 and 75, lower for more agressive playstyle, for people with poor performance i recommend using the lowest option.
 ![](https://imgur.com/zZIboDs)
 This is the part where aimware configin comes down to personal preference, high options (red and orange) might cause fps issues on low end computers.
