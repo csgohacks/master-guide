@@ -61,7 +61,7 @@ The "Hit Scan" tab: Aimware has quite unique way of doing hitscan, we will start
 MODE
 https://imgur.com/kG07T99
 For bodyaim you should use lethal on everything expect on auto and awp where its recommended to use priority, for hitbox overlap (safepoint) there are 3 options.
-![](https://imgur.com/U8SdqWP)
+https://imgur.com/U8SdqWP
 (use one option per weapon)
 zeus: Dont use safepoint.
 Pistol: use prefer or advanced.
