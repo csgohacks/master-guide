@@ -57,6 +57,11 @@ This cheat is application only (although you can get invited by admins, but that
 
 Plaguecheat is a cheap romanian legit cheat that started a few months ago. It is an internal legit cheat with tons of useful features and great looking visuals. Due to popular belief it is not a paste.
 
+![The menu of Plaguecheat.](https://i.imgur.com/PWybOEh.png)
+
+The cheat has been shrouded in many controversies such as IP dropping in #general due to a cracking attempt. 
+The person who did drop the ip has since been removed from the staff team.
+
 ## We missed out some private cheats you know?
 
 If you find out any other private cheats that we missed, feel free to [create an issue on our github](https://github.com/csgohacks/master-guide/issues) to submit it! However keep in mind that we will not accept all of them.
