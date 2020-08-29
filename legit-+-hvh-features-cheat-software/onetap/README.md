@@ -14,14 +14,14 @@ Keep in mind that onetap now uses a subscription model, which means it will auto
 
 ### Opinions ahead!
 
-* The following section is only from the users who used OneTap as their major cheating software, however theese only should taken as references only.
-* All theese testimonials does not represnt the offical statment of the r/csgohacks subreddit.
+* The following section is only from the users who used OneTap as their major cheating software, however these only should taken as references only.
+* All these testimonials does not represnt the offical statment of the r/csgohacks subreddit.
 
 ### Legitbot
 
 * Limited option for legitbot
 * Lesser humanized options for aimbot
-* Triggerbot behaves like a rage aimbot
+* Magnet Triggerbot behaves like a rage aimbot
 
   > onetap where it's super fucking snappy and blatant overall. ---u/hoursefucker88
 
@@ -43,18 +43,19 @@ Keep in mind that onetap now uses a subscription model, which means it will auto
 ### Miscellaneous
 
 * Skinchanger are available. 
-* A feature-rich ECMAScript 5 \(Javascript\) API which users can create their Javascripts to customize the cheat's behaviour. Specially point out it is using a ECMAScript 5 praser, which means some advancd functions \(arrow functions, classes, let, const variables\) in ECMAScript 6 are not available in onetap's API.
+* A feature-rich ECMAScript 5 \(Javascript\) API which users can create their Javascripts to customize the cheat's behaviour. Specially point out it is using a ECMAScript 5 praser, which means some advancd functions \(arrow functions, the class keyword, let initializer, promises, async functions, etc\) in ECMAScript 6 are not available in onetap's API. The API does **not** allow HTTP(S) or local file access. 
 
 ### Config
 
 * In .cfg file format, However not text-editable.
 * Config files are located at `ot` folder, which is in CSGO's game root folder.
-* Javascripts are in .js file format as a normal Js file, text-editable, same location as config files.
+* Javascripts are in .js file format as a normal Js file, text-editable. Javascripts are located in a subdirectory of the config folder, called `scripts`.
 
 ### Services
 
 * Moderators reply actively
 * HWID resets take a few minutes to half an hour.
+* Parts of staff team are on discord
 
 ### Overall
 
@@ -66,6 +67,7 @@ Keep in mind that onetap now uses a subscription model, which means it will auto
 * Worthy for people who focuses on HvH.
 
 --TODO-- Insert more opinions about onetap.
+--TODO-- Write more about antiaim and resolver
 
 ## Prerequisites
 
