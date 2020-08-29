@@ -53,7 +53,7 @@ This cheat is application only (although you can get invited by admins, but that
 \[TODO:rifk7 menu\] Rifk7 is a private HvH cheat. Specially to mention the loader will plays music when opening it. Invites purchasable from admin. TODO
 
 ## Plaguecheat.cc
-![The logo of Plaguecheat.](https://imgur.com/a/1Ht7dt5)
+![The logo of Plaguecheat.](https://i.imgur.com/ANJsycX.png)
 
 Plaguecheat is a cheap romanian legit cheat that started a few months ago. It is an internal legit cheat with tons of useful features and great looking visuals. Due to popular belief it is not a paste.
 
