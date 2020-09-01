@@ -52,6 +52,14 @@ This cheat is application only (although you can get invited by admins, but that
 
 \[TODO:rifk7 menu\] Rifk7 is a private HvH cheat. Specially to mention the loader will plays music when opening it. Invites purchasable from admin. TODO
 
+## Neverlose 
+![](https://i.imgur.com/yjXJ5Pb.png)
+\[TODO:neverlose menu\] Neverlose.cc is a russian private cheat provider that started back in 2019. The developers behind neverlose are actually the same team who developed spirthack. Limited application slots only. TODO
+
+## Nemesis
+![](https://i.ytimg.com/vi/gMFgecNN16g/maxresdefault.jpg)
+\[TODO:neverlose menu\] Nemesis.techonology is a cheat provider started in 20xx. Despite the cheat itself was cracked back in June 2020, however the crackers decided to make it paid only. Invite only. TODO
+
 ## We missed out some private cheats you know?
 
 If you find out any other private cheats that we missed, feel free to [create an issue on our github](https://github.com/csgohacks/master-guide/issues) to submit it! However keep in mind that we will not accept all of them.
