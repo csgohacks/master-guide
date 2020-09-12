@@ -1,8 +1,8 @@
 # Onetap crack
-
-Onetap crack is a cracked version of Onetap v2 by toast, wzn, and d3x on Unknowncheats back in summer 2019 as a .dll file. It has the same funciallity of the genuine Onetap v2 cheat. It is still being fixed by various people and still being a solid choice for cheaters who dosen't want to pay for a p2c for hvh. More information will be explained ![at here](/miscellaneous/onecrack-situation.md)
+Onetap crack is a cracked version of Onetap v3 in autumn 2020 as a .dll file. It has the same funciallity of the genuine Onetap v3 cheat but is older version from may. It is still being investigated but is safe so far. Cheats really easy to use and has javascript support, it is better than any other free cheat and performs equally/better to most cheap hvh cheats.
 
 ## Soures to obtain a onetap crack
+https://anonfiles.com/n6Bdx2Udob/otc-v3_zip
+## Some information about the crack
 
-Since the first patch to onetap crack, many people have tried to fixed the cheat by fixing the offsets, a
-
+https://www.reddit.com/r/Csgohacks/comments/ird5fd/otv3_shit_since_none_of_you_can_read/
