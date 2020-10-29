@@ -24,6 +24,8 @@ Fake-Reviews, Fake-Infos
 
 ## Omniaim
 
+Bought their loader off of someone, Staff don't care about the cheat at all, Rarely receives updates and it's detected quite often.
+
 ## 5dollarcheats
 
 Fake-Reviews
