@@ -7,6 +7,8 @@ The cheats listed here should be avoid. However we need reasons on them.
 
 ## DarkAim
 
+Pasted from xone, same dev that works on Abyss and Redeye Cheats, dev has sold pastes before, vac detected and receives nearly zero updates.
+
 ## InsanityCheats
 
 ## IWantCheats
@@ -35,7 +37,11 @@ Fake-Reviews
 
 ## Redeye Cheats
 
+Pasted from xone, used to have the dev that worked on Darkaim and Abyss now has a new dev but its still pasted, dev has sold pastes before, not a very good detection record and they've tried to redeem themselves but its still pasted with a few of its features being broken.
+
 ## abyss.gg
+
+Pasted from xone, same dev that works on Darkaim and used to work on Redeye Cheats, Dev has sold pastes before, Vac detection issues, Receives nearly zero updates and a non-existent staff team/a team that doesn't care.
 
 # End of TODO
 
