@@ -4,13 +4,14 @@ These are some cheats that have been identified as scams, so just stay away from
 
 #TODO Section
 The cheats listed here should be avoid. However we need reasons on them.
+
 ## DarkAim
 
 ## InsanityCheats
 
 ## IWantCheats
 
-Lying about permanent detections in multiple games
+Lying about permanent detections in multiple games.
 
 ## Singularity.wtf
 
@@ -21,6 +22,8 @@ Fake-Reviews, Fake-Infos
 ## DeadlyCheats
 
 ## 420cheats
+
+Little features for the price, dev couldn't give two flying ducks about the cheat (thats why its pasted), detected often and make sure to stay away from the free cheat as its so broken and nearly as detected as ezfrags.
 
 ## Omniaim
 
