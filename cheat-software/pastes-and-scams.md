@@ -4,13 +4,18 @@ These are some cheats that have been identified as scams, so just stay away from
 
 #TODO Section
 The cheats listed here should be avoid. However we need reasons on them.
+
 ## DarkAim
+
+A jme paste, same dev that works on Abyss, InsanityCheats and used to work on Redeye Cheats, dev has sold pastes before, vac detected and receives nearly zero updates.
 
 ## InsanityCheats
 
+A jme paste, same dev that works on Abyss, Darkaim and used to work on Redeye Cheats, dev has sold pastes before, sometimes vac detected and receives some updates. The staff team is alot better with this one out of the jme pastes.
+
 ## IWantCheats
 
-Lying about permanent detections in multiple games
+Lying about permanent detections in multiple games.
 
 ## Singularity.wtf
 
@@ -22,15 +27,23 @@ Fake-Reviews, Fake-Infos
 
 ## 420cheats
 
+Little features for the price, dev couldn't give two flying ducks about the cheat (thats why its pasted), detected often and make sure to stay away from the free cheat as its so broken and nearly as detected as ezfrags.
+
 ## Omniaim
+
+Bought their loader off of someone, Staff don't care about the cheat at all, Rarely receives updates and it's detected quite often.
 
 ## 5dollarcheats
 
-Fake-Reviews
+Fake-Reviews, Vac detected very often and the dev doesn't care about the project.
 
 ## Redeye Cheats
 
+Used to be a jme paste, Used to have the dev that worked on Darkaim, InsanityCheats and Abyss, Previous dev has sold pastes before, Now has a new dev but its still paste, not a very good detection record and they've tried to redeem themselves but its still pasted with a few of its features being broken.
+
 ## abyss.gg
+
+A jme paste, same dev that works on Darkaim, InsanityCheats used to work on RedeyeCheats, Dev has sold pastes before, Vac detection issues, Receives nearly zero updates and a non-existent staff team/a team that doesn't care.
 
 # End of TODO
 
