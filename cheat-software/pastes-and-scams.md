@@ -2,8 +2,7 @@
 
 These are some cheats that have been identified as scams, so just stay away from them.
 
-#TODO Section
-The cheats listed here should be avoid. However we need reasons on them.
+
 
 ## DarkAim
 
@@ -27,6 +26,8 @@ Pasted by jme, Vac detected like his other pastes,  half of its features are bug
 
 ## DeadlyCheats
 
+Pasted from another cheat, They ended up recoding the cheat for a v2 with a new dev, Even with the recode its still vac detected with buggy broken features.
+
 ## 420cheats
 
 Little features for the price, dev couldn't give two flying ducks about the cheat (thats why its pasted), detected often and make sure to stay away from the free cheat as its so broken and nearly as detected as ezfrags.
@@ -46,8 +47,6 @@ Used to be a jme paste, Used to have the dev that worked on Darkaim, InsanityChe
 ## abyss.gg
 
 A jme paste, same dev that works on Darkaim, InsanityCheats used to work on RedeyeCheats, Dev has sold pastes before, Vac detection issues, Receives nearly zero updates and a non-existent staff team/a team that doesn't care.
-
-# End of TODO
 
 ## Ezfrags
 
