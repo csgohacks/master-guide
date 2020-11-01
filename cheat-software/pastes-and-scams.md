@@ -21,6 +21,10 @@ Lying about permanent detections in multiple games.
 
 Fake-Reviews, Fake-Infos
 
+## Icheat.io
+
+Pasted by jme, Vac detected like his other pastes,  half of its features are buggy and broken and it rarely receives any updates from its dev anymore.
+
 ## DeadlyCheats
 
 ## 420cheats
