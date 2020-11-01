@@ -21,8 +21,6 @@ Lying about permanent detections in multiple games.
 
 Fake-Reviews, Fake-Infos
 
-## Icheat.io
-
 ## DeadlyCheats
 
 ## 420cheats
