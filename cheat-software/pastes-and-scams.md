@@ -56,7 +56,7 @@ Plus we do not recommend people buying Ezfrag's premium subscription, since it i
 
 ## Project Infinity
 
-Project Infinity also has a free version, but since it has been identified as a paste, we do not recommend you to try it out.
+Project Infinity also has a free version, but since it has been identified as being pasted from singularity, we do not recommend you to try it out.
 
 ## Zapped
 
