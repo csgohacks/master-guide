@@ -24,6 +24,6 @@
  
  ## Dont:
   
-  -  be autistic
+  - be autistic
   
   - beg for skeet invite
