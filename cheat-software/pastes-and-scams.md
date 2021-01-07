@@ -2,8 +2,7 @@
 
 These are some cheats that have been identified as scams, so just stay away from them.
 
-#TODO Section
-The cheats listed here should be avoid. However we need reasons on them.
+
 
 ## DarkAim
 
@@ -23,7 +22,11 @@ Fake-Reviews, Fake-Infos
 
 ## Icheat.io
 
+Pasted by jme, Vac detected like his other pastes,  half of its features are buggy and broken and it rarely receives any updates from its dev anymore.
+
 ## DeadlyCheats
+
+Pasted from another cheat, They ended up recoding the cheat for a v2 with a new dev, Even with the recode its still vac detected with buggy broken features.
 
 ## 420cheats
 
@@ -45,8 +48,6 @@ Used to be a jme paste, Used to have the dev that worked on Darkaim, InsanityChe
 
 A jme paste, same dev that works on Darkaim, InsanityCheats used to work on RedeyeCheats, Dev has sold pastes before, Vac detection issues, Receives nearly zero updates and a non-existent staff team/a team that doesn't care.
 
-# End of TODO
-
 ## Ezfrags
 
 Ezfrags is technically not a paste, but with it's high detection it is not recommended to use.
@@ -55,7 +56,7 @@ Plus we do not recommend people buying Ezfrag's premium subscription, since it i
 
 ## Project Infinity
 
-Project Infinity also has a free version, but since it has been identified as a paste, we do not recommend you to try it out.
+Project Infinity also has a free version, but since it has been identified as being pasted from singularity, we do not recommend you to try it out.
 
 ## Zapped
 
