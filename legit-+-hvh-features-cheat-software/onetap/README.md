@@ -1,6 +1,6 @@
 # Onetap
 
-![](https://i.imgur.com/GD0RZmF.jpg) [Onetap.su](https://onetap.su/) \(Now [onetap.com](https://onetap.com/)\) is a cheat provider that come around in 2018, back then it was still a private cheat. In 2019, onetap decided to go public, and started to gain lots of users. And in late 2019, onetap releases v3 of their Counter-Strike: Global Offensive cheat, with ECMAScript 5 \(Javascript\) scripting support.
+![](https://i.imgur.com/GD0RZmF.jpg) [Onetap.su](https://onetap.su/) \(Now [onetap.com](https://onetap.com/)\) is a cheat provider that come around in 2018, back then it was still a private cheat. In 2019, as onetap decided to go public, it started to gain lots of users. Finally in late 2020, onetap releases v4 of their Counter-Strike: Global Offensive cheat, with ECMAScript 5 \(Javascript\) scripting support.
 
 ## Pricetag
 

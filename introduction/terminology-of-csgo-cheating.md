@@ -49,3 +49,30 @@ These are the terms that are commonly used in the CS:GO cheating community:
 * pizda - Russian swear word, meaning "vagina"
 * pizdetc - Russian swear word, meaning "pussy". Usually used on men.
 * hdf - German swear word, meaning "Halt die Fresse" which translates to "Shut the fuck up".
+
+## Some notable people that you should know
+
+### Cheat providers
+
+* Aimware:
+  * polak: The coder of aimware (TODO: idk who on earth is coding aw rn )
+  * zim: The administrator of aimware. He is responsible for customer support and such.
+* Onetap
+  * llama: The coder of onetap.
+  * edeen: Also the coder of onetap. He is responsible for customer support sometimes.
+  * Kitty: Moderator of onetap.
+* Gamesense/Skeet
+  * esoterik: coder of gamesense/skeet.
+  * wish: Moderator of gamesense/skeet.
+* Others
+  * Sharklaser: A famous exploit finder in CSGO field.
+
+### Cheating youtubers
+
+Please keep in mind that the list here does not mean they are a 100% trustable source for cheating information, but we still put them in here for newcomers since it is way better than watching sketchy youtubers who might with a higher chance uploading unknown programs.
+
+TODO
+
+### Honourable mention:
+
+  * Moderators from r/csgohacks: Of course you should know more about us! If you got any issues in CSGO cheating, feel free to create a post on subreddit!

@@ -82,3 +82,11 @@ In CSGO, in order to reduce latency between client and the server, a tick system
 * Slide walk - makes your playermodel slide when walking.
 
 * Auto accept - Automatically accepts when a match is found
+
+# Private features
+
+You should know these features despite it might be an impossible task for you to achieve one as a non-coder.
+
+* Server lagger: Lags the server.
+
+* Server crasher: Crashes the server.
