@@ -39,6 +39,9 @@
 * [Onetap](legit-+-hvh-features-cheat-software/onetap/README.md)
   * [How to inject](legit-+-hvh-features-cheat-software/onetap/how-to-inject.md)
   * [Menu introduction](legit-+-hvh-features-cheat-software/onetap/menu-introduction.md)
+* [Neverlose](legit-+-hvh-features-cheat-software/neverlose/README.md)
+  * [How to inject](legit-+-hvh-features-cheat-software/onetap/how-to-inject.md)
+  * [Menu introduction](legit-+-hvh-features-cheat-software/onetap/menu-introduction.md)
 
 ## Free and pastes
 
