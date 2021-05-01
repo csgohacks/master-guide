@@ -9,8 +9,6 @@ While there are public cheats available for general users to choose, but there a
 
 And here are some examples of private cheats.
 
-## TODO section
-
 ## Skeet / Gamesense
 ![The logo of Gamesense.pub](https://i.imgur.com/7JO0tRh.png)
 
@@ -22,9 +20,10 @@ It has an un-hittable Anti-Aim and a 'godlike' resolver back during it's release
 
 ## Fatality
 
-\[TODO:Fatality logo+menu\] Fatality.win is another private cheat provider started in 2018. It is a HvH-focused cheat, which means it is lacking of legit features. It has a \[insert\] anti-aim and a \[insert\] resolver. Invite only, but sometimes invites are purchasable from offical moderators.
+\[TODO:Fatality logo+menu\] Fatality.win is another private cheat provider started in 2018. It is a HvH-focused cheat, which means it is lacking of legit features. It has a \[insert\] anti-aim and a \[insert\] resolver. Invite only, and haven't received updates for a while.
 
 ## Novolinehook
+
 ![The logo of novolinehook.](https://i.imgur.com/fQBhoD4.png)
 
 Novolinehook.com is a German private cheat provider started in 2017. It is an excellent cheat for players who are aimed to closet, legit, or even semirage cheating. It is mostly known for its ability to stay undetected, and has dodged many of the recent waves.
@@ -35,8 +34,7 @@ Novoline also has a league, and a private vesion (Hook of Ra). League version su
 
 However the developers are reported to be lazy to push updates to the cheat. Also keep in mind that this is a legit-focused cheat, so you won't have a big chance against ragers. With that being said, it's resolver and legit anti-aim are still useful to fight against other semi-ragers.
 
-This cheat is application only (although you can get invited by admins, but that is highly unlikely). The application process is fairly easy, not many get denied. You fill out an application on their forums and then get sent to do a Teamspeak interview.   
-
+This cheat is used to be open for application, however recently it has turned into invite only.
 
 ## Fanta
 
@@ -54,8 +52,8 @@ This cheat is application only (although you can get invited by admins, but that
 
 ## Nemesis
 ![](https://i.ytimg.com/vi/gMFgecNN16g/maxresdefault.jpg)
-\[TODO:neverlose menu\] Nemesis.techonology is a cheat provider started in 20xx. Despite the cheat itself was cracked back in June 2020, however the crackers decided to make it paid only. Invite only. TODO
+\[TODO:nemesis menu\] Nemesis.techonology is a cheat provider started in 20xx. Despite the cheat itself was cracked back in June 2020, however the crackers decided to make it paid only. Invite only. TODO
 
-## We missed out some private cheats you know?
+## We missed out some private cheats that you know?
 
 If you find out any other private cheats that we missed, feel free to [create an issue on our github](https://github.com/csgohacks/master-guide/issues) to submit it! However keep in mind that we will not accept all of them.

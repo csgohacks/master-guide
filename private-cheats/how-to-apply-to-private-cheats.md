@@ -8,5 +8,4 @@ Some private cheats have a invitation code for it's users so share out, in order
 
 ## Applications
 
-There are private cheats allow applications for people to apply. Some of them have a limited application slot \(ev0lve\) while some didn't \(Novolinehook\). Mostly if you made an application, which you have to introduce yourself, briefly, and most importantly, cheating experience. Then they will have an interview with you , mostly talking about your cheating experience. Usually if you don't behave rude during the interview and don't act like a prankster, also have some cheating experience they will usually let you join their community.
-
+There are private cheats allow applications for people to apply. Some of them have a limited application slot \(ev0lve\) while some didn't. Mostly if you made an application, which you have to introduce yourself, briefly, and most importantly, cheating experience. Then they will have an interview with you , mostly talking about your cheating experience. Usually if you don't behave rude during the interview and don't act like a prankster, also have some cheating experience they will usually let you join their community.

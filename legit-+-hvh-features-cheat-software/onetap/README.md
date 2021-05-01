@@ -47,7 +47,7 @@ Keep in mind that onetap now uses a subscription model, which means it will auto
 
 ### Config
 
-* In .cfg file format, However not text-editable.
+* Configs are stored in web servers no actual file will be stored into the local machine, however javascripts could also being loaded from onetap's cloud services.
 * Config files are located at `ot` folder, which is in CSGO's game root folder.
 * Javascripts are in .js file format as a normal Js file, text-editable, same location as config files.
 

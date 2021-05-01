@@ -39,7 +39,7 @@ In CSGO, in order to reduce latency between client and the server, a tick system
 
 * ESP - Also know as "walls /wall hacking / visual assistance". Which allows the user to see through a player whether it is an enemy or an teammate through various obstacle such as walls, smoke, etc. Most ESP provide multiple options for the user to set up, such as shading the playermodel, types of ESP, or what object should be seen through.
 
-* ASUS Walls - A cheat feature which allows you to see through specific walls. It was achieved by exploiting a driver provided by ASUS, which allows to control the transparency of specific materials / textures.
+* ASUS Walls - A cheat feature which allows you to see through specific walls. It was achieved by exploiting a driver provided by ASUS before, which allows to control the transparency of specific materials / textures.
 
 * Fast stop - This allows the player to stop close to immediately.
 
@@ -54,7 +54,7 @@ In CSGO, in order to reduce latency between client and the server, a tick system
 * RCS - recoil control system
 
 * Exploits - By abusing the tickrate system in CSGO, we can have two exploits that could be used when playing HvH:
-  * Doubletap. This will attempt to shoot two shots into one game tick, giving you a faster firerate, which would allow to kill enemy players faster. However the price would be sacrificing the accuracy, causing missing shot due to weapon spread. However this will not work with fakelag, thus fakelag will be diabled when using doubletap.
+  * Doubletap. This will attempt to shoot two shots into one game tick, giving you a faster firerate, which would allow to kill enemy players faster. However the price would be sacrificing the accuracy, causing missing shot due to weapon spread. However this will not work with fakelag, thus fakelag will be diabled when using doubletap. Doubletap could be used in valve matchmaking servers, but won't be useful as you would use in hvh servers.
   
   * Hide shots. This will disable fakelag when you are shooting to the desired direction. With fakelag enabled, you "onshot" state will preserve longer and thus allowing enemy players to shoot you through the head easily as when you are shooting there is no anti-aim. However both doubletap and hide shots could not be used together.
 

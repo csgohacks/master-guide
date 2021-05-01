@@ -26,4 +26,4 @@ After the please wait window, the loader should closed by itself and it will ope
 * Q: Injection takes too long!
     A: Assuming your intyernet connection is normal, this is mostly due to Onetap's loader is unavilable. Try create a ticket to onetap admins.
 
-If you receive an error when injecting, 
+If you receive an error when injecting, usually the injector will open up the error code explaination on your default web browser. Follow the instruction in the webpage, or contact admins for further information.

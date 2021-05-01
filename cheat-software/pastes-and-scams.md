@@ -1,9 +1,6 @@
 # Pastes and scams
 
-These are some cheats that have been identified as scams, so just stay away from them.
-
-#TODO Section
-The cheats listed here should be avoid. However we need reasons on them.
+These are some cheats that have been identified as scams, which you should just stay away from them.
 
 ## DarkAim
 
@@ -20,12 +17,6 @@ Lying about permanent detections in multiple games.
 ## Singularity.wtf
 
 Fake-Reviews, Fake-Infos
-
-## Icheat.io
-
-## DeadlyCheats
-
-## 420cheats
 
 Little features for the price, dev couldn't give two flying ducks about the cheat (thats why its pasted), detected often and make sure to stay away from the free cheat as its so broken and nearly as detected as ezfrags.
 
@@ -45,8 +36,6 @@ Used to be a jme paste, Used to have the dev that worked on Darkaim, InsanityChe
 
 A jme paste, same dev that works on Darkaim, InsanityCheats used to work on RedeyeCheats, Dev has sold pastes before, Vac detection issues, Receives nearly zero updates and a non-existent staff team/a team that doesn't care.
 
-# End of TODO
-
 ## Ezfrags
 
 Ezfrags is technically not a paste, but with it's high detection it is not recommended to use.
@@ -59,13 +48,20 @@ Project Infinity also has a free version, but since it has been identified as a 
 
 ## Zapped
 
---TODO
-
 ## Controversial Section!
 
 * This section describes a highly controversial event/item that may subject to change, you should NOT take this as an absolute reference. By reading the following section, you are agreeing that r/csgohacks and CSGO cheating masterguide contributors will not bear any reponsibility for any misleading information.
 
 Zapped.cc is a highly controversial cheat provider that has been claimed to leaking it's user's ip address, causing user's online privacy might be compromised. Also according to [Boring](pastes-and-scams.md), a famous cheating youtuber, who has pointed out several evidence about zapped that it is a scam. However since we cannot validate the accuracy of his sources, we are still unable to give a conclusion as of right now, but until then it will still be on the paste and scam list.
+
+## TODO Section
+The cheats listed here should be avoid too. However we need more information why we should avoid them.
+
+### Icheat.io
+
+### DeadlyCheats
+
+### 420cheats
 
 ## Have we missed someting?
 

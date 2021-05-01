@@ -27,9 +27,6 @@
 * [Iniuria](legit-features-only-cheat-software/iniuria/README.md)
   * [How to inject](legit-features-only-cheat-software/iniuria/how-to-inject.md)
   * [Menu introduction](legit-features-only-cheat-software/iniuria/menu-introduction.md)
-* [Spirthack](legit-features-only-cheat-software/spirthack/README.md)
-  * [How to inject](legit-features-only-cheat-software/spirthack/how-to-inject.md)
-  * [Menu introduction](legit-features-only-cheat-software/spirthack/menu-introduction.md)
 
 ## Legit + HvH Features cheat software
 
@@ -40,12 +37,13 @@
   * [How to inject](legit-+-hvh-features-cheat-software/onetap/how-to-inject.md)
   * [Menu introduction](legit-+-hvh-features-cheat-software/onetap/menu-introduction.md)
 * [Neverlose](legit-+-hvh-features-cheat-software/neverlose/README.md)
-  * [How to inject](legit-+-hvh-features-cheat-software/onetap/how-to-inject.md)
-  * [Menu introduction](legit-+-hvh-features-cheat-software/onetap/menu-introduction.md)
+  * [How to inject](legit-+-hvh-features-cheat-software/neverlose/how-to-inject.md)
+  * [Menu introduction](legit-+-hvh-features-cheat-software/neverlose/menu-introduction.md)
 
 ## Free and pastes
 
 * [Introduction](free-and-pastes/introduction.md)
+* [VAC-bypass](free-and-pastes/vacbypass.md)
 * [Ratpoison](free-and-pastes/ratpoison/README.md)
   * [Test1](free-and-pastes/ratpoison/test1.md)
   * [Test2](free-and-pastes/ratpoison/test2.md)
@@ -81,7 +79,7 @@
   * [Legit](cheat-configuration/iniuria/legit.md)
   * [Blatant](cheat-configuration/iniuria/blatant.md)
   * [Legit HvH](cheat-configuration/iniuria/legit-hvh.md)
-* [Spirthack](cheat-configuration/spirthack/README.md)
+* [Neverlose](cheat-configuration/spirthack/README.md)
   * [Closet](cheat-configuration/spirthack/closet.md)
   * [Legit](cheat-configuration/spirthack/legit.md)
   * [Blatant](cheat-configuration/spirthack/blatant.md)
@@ -143,4 +141,3 @@
 * [Things to do when your account got banned](miscellaneous/things-to-do-when-your-account-got-banned.md)
 * [How to start coding a cheat](miscellaneous/how-to-start-coding-a-cheat.md)
 * [Final words](miscellaneous/final-words.md)
-
