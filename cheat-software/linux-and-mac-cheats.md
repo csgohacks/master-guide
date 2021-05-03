@@ -24,8 +24,6 @@ Due to the different architchure deisgn compared to Windows, it makes VAC being 
 
 [Fuzion](https://github.com/LWSS/Fuzion) is a linux cheat that is modified from aimtux, another CSGO cheat that was no longer maintained. It has legit and rage features available. However as mentioned from github, some users have reported that the cheat might be detected, so other it is recommend to use other active public forks.
 
-### Project Infinity
-
 ## macOS
 
 Due to macOS's security features, it is difficult for cheat developers to code a cheat on macOS, however this also applies to VAC, which is the same as linux, are being limited too.
