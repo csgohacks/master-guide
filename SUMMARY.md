@@ -21,6 +21,7 @@
 * [Anti-Cheats](cheat-software/anti-cheats.md)
 * [Common mistakes when choosing a cheat software](cheat-software/common-mistakes-when-choosing-a-cheat-software.md)
 * [Pastes and scams](cheat-software/pastes-and-scams.md)
+* [Linux and macOS cheats](cheat-software/linux-and-mac-cheats.md)
 
 ## Legit features only cheat software
 

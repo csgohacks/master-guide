@@ -2,6 +2,16 @@
 
 These are some cheats that have been identified as scams, which you should just stay away from them.
 
+## Ezfrags
+
+Ezfrags is technically not a paste, but with it's high detection it is not recommended to use.
+
+Plus please do not buy Ezfrag's premium subscription, since it is just the same as Ezfrag's free version, but ironically it has a highly detection rate than the free version. So just stay away from both Ezfrag's plan.
+
+## Project Infinity
+
+Project Infinity also has a free version, but since it has been identified as a paste and having a terrible detection rate, we do not recommend you to try it out, despite for some reason a lot of youtubers have chosen it to demostrate how CSGO cheating looks like.
+
 ## DarkAim
 
 A jme paste, same dev that works on Abyss, InsanityCheats and used to work on Redeye Cheats, dev has sold pastes before, vac detected and receives nearly zero updates.
@@ -36,15 +46,9 @@ Used to be a jme paste, Used to have the dev that worked on Darkaim, InsanityChe
 
 A jme paste, same dev that works on Darkaim, InsanityCheats used to work on RedeyeCheats, Dev has sold pastes before, Vac detection issues, Receives nearly zero updates and a non-existent staff team/a team that doesn't care.
 
-## Ezfrags
+## ayyware
 
-Ezfrags is technically not a paste, but with it's high detection it is not recommended to use.
-
-Plus we do not recommend people buying Ezfrag's premium subscription, since it is just the same as Ezfrag's free version, but ironically it has a highly detection rate than the free version. So just stay away from both Ezfrag's plan.
-
-## Project Infinity
-
-Project Infinity also has a free version, but since it has been identified as a paste, we do not recommend you to try it out.
+Basically an outdated open-source cheat.
 
 ## Zapped
 
@@ -63,6 +67,6 @@ The cheats listed here should be avoid too. However we need more information why
 
 ### 420cheats
 
-## Have we missed someting?
+## Have we missed something?
 
 If we missed out other scam or paste cheat providers, feel free to [create an issue on our github](https://github.com/csgohacks/master-guide/issues), and we will look at it. However keep in mind that we may not include all of them into this list.
