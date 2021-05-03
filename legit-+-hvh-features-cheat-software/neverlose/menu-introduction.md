@@ -2,6 +2,16 @@
 
 Here we will walkthrough all the features inside neverlose.
 
+## General
+
+![](https://i.imgur.com/JVV5vfz.png)
+
+If you used spirthack before, you will find both cheat's layout are similar. As you seen from the menu, the left panel is neverlose's navigation panel which allows you to navigate through different tabs of the cheat. On the bottom right, you can see your username and your subscription due date.
+
+### Searching
+
+If you would like to search for specific feature, you can click on the "search" button on the top right.
+
 ## Legitbot
 ![](https://i.imgur.com/JVV5vfz.png)
 

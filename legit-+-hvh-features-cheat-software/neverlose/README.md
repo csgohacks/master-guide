@@ -1,9 +1,10 @@
 ## Neverlose 
+
 ![Neverlose logo](https://i.imgur.com/yjXJ5Pb.png)
 
 ![Neverlose menu](https://i.imgur.com/LoCxojC.png) 
 
-Neverlose.cc is a russian private cheat provider that started back in 2019. It is developed by the same team developed spirthack and being publicly available in April 2021.
+[Neverlose](https://neverlose.cc/) is a russian private cheat provider that started back in 2019. It is developed by the same team developed spirthack and being publicly available in April 2021.
 
 ## Pricetag
 

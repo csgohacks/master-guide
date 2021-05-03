@@ -1,12 +1,14 @@
 # Onetap
 
-![](https://i.imgur.com/GD0RZmF.jpg) [Onetap.su](https://onetap.su/) \(Now [onetap.com](https://onetap.com/)\) is a cheat provider that come around in 2018, back then it was still a private cheat. In 2019, as onetap decided to go public, it started to gain lots of users. Finally in late 2020, onetap releases v4 of their Counter-Strike: Global Offensive cheat, with ECMAScript 5 \(Javascript\) scripting support.
+![](https://i.imgur.com/GD0RZmF.jpg) 
+
+[Onetap.su](https://onetap.su/) \(Now [onetap.com](https://onetap.com/)\) is a cheat provider that come around in 2018, back then it was still a private cheat. In 2019, as onetap decided to go public, it started to gain lots of users. Finally in late 2020, onetap releases v4 of their Counter-Strike: Global Offensive cheat, with ECMAScript 5 \(Javascript\) scripting support.
 
 ## Pricetag
 
 * 19.99 EUR \(~ 22.29 USD\) for 30 Days
-* 49.99 CHF \(~ 55.73 USD\) for 90 Days
-* 99.99 CHF \(~ 111.47 USD\) for 360 Days
+* 49.99 EUR \(~ 55.73 USD\) for 90 Days
+* 99.99 EUR \(~ 111.47 USD\) for 360 Days
 
 Keep in mind that onetap now uses a subscription model, which means it will automatically purhcase your subscription when your subscription ends.
 

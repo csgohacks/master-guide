@@ -1,6 +1,6 @@
 # Menu Introduction
 
-Here we will introduce aimware's menu in depth by explaining their functions.
+Here we will introduce aimware's menu in depth by explaining their functions. Most of aimware's features are explained in the cheat's menu. So here we will only pick the features that we think it should worth a mention.
 
 ## General
 
