@@ -10,6 +10,8 @@
 ## Introduction
 
 * [First steps](introduction/first-steps.md)
+* [Frequently asked questions](introduction/FAQ.md)
+* [Game Bans](introduction/game-bans.md)
 * [Terminology of csgo cheating](introduction/terminology-of-csgo-cheating.md)
 * [Game Bans](introduction/game-bans.md)
 * [Cheat Features](introduction/cheat-features.md)

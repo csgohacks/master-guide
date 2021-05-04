@@ -1,8 +1,11 @@
 # Luckycharms
-![](https://i.ytimg.com/vi/omTeQkKH4Ao/maxresdefault.jpg)
+
+![](https://i.ytimg.com/vi/JWK1bMH3JQU/hqdefault.jpg)
+
 Luckycharms is a free cheat developed by a youtube user called [lucky](https://www.youtube.com/channel/UCh-TyD-_lUzknDDHoicsgTQ). According to lucky, this is a HvH-focused cheat which aims for users who don't want to use Onetap crack and cannot afford for a paid cheat. 
 
 ## Pricetag
+
 Despite the cheat itself is free to use, however there is a 'Early access' version only available to users who joined lucky's youtube membership. This version will also provide a legitbot, which is lacking in the free version.
 
 * Free for only HvH features
@@ -12,14 +15,13 @@ Despite the cheat itself is free to use, however there is a 'Early access' versi
 
 ### Opinions ahead!
 --TODO: DO NOT TAKE THE FOLLOWING OPINIONS AS REFERENCE!
+
 * The following section is only from the users who used luckycharms as their major cheating software, however theese only should taken as references only.
 * All theese testimonials does not represnt the offical statment of the r/csgohacks subreddit.
 
 ### Legitbot
 
-* Highly adjustable option, which means will take time to configure
-* Smooth aimbot
-* Dymanic triggerbot
+* Only available for Early-access role users, which is not focused in our cover
 
 ### Ragebot
 
@@ -45,17 +47,15 @@ Despite the cheat itself is free to use, however there is a 'Early access' versi
 
 ### Services
 
-* Moderators barely reply
-
 
 ### Overall
 
-* Decent legitbot
-* Improved ragebot
+* No legitbot in free version
+* A men ragebot
 * Meh Visuals
 * Feature-rich miscellaneous options
 * Bad customer services
-* Still worthy for a lifetime subscription for it's name and stability.
+* This only should be your consideration when OTC3 does not work anymore, which should not be anytime soon.
 
 --TODO-- Insert more opinions about luckycharms.
 
