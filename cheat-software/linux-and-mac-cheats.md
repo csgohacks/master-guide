@@ -14,7 +14,7 @@ Due to the different architchure deisgn compared to Windows, it makes VAC being 
 
 ![logo of gamesneeze](https://raw.githubusercontent.com/seksea/gamesneeze/master/res/chams.png)
 
-[Gamesneeze](https://github.com/seksea/gamesneeze) (Not to confused with gamesense, which only available on windows) is another linux cheat with legit and rage features available. It is still in active development.
+[Gamesneeze](https://github.com/seksea/gamesneeze) (Not to confused with gamesense, which only available on windows) is a linux cheat with legit and rage features available. It is still in active development.
 
 ### Fuzion
 
@@ -22,11 +22,11 @@ Due to the different architchure deisgn compared to Windows, it makes VAC being 
 
 ![Menu of fuzion](https://camo.githubusercontent.com/fd4d0d594c6f738ef5452c753b1833962c245a63b0885062f435cfaf32952b5b/687474703a2f2f692e696d6775722e636f6d2f4e6853454f39572e706e67)
 
-[Fuzion](https://github.com/LWSS/Fuzion) is a linux cheat that is modified from aimtux, another CSGO cheat that was no longer maintained. It has legit and rage features available. However as mentioned from github, some users have reported that the cheat might be detected, so other it is recommend to use other active public forks.
+[Fuzion](https://github.com/LWSS/Fuzion) is a linux cheat that is modified from aimtux, another CSGO cheat that was no longer maintained. It has legit and rage features available. However as mentioned from github, some users have reported that the cheat might be detected, so it is recommend to use other active public forks, like [MissedIT](https://github.com/HackerPolice/MissedIT).
 
 ## macOS
 
-Due to macOS's security features, it is difficult for cheat developers to code a cheat on macOS, however this also applies to VAC, which is the same as linux, are being limited too.
+Due to macOS's security features, it is difficult for cheat developers to code a cheat on macOS, however this also applies to VAC, which it's functionallity are being limited due to the same reason.
 
 ### ButOSX
 
@@ -34,9 +34,18 @@ Due to macOS's security features, it is difficult for cheat developers to code a
 
 ![Menu of the cheat](https://i.imgur.com/8zmB3Hd.png)
 
-![It also support touchbar, too.](https://camo.githubusercontent.com/8eb6585cb5b0f6aabad6c1fe0b2cdd90306e76086f22613fbe499c7ac28cb4f7/68747470733a2f2f692e696d6775722e636f6d2f68704a62356e7a2e706e67)
+![It also support touchbar.](https://camo.githubusercontent.com/8eb6585cb5b0f6aabad6c1fe0b2cdd90306e76086f22613fbe499c7ac28cb4f7/68747470733a2f2f692e696d6775722e636f6d2f68704a62356e7a2e706e67)
 
-ButOSX is technically not a "Cheat software", but instead a software base forked from the discontiuned "Microwave" cheat. This could allow other cheat developers to work on it. It is the only public project that is in active development. If you are interested in using macOS for CSGO cheating, you should follow on this project.
+[ButOSX](https://github.com/Lyceion/ButOSX) is technically not a "Cheat software", but instead a software base that could allow other cheat developers to work on it. It is the only public project that is in active development and support injecting on m1 chips. If you are interested in using macOS for CSGO cheating, you should follow on this project.
+
+// TODO
+NEED MORE INFORMATION ON THESE CHEATS. THEY MIGHT BE LEGIT, PASTES, OR FALSE INFORMATION
+
+### Breathless
+
+### Cyinade
+
+### Shaky.CC
 
 ## We missed out some linux and macOS cheats that you know?
 

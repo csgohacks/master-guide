@@ -13,9 +13,86 @@ If you used spirthack before, you will find both cheat's layout are similar. As 
 If you would like to search for specific feature, you can click on the "search" button on the top right.
 
 ## Legitbot
+
 ![](https://i.imgur.com/JVV5vfz.png)
 
+### Main
+
+General settings for legitbot.
+
+* Enable legitbot: Toggles on/off the legit bot
+  
+* Activation: Determines when to activate the legitbot:
+  * Hotkey: When pressed on the defined hotkey, it will activate the legitbot
+  * Always: Always enable the legitbot
+
+* Hotkey: Here you can set which key would activate when you choose "Hotkey" in activation.
+
+* Disable aimbot if: Force the cheat to diable aimbot when specific conditions are matched:
+  * TODO
+
+* Backtracking: Allows you to hit the player in their previous X ms postion.
+
+* Draw fov: Draws the aimbot FOV on your screen. The aimbot FOV means the aimbot will shoot players within the FOV circle.
+
+* Autopistol: Automatically fires your pistol to the enemy inside the fov.
+
+### Fitst bullet
+
+Settings for how the first bullet should behaviour.
+
+* FOV: The field-of-view that the aimbot would see on the first bullet.
+
+* Smooth: How "smooth" the aimbot should drag the crosshair to the target enemy player. The higher the smoooth value, the slower the aimbot dragging the crosshair.
+
+### Other bullets
+
+Settings for how other bullets should behaviour after the first shot.
+
+* Use first bullet settings: Copys the settings for FOV and smoothing you set in "First bullet".
+
+* FOV: The field-of-view that the aimbot would see on the first bullet.
+
+* Smooth: How "smooth" the aimbot should drag the crosshair to the target enemy player. The higher the smoooth value, the slower the aimbot dragging the crosshair.
+
+### Recoil control
+
+Settings on Recoil control system (RCS)
+
+* Enable RCS: Enable the Recoil control system, so that the cheat will helps your to control the recoil of the gun, thus allowing more accurate shots.
+
+* Standalone RCS: The movement of RCS will not be affected by the aimbot. Generally aimbot and RCS are tied together, so that you could land your shots on enemy players more accurately. However this might cause trouble sometimes.
+
+* Pitch: Overrides the default value for pitch when shooting.
+
+* Yaw: Overrides the default value for yaw when shooting.
+
+### Delay
+
+Settings on the delay regarding the aimbot. The higher the value on both settings, the longer time it takes.
+
+* After kill: How many microseconds to re-activate the aimbot after killing one enemy.
+
+* First bullet delay: How many microseconds to re-activate the aimbot after the first shot was fired.
+
+### Autofire
+
+As known as "Triggerbot" in other cheats.
+
+* Enabled: Enable autofire feature
+
+* Hitchance: Determine the percentage condition that the cheat should open fire. The hight the value, the more accurate your shot and doing vice versa will makes your shot less accurate. However setting too high will cause the cheat too late to open fire.
+
+### Autowall
+
+Allowing the legitbot to shoot through walls that legit players would shoot.
+
+* Enabled: Enable autowall feature.
+
+* Minium damage: Determine the damage condition that the cheat should do autowall firing. The hight the value, the more high damager your shot will goes to the enemy player and doing vice versa will makes your shot less damage to the enemy. However setting too high might cause the cheat not to do so.
+
 ## Ragebot
+
 ![](https://i.imgur.com/VlK4oxY.png)
 
 ## Anti Aim

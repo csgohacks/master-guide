@@ -12,7 +12,6 @@
 * [First steps](introduction/first-steps.md)
 * [Terminology of csgo cheating](introduction/terminology-of-csgo-cheating.md)
 * [Game Bans](introduction/game-bans.md)
-* [Internal vs External](introduction/internal-vs-external.md)
 * [Cheat Features](introduction/cheat-features.md)
 
 ## Cheat Software

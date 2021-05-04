@@ -2,7 +2,7 @@
 
 ![Neverlose logo](https://i.imgur.com/yjXJ5Pb.png)
 
-![Neverlose menu](https://i.imgur.com/LoCxojC.png) 
+![Neverlose menu](https://i.imgur.com/LoCxojC.png)
 
 [Neverlose](https://neverlose.cc/) is a russian private cheat provider that started back in 2019. It is developed by the same team developed spirthack and being publicly available in April 2021.
 
@@ -28,7 +28,7 @@
 
 ### Ragebot
 
-* Highly customizable. // TODO
+* Highly customizable.
 * Anti-Aim features is decent, but still recommend to use lua script to get better esults
 
 ### Visuals
@@ -57,8 +57,10 @@
 * Decent legitbot
 * Highly customizable ragebot config by default.
 * Excellent Visuals
-* Average miscellaneous options
+* Average miscellaneous options, but including a inventory changer is a plus.
 * Worthy for people who wants to do both HvH and Legit cheting.
+  
+> Neverlose is basically Onetap but it has an actual resolver and is russian. - [u/kittenpopo](https://www.reddit.com/r/Csgohacks/comments/n3xgdc/yep/gwtroel/?context=3)
 
 ## Prerequisites
 

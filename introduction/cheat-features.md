@@ -1,8 +1,6 @@
-## Cheat features
+# Cheat features
 
 * Aimbot - An aimbot is a software tool that allow the player to shoot enemies without having to aim their weapon. In most cheat software there are two types of aimbot: Legit and rage aimbot. The legit aimbot will also provide a smoothing function, which determines the speed of the aimbot moves the aim to the enemy's head or any other selected hitbox. As for a rage aimbot, it just behaves like a general aimbot, but it does immediately snap to the enemy's head.
-
-* Triggerbot - Helps you to shoot towards an enemy when the enemy is located at cheater's crosshair. Usually comes with a delay function to let the user choose the delay when the triggerbot will shoot.
 
 * Hitbox priority - In general, a playermodel hitbox is divided into different parts to the playermodel, in order to calculate the damage from the player
 
@@ -58,7 +56,9 @@ In CSGO, in order to reduce latency between client and the server, a tick system
   
   * Hide shots. This will disable fakelag when you are shooting to the desired direction. With fakelag enabled, you "onshot" state will preserve longer and thus allowing enemy players to shoot you through the head easily as when you are shooting there is no anti-aim. However both doubletap and hide shots could not be used together.
 
-# Visuals \(only ones that aren’t defined in the name. e.g. Healthbar\)
+## Visuals
+
+Here we will explain the features that isn't self-explaintoary.
 
 * Chams - colours playermodels and/or changes their materials.
 
@@ -80,7 +80,7 @@ In CSGO, in order to reduce latency between client and the server, a tick system
 
 * Knife/Zeus range - draws the range that the knife or zeus can do damage in around your playermodel \(useful in thirdperson\)
 
-# Misc
+## Misc
 
 * Autostrafe - automatically strafes for you. Looks like you are doing nothing on your screen.
 
@@ -88,7 +88,7 @@ In CSGO, in order to reduce latency between client and the server, a tick system
 
 * Auto accept - Automatically accepts when a match is found
 
-# Private features
+## Private features
 
 You should know these features despite it might be an impossible task for you to achieve one as a non-coder.
 
