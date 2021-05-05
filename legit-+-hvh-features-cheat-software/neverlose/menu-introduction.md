@@ -29,7 +29,9 @@ General settings for legitbot.
 * Hotkey: Here you can set which key would activate when you choose "Hotkey" in activation.
 
 * Disable aimbot if: Force the cheat to diable aimbot when specific conditions are matched:
-  * TODO
+  * Flashed: Disable aimbot when you get flashed.
+  * Enemy In Smoke: Disable aimbot when the emeny player is inside a smoke.
+  * In Jump: Disable aimbot when you jumping.
 
 * Backtracking: Allows you to hit the player in their previous X ms postion.
 
