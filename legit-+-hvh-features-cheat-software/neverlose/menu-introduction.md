@@ -49,7 +49,9 @@ Settings for how the first bullet should behaviour.
 
 ### Other bullets
 
-Settings for how other bullets should behaviour after the first shot.
+Settings for how other bullets should behaviour after the first few shots. When spraying with full auto weapons, (rifles, smgs etc) it will be activated after 3~5 bullets, while tapping/2-3 round burst with a rifle then you will only be using first bullet settings.
+
+However keep in mind that spamming with a pistol it won't use other bullet settings.
 
 * Use first bullet settings: Copys the settings for FOV and smoothing you set in "First bullet".
 
