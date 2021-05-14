@@ -1,0 +1,7 @@
+# Playstyle
+
+## Scout
+
+## Autos
+
+## AWP
