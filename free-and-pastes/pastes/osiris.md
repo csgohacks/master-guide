@@ -50,7 +50,7 @@ Next go into Header Files, and open Hooks.h. You will see 2 lines towards the to
 
 Delete these 2 lines.
 
-You will also see a line saying using `HookType = VmtSwap;`, delete that line too.
+You will also see a line saying using `using HookType = VmtSwap;`, delete that line too.
 
 You are done removing VMT hooking! Onto the next step.
 
