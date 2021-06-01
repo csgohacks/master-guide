@@ -21,22 +21,16 @@ If you would like to search for specific feature, you can click on the "search" 
 General settings for legitbot.
 
 * Enable legitbot: Toggles on/off the legit bot
-  
 * Activation: Determines when to activate the legitbot:
   * Hotkey: When pressed on the defined hotkey, it will activate the legitbot
   * Always: Always enable the legitbot
-
 * Hotkey: Here you can set which key would activate when you choose "Hotkey" in activation.
-
 * Disable aimbot if: Force the cheat to diable aimbot when specific conditions are matched:
   * Flashed: Disable aimbot when you get flashed.
   * Enemy In Smoke: Disable aimbot when the emeny player is inside a smoke.
   * In Jump: Disable aimbot when you jumping.
-
 * Backtracking: Allows you to hit the player in their previous X ms postion.
-
 * Draw fov: Draws the aimbot FOV on your screen. The aimbot FOV means the aimbot will shoot players within the FOV circle.
-
 * Autopistol: Automatically fires your pistol to the enemy inside the fov.
 
 ### Fitst bullet
@@ -44,31 +38,25 @@ General settings for legitbot.
 Settings for how the first bullet should behaviour.
 
 * FOV: The field-of-view that the aimbot would see on the first bullet.
-
 * Smooth: How "smooth" the aimbot should drag the crosshair to the target enemy player. The higher the smoooth value, the slower the aimbot dragging the crosshair.
 
 ### Other bullets
 
-Settings for how other bullets should behaviour after the first few shots. When spraying with full auto weapons, (rifles, smgs etc) it will be activated after 3~5 bullets, while tapping/2-3 round burst with a rifle it will only be using first bullet settings.
+Settings for how other bullets should behaviour after the first few shots. When spraying with full auto weapons, \(rifles, smgs etc\) it will be activated after 3~5 bullets, while tapping/2-3 round burst with a rifle it will only be using first bullet settings.
 
 However keep in mind that spamming with a pistol it won't use other bullet settings.
 
 * Use first bullet settings: Copies the settings for FOV and smoothing you set in "First bullet".
-
 * FOV: The field-of-view that the aimbot would see on the first bullet.
-
 * Smooth: How "smooth" the aimbot should drag the crosshair to the target enemy player. The higher the smoooth value, the slower the aimbot dragging the crosshair.
 
 ### Recoil control
 
-Settings on Recoil control system (RCS)
+Settings on Recoil control system \(RCS\)
 
 * Enable RCS: Enable the Recoil control system, so that the cheat will helps your to control the recoil of the gun, thus allowing more accurate shots.
-
 * Standalone RCS: The movement of RCS will not be affected by the aimbot. Generally aimbot and RCS are tied together, so that you could land your shots on enemy players more accurately. However this might cause trouble sometimes.
-
 * Pitch: Overrides the default value for pitch when shooting.
-
 * Yaw: Overrides the default value for yaw when shooting.
 
 ### Delay
@@ -76,7 +64,6 @@ Settings on Recoil control system (RCS)
 Settings on the delay regarding the aimbot. The higher the value on both settings, the longer time it takes.
 
 * After kill: How many microseconds to re-activate the aimbot after killing one enemy.
-
 * First bullet delay: How many microseconds to re-activate the aimbot after the first shot was fired.
 
 ### Autofire
@@ -84,7 +71,6 @@ Settings on the delay regarding the aimbot. The higher the value on both setting
 Similar to "Magnet Triggerbot" in other cheats. It will also aims to the player and shoots for you.
 
 * Enabled: Enable autofire feature
-
 * Hitchance: Determine the percentage condition that the cheat should open fire. The hight the value, the more accurate your shot and doing vice versa will makes your shot less accurate. However setting too high will cause the cheat too late to open fire.
 
 ### Autowall
@@ -92,7 +78,6 @@ Similar to "Magnet Triggerbot" in other cheats. It will also aims to the player 
 Allowing the legitbot to shoot through walls that legit players would shoot.
 
 * Enabled: Enable autowall feature.
-
 * Minium damage: Determine the damage condition that the cheat should do autowall firing. The hight the value, the more high damager your shot will goes to the enemy player and doing vice versa will makes your shot less damage to the enemy. However setting too high might cause the cheat not to do so.
 
 ## Ragebot
@@ -150,3 +135,4 @@ Allowing the legitbot to shoot through walls that legit players would shoot.
 ## Config
 
 ![](https://i.imgur.com/DepnVV8.png)
+

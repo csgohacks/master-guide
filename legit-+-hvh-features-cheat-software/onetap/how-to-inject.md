@@ -19,7 +19,7 @@ Then, the program should ask for your user credentials, which you should put in 
 
 ![](https://i.imgur.com/bgEqGDX.png)
 
-After you login to the loader, there should be a panel to allows you to select the cheat you would like to inject. You can just click on the load button. 
+After you login to the loader, there should be a panel to allows you to select the cheat you would like to inject. You can just click on the load button.
 
 ![](https://i.imgur.com/mPckWXR.png)
 
@@ -28,6 +28,8 @@ After the please wait window, the loader should closed by itself and it will ope
 ## Common issues
 
 * Q: Injection takes too long!
+
     A: Assuming your intyernet connection is normal, this is mostly due to Onetap's loader is unavilable. Try create a ticket to onetap admins.
 
 If you receive an error when injecting, usually the injector will open up the error code explaination on your default web browser. Follow the instruction in the webpage, or contact admins for further information.
+

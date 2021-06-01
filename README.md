@@ -1,6 +1,8 @@
+# Welcome!
+
 ![Logo of csgohacks subreddit](https://i.imgur.com/j0i3g9o.png)
 
-# r/csgohacks masterguide
+## r/csgohacks masterguide
 
 ![](https://img.shields.io/badge/autism-included-brightgreen)
 
@@ -22,11 +24,11 @@ This project aims to provide a master guide on cheating in Counter-Strike: Globa
 
 You can check out the master guide [here](https://matt12945.gitbook.io/csgo-subreddit/).
 
-## Issues and pull requests
+### Issues and pull requests
 
 We highly welcome any to contribute to this master guide by creating a pull request or making a issue for any improvements.
 
-## Contributors
+### Contributors
 
 * _throwaway27727394927 \(matt1\)_ 
 * _Hackintosh12945_
@@ -38,10 +40,11 @@ We highly welcome any to contribute to this master guide by creating a pull requ
 * _Horsefucker88 \(Dream\)_
 * _ic3dm4ng0 \(invisible name lel\)_
 
-## License
+### License
 
 This masterguide is created under the MIT License, for more details please read our [LICENSE](https://github.com/csgohacks/master-guide/blob/master/LICENSE) file.
 
-## In memorial of
+### In memorial of
 
 * _BigJuicyLawnMover321_
+

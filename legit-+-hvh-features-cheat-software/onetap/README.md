@@ -1,6 +1,6 @@
 # Onetap
 
-![](https://i.imgur.com/GD0RZmF.jpg) 
+![](https://i.imgur.com/GD0RZmF.jpg)
 
 [Onetap.su](https://onetap.su/) \(Now [onetap.com](https://onetap.com/)\) is a cheat provider that come around in 2018, back then it was still a private cheat. In 2019, as onetap decided to go public, it started to gain lots of users. Finally in late 2020, onetap releases v4 of their Counter-Strike: Global Offensive cheat, with ECMAScript 5 \(Javascript\) scripting support.
 
@@ -73,3 +73,4 @@ Keep in mind that onetap now uses a subscription model, which means it will auto
 
 * Windows 10 \(64 bit, version 1803 or above.\) [How do I Check my windows version?](https://support.microsoft.com/en-us/help/13443/windows-which-version-am-i-running)
 * [Microsoft Visual C++ Redistributable for Visual Studio 2017](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads) \(both the x86 and x64 versions\)
+

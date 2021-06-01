@@ -28,7 +28,7 @@ Lying about permanent detections in multiple games.
 
 Fake-Reviews, Fake-Infos
 
-Little features for the price, dev couldn't give two flying ducks about the cheat (thats why its pasted), detected often and make sure to stay away from the free cheat as its so broken and nearly as detected as ezfrags.
+Little features for the price, dev couldn't give two flying ducks about the cheat \(thats why its pasted\), detected often and make sure to stay away from the free cheat as its so broken and nearly as detected as ezfrags.
 
 ## Omniaim
 
@@ -59,6 +59,7 @@ Basically an outdated open-source cheat.
 Zapped.cc is a highly controversial cheat provider that has been claimed to leaking it's user's ip address, causing user's online privacy might be compromised. Also according to [Boring](pastes-and-scams.md), a famous cheating youtuber, who has pointed out several evidence about zapped that it is a scam. However since we cannot validate the accuracy of his sources, we are still unable to give a conclusion as of right now, but until then it will still be on the paste and scam list.
 
 ## TODO Section
+
 The cheats listed here should be avoid too. However we need more information why we should avoid them.
 
 ### Icheat.io
@@ -70,3 +71,4 @@ The cheats listed here should be avoid too. However we need more information why
 ## Have we missed something?
 
 If we missed out other scam or paste cheat providers, feel free to [create an issue on our github](https://github.com/csgohacks/master-guide/issues), and we will look at it. However keep in mind that we may not include all of them into this list.
+

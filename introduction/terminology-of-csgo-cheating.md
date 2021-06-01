@@ -1,4 +1,4 @@
-# Terminology of CS:GO cheating
+# Terminology of csgo cheating
 
 These are the terms that are commonly used in the CS:GO cheating community:
 
@@ -23,7 +23,7 @@ These are the terms that are commonly used in the CS:GO cheating community:
 * HvH - A short term for "Hack-versus-Hack". In these cases, the cheaters on both sides will load up their rage configuration in order to win the match. Mostly seen on non-prime level 2 accounts.
 * Legit HvH - Simlar to HvH, but in this case, the cheater on both sides will only toggle their blatant configuration, since they don't want to have the risk of a ban \(Despite the chances of getting banned on legit HvH are very high\). Mostly seen on non-prime or prime MM.
 * P / p100 - A term to represent something is very good, near perfection. For example, when a cheater typed "hitting p" in chat, this means his ragebot always hits the target, running nearly perfect. Or when some cheater says "p media", which means this is some excellent sources to be used in a video / photo etc...
-* 1 - Killing the enemy with one shot (headshot)
+* 1 - Killing the enemy with one shot \(headshot\)
 * Baim - Stands for "Body-aim".
 * Sliding - When a cheater toggles side walk, other players will see the legs of the cheater's playermodel become frozen, looks like sliding.
 
@@ -55,7 +55,7 @@ These are the terms that are commonly used in the CS:GO cheating community:
 ### Cheat providers
 
 * Aimware:
-  * polak: The coder of aimware (TODO: idk who on earth is coding aw rn )
+  * polak: The coder of aimware \(TODO: idk who on earth is coding aw rn \)
   * zim: The administrator of aimware. He is responsible for customer support and such.
 * Onetap
   * llama: The coder of onetap.
@@ -75,4 +75,5 @@ TODO
 
 ### Honourable mention:
 
-  * Moderators from r/csgohacks: Of course you should know more about us! If you got any issues in CSGO cheating, feel free to create a post on subreddit!
+* Moderators from r/csgohacks: Of course you should know more about us! If you got any issues in CSGO cheating, feel free to create a post on subreddit!
+

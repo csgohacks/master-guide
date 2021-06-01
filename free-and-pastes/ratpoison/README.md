@@ -15,8 +15,7 @@ Ratpoison is an external legit cheat that was forked from charlatano\(Which also
 
 Head over to [their Github repository](https://github.com/TheFuckingRat/RatPoison/)
 
-Click on "Clone or Download", then in the drop-down window, click download as zip.
-![ratpdownload](https://prnt.sc/t3w2q0)
+Click on "Clone or Download", then in the drop-down window, click download as zip. ![ratpdownload](https://prnt.sc/t3w2q0)
 
 After you downloaded the zip file, unzip to a random folder, but we recommend that folder name should not have:
 
@@ -36,3 +35,4 @@ After you compiled the cheat, you need to run CSGO first, then run the .bat file
 Since it is an external, but it binds to the csgo.exe the menu shows up on top. Also, the default menu key is F1. \[TODO:Inject photos\]
 
 We recommend to load into this map [Aim Botz](https://steamcommunity.com/sharedfiles/filedetails/?id=243702660) and try to mess around with the settings, until you find the best legit config that works best for you. If you can't set it up, we will make a basic legit config in a later section.
+

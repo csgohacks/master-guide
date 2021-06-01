@@ -37,7 +37,6 @@ Then click Inject.
 
 After a window pop up that says 'loading....', the whole injector window will disappeared. If you are using [USB Method](how-to-inject.md), a window will pop up that says 'It's now safe to remove your USB device', which you can remove out the USB, and open up steam as usual. The default meny key is insert. [How do I found the insert key?](https://www.computerhope.com/jargon/i/insertke.htm)
 
-
 ## Common issues
 
 * TODO

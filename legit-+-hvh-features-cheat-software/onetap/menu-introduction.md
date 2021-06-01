@@ -1,8 +1,6 @@
 # Menu introduction
 
-Here we will walkthrough all the features inside onetap.
-PLEASE UPDATE, OT UPDATED
-
+Here we will walkthrough all the features inside onetap. PLEASE UPDATE, OT UPDATED
 
 ## Legit
 
@@ -14,9 +12,7 @@ PLEASE UPDATE, OT UPDATED
 
 ## Visuals
 
-
 ## Miscallenous
-
 
 ## Config
 

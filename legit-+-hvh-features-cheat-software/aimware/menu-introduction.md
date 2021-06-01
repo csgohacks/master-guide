@@ -36,7 +36,7 @@ On the left side are the sections inside the tab pages. And on the bottom in bot
 
 ## Visuals
 
-![Overlay(ESP)](https://i.imgur.com/ghfrdt4.png)
+![Overlay\(ESP\)](https://i.imgur.com/ghfrdt4.png)
 
 ![Local view modifiers](https://i.imgur.com/QFH26db.png)
 
@@ -65,3 +65,4 @@ On the left side are the sections inside the tab pages. And on the bottom in bot
 ![Theming](https://i.imgur.com/zKETbVb.png)
 
 ![Advanced settings](https://i.imgur.com/tyfboHO.png)
+

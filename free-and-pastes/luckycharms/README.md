@@ -2,7 +2,7 @@
 
 ![](https://i.ytimg.com/vi/JWK1bMH3JQU/hqdefault.jpg)
 
-Luckycharms is a free cheat developed by a youtube user called [lucky](https://www.youtube.com/channel/UCh-TyD-_lUzknDDHoicsgTQ). According to lucky, this is a HvH-focused cheat which aims for users who don't want to use Onetap crack and cannot afford for a paid cheat. 
+Luckycharms is a free cheat developed by a youtube user called [lucky](https://www.youtube.com/channel/UCh-TyD-_lUzknDDHoicsgTQ). According to lucky, this is a HvH-focused cheat which aims for users who don't want to use Onetap crack and cannot afford for a paid cheat.
 
 ## Pricetag
 
@@ -14,6 +14,7 @@ Despite the cheat itself is free to use, however there is a 'Early access' versi
 ## Testimonials
 
 ### Opinions ahead!
+
 --TODO: DO NOT TAKE THE FOLLOWING OPINIONS AS REFERENCE!
 
 * The following section is only from the users who used luckycharms as their major cheating software, however theese only should taken as references only.
@@ -44,9 +45,7 @@ Despite the cheat itself is free to use, however there is a 'Early access' versi
 
 * In .cfg file format, However not text-editable.
 
-
 ### Services
-
 
 ### Overall
 
@@ -62,3 +61,4 @@ Despite the cheat itself is free to use, however there is a 'Early access' versi
 ## Prerequisites
 
 * According to their website, there is not any extra prerequisites to use the cheat itself.
+

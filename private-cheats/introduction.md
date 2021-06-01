@@ -27,11 +27,11 @@ It has an un-hittable Anti-Aim and a 'godlike' resolver back during it's release
 
 ![The logo of novolinehook.](https://i.imgur.com/fQBhoD4.png)
 
-Novo.win (Previously novolinehook.com) is a German private cheat provider started in 2017. It is an excellent cheat for players who are aimed to closet, legit, or even semirage cheating. It is mostly known for its ability to stay undetected, and has dodged many of the recent waves.
+Novo.win \(Previously novolinehook.com\) is a German private cheat provider started in 2017. It is an excellent cheat for players who are aimed to closet, legit, or even semirage cheating. It is mostly known for its ability to stay undetected, and has dodged many of the recent waves.
 
 ![The menu of novolinehook.](https://image.prntscr.com/image/d3y5BHiwQ0eHrEgLJN2E8g.png)
 
-Novoline also has a league, and a private vesion (Hook of Ra). League version supports VAC, SMAC, EAC, CEVO, ESL WIRE (unstable), and FaceIT Serverside. Also, NovolineHook has an decent staff support, with fast HWID resets and willing to offer you remote support in certain cases.  
+Novoline also has a league, and a private vesion \(Hook of Ra\). League version supports VAC, SMAC, EAC, CEVO, ESL WIRE \(unstable\), and FaceIT Serverside. Also, NovolineHook has an decent staff support, with fast HWID resets and willing to offer you remote support in certain cases.
 
 However the developers are reported to be lazy to push updates to the cheat. Also keep in mind that this is a legit-focused cheat, so you won't have a big chance against ragers. With that being said, it's resolver and legit anti-aim are still useful to fight against other semi-ragers.
 
@@ -47,7 +47,7 @@ This cheat is used to be open for application, however recently it has turned in
 
 ![Ev0lve menu](https://i.imgur.com/z1ybnxm.png)
 
-ev0lve.xyz is a German private cheat provider that started back in 2015 as a invite only external legit cheat, it's since "evolved" into a well-developed internal HvH hack with loads of features also used outside of HvH, you could compare it to an HvH based cheat like Fatality with a few more legit features available. Application and invites are available, with limited application slots. 
+ev0lve.xyz is a German private cheat provider that started back in 2015 as a invite only external legit cheat, it's since "evolved" into a well-developed internal HvH hack with loads of features also used outside of HvH, you could compare it to an HvH based cheat like Fatality with a few more legit features available. Application and invites are available, with limited application slots.
 
 ## Rifk7
 
@@ -66,3 +66,4 @@ Nemesis.techonology is a cheat provider started in 20xx. Despite the cheat itsel
 ## We missed out some private cheats that you know?
 
 If you find out any other private cheats that we missed, feel free to [create an issue on our github](https://github.com/csgohacks/master-guide/issues) to submit it! However keep in mind that we will not accept all of them.
+

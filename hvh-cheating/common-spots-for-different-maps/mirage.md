@@ -15,3 +15,4 @@
 * Type: 1 way
 * Against: Palace
 * Possible to defeat?: Yes
+

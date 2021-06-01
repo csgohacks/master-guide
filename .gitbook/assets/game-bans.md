@@ -16,5 +16,5 @@ Griefing bans are overwatch bans that are "minor", will last 30 days the first t
 
 ## Untrusted
 
-Untrusted bans are similar to a VAC ban; permanent and skins are locked. Most cheats don't have untrusted bans. These bans can be caused due to features used in for example AimStep\(Arms Race, Deathmatch and such\) but every good cheat prevents the use of those features.
-
+Untrusted bans are similar to a VAC ban; permanent and skins are locked. Most cheats don't have untrusted bans.
+These bans can be caused due to features used in for example AimStep\(Arms Race, Deathmatch and such\) but every good cheat prevents the use of those features.

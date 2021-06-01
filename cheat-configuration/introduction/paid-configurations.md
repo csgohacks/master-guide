@@ -8,10 +8,9 @@ A good config can help you to get more kills, but the most important thing is yo
 
 ## Scripts
 
-As more cheats developers supports scripting to extend the behaviour of their product, there are a lot of scripts that is paid, while some don't. There is no denying there are some scripts that actually could ehance the experience when using the cheat, like semirage scripts (which is missing in some cheats), griefing scripts (fake votes, blockbot) or movement scripts. However there are a lot of useless scripts on the market that are paid or free to take. These scripts will simply wasting your time on using it. In short, it is recommend to avoid scripts like:
+As more cheats developers supports scripting to extend the behaviour of their product, there are a lot of scripts that is paid, while some don't. There is no denying there are some scripts that actually could ehance the experience when using the cheat, like semirage scripts \(which is missing in some cheats\), griefing scripts \(fake votes, blockbot\) or movement scripts. However there are a lot of useless scripts on the market that are paid or free to take. These scripts will simply wasting your time on using it. In short, it is recommend to avoid scripts like:
 
 * Anti-aim scripts: This is a little bit conterversal as some scripts would actually useful, however in fact most of them are useless as desync anti-aims are very limited. Also for newcomers, you will be disappointed that using a anti-aim scripts won't make you become a god instantly, as it is also tied to playstyle. In short, if you don't know how you can set-up these anti-aim scripts, don't buy it.
-
 * "HvH essentials" scripts: A lot of people will stacking up different essential scripts to hope for a best performance. Which is kinda useless as they are being limited by the cheat they are running on. In short, when getting these scripts you should take a look at:
   * Minium damage override
   * Matchmaking fakeduck
@@ -19,7 +18,7 @@ As more cheats developers supports scripting to extend the behaviour of their pr
 
 If your cheat is missing the features above, then you should take at least one of these scripts.
 
-* Reslover scripts: Straightforward blatant scam. There is no way to 100% reslove desync anti-aims. Also in the cheat itself, you can both force body-aim a player, or trying to reslover override. (That said there is still no gurantee you will able to kill the enemy player.)
+* Reslover scripts: Straightforward blatant scam. There is no way to 100% reslove desync anti-aims. Also in the cheat itself, you can both force body-aim a player, or trying to reslover override. \(That said there is still no gurantee you will able to kill the enemy player.\)
 
 ## Leaked Configs
 
@@ -41,8 +40,9 @@ Some of the aformentioned websites are invite only sadly, but in the end almost 
 
 ## Config Packs
 
-Some youtubers (Freak) have made massive cfg packs with hundreds of cfgs to try some paid, some public.
+Some youtubers \(Freak\) have made massive cfg packs with hundreds of cfgs to try some paid, some public.
 
 Here is a link to a post on the subreddit with links to download it:
 
 [Freaks config pack](https://www.reddit.com/r/Csgohacks/comments/f1wdlb/freak_config_pack_reuploaded/)
+

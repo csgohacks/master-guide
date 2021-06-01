@@ -7,7 +7,7 @@ If you just purchased neverlose, follow the following steps:
 Before injecting neverlose, make sure you have followed the following steps:
 
 * Disable you antivirus software
-* Shuts down steam entirely (Not required by neverlose, just a safety measure )
+* Shuts down steam entirely \(Not required by neverlose, just a safety measure \)
 
 ## Injection
 
@@ -26,3 +26,4 @@ After you clicked on it, a window will pop up and asking for your desired cheat 
 Then, click on "Start".
 
 After a window pop up that says 'Preparing for CSGO...', the whole injector window will disappeared. The default meny key is insert. [How do I found the insert key?](https://www.computerhope.com/jargon/i/insertke.htm)
+

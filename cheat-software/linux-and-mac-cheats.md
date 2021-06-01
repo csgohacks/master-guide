@@ -14,7 +14,7 @@ Valve's VAC team do not actively work on detecting cheats on macOS or Linux. The
 
 ![logo of gamesneeze](https://raw.githubusercontent.com/seksea/gamesneeze/master/res/chams.png)
 
-[gamesneeze](https://github.com/seksea/gamesneeze) (not to be confused with gamesense, which only available on Windows) is a Linux cheat with legit and rage features available. It is still in active development and will happily take pull requests for improvements.
+[gamesneeze](https://github.com/seksea/gamesneeze) \(not to be confused with gamesense, which only available on Windows\) is a Linux cheat with legit and rage features available. It is still in active development and will happily take pull requests for improvements.
 
 ### Fuzion
 
@@ -38,8 +38,7 @@ Due to macOS's security features, it is difficult for cheat developers to code a
 
 [ButOSX](https://github.com/Lyceion/ButOSX) is technically not a "Cheat software", but instead is a software base that could allow other cheat developers to work on it. It is the only public project that is in active development and supports injecting on M1 chips. If you are interested in using macOS for CS:GO cheating, you should follow this project.
 
-// TODO
-NEED MORE INFORMATION ON THESE CHEATS. THEY MIGHT BE LEGIT, PASTES, OR FALSE INFORMATION
+// TODO NEED MORE INFORMATION ON THESE CHEATS. THEY MIGHT BE LEGIT, PASTES, OR FALSE INFORMATION
 
 ### Breathless
 
@@ -50,3 +49,4 @@ NEED MORE INFORMATION ON THESE CHEATS. THEY MIGHT BE LEGIT, PASTES, OR FALSE INF
 ## We missed out some Linux and macOS cheats that you know?
 
 If you find out any other Linux and macOS cheats that we missed, feel free to [create an issue on our GitHub](https://github.com/csgohacks/master-guide/issues) to submit it! However keep in mind that we will not accept all of them.
+

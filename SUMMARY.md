@@ -10,15 +10,15 @@
 ## Introduction
 
 * [First steps](introduction/first-steps.md)
-* [Frequently asked questions](introduction/FAQ.md)
+* [Frequently asked questions](introduction/faq.md)
 * [Game Bans](introduction/game-bans.md)
 * [Terminology of csgo cheating](introduction/terminology-of-csgo-cheating.md)
-* [Game Bans](introduction/game-bans.md)
+* [Game Bans](introduction/game-bans-1.md)
 * [Cheat Features](introduction/cheat-features.md)
 
 ## Cheat Software
 
-* [Introduction](free-and-pastes/introduction.md)
+* [Introduction](cheat-software/introduction.md)
 * [Anti-Cheats](cheat-software/anti-cheats.md)
 * [Common mistakes when choosing a cheat software](cheat-software/common-mistakes-when-choosing-a-cheat-software.md)
 * [Pastes and scams](cheat-software/pastes-and-scams.md)
@@ -55,12 +55,9 @@
 * [Pastes](free-and-pastes/pastes/README.md)
   * [How to set up the development environment](free-and-pastes/pastes/how-to-set-up-the-development-environment.md)
   * [Sensum](free-and-pastes/pastes/sensum.md)
-  * [Osiris](free-and-pastes/pastes/osiris.md)
   * [Xy0](free-and-pastes/pastes/xy0.md)
 * [Cracks](free-and-pastes/cracks/README.md)
-  * [Onetap crack](free-and-pastes/cracks/onetap-crack/README.md)
-    * [How to inject](free-and-pastes/cracks/onetap-crack/how-to-inject.md)
-    * [Menu introduction](free-and-pastes/cracks/onetap-crack/menu-introduction.md)
+  * [Onetap crack](cheat-configuration/onetap-crack.md)
   * [Fatality crack](free-and-pastes/cracks/fatality-crack/README.md)
     * [How to inject](free-and-pastes/cracks/fatality-crack/how-to-inject.md)
     * [Menu introduction](free-and-pastes/cracks/fatality-crack/menu-introduction.md)
@@ -95,10 +92,10 @@
   * [Blatant](cheat-configuration/aimware/blatant.md)
   * [HvH](cheat-configuration/aimware/hvh.md)
 * [Ratpoison](cheat-configuration/ratpoison.md)
-* [Luckycharms (Free version)](cheat-configuration/luckycharms.md)
-* [Osiris](cheat-configuration/osiris.md)
+* [Luckycharms \(Free version\)](cheat-configuration/luckycharms.md)
 * [Onetap crack](cheat-configuration/onetap-crack.md)
 * [Fatality crack](cheat-configuration/fatality-crack.md)
+* [Osiris](cheat-configuration/osiris.md)
 
 ## Closet / Legit cheating
 
@@ -141,3 +138,4 @@
 * [Things to do when your account got banned](miscellaneous/things-to-do-when-your-account-got-banned.md)
 * [How to start coding a cheat](miscellaneous/how-to-start-coding-a-cheat.md)
 * [Final words](miscellaneous/final-words.md)
+

@@ -1,4 +1,6 @@
-## Neverlose 
+# Neverlose
+
+## Neverlose
 
 ![Neverlose logo](https://i.imgur.com/yjXJ5Pb.png)
 
@@ -59,10 +61,11 @@
 * Excellent Visuals
 * Average miscellaneous options, but including a inventory changer is a plus.
 * Worthy for people who wants to do both HvH and Legit cheting.
-  
+
 > Neverlose is basically Onetap but it has an actual resolver and is russian. - [u/kittenpopo](https://www.reddit.com/r/Csgohacks/comments/n3xgdc/yep/gwtroel/?context=3)
 
 ## Prerequisites
 
 * Windows 10 \(64 bit, version 1803 or above.\) [How do I Check my windows version?](https://support.microsoft.com/en-us/help/13443/windows-which-version-am-i-running)
 * [Microsoft Visual C++ Redistributable for Visual Studio 2017](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads) \(both the x86 and x64 versions\)
+

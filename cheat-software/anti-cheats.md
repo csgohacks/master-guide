@@ -18,8 +18,7 @@ VACNET is an "AI" system that can detect cheaters. It is generally only effectiv
 
 ## ESEA Anti-Cheat
 
-ESEA Anti Cheat is a client sided Anti Cheat that is pretty strong, meaning there are not that many cheats out for it and they are like cheats for Faceit client side really expensive.
-\(More info needed\)
+ESEA Anti Cheat is a client sided Anti Cheat that is pretty strong, meaning there are not that many cheats out for it and they are like cheats for Faceit client side really expensive. \(More info needed\)
 
 ## FACEIT server side
 
@@ -31,8 +30,7 @@ Faceit client side is incredibly hard and expensive to bypass correctly. Expect 
 
 ## SMAC \(SourceMod Anti-Cheat\)
 
-SMAC is a plugin server owners can use to protect their servers more. It is used on community servers. Due to it, being server sided it can't detect that much. Aimbot above a certain FOV for example will get detected. Many cheats also bypass SMAC, they just restrict your FOV and some other features, the same way it is done in Aimstep.
-\(I think it can detect more than just Aimbot above I think it was 40+ FOV but dunno --TODO\)
+SMAC is a plugin server owners can use to protect their servers more. It is used on community servers. Due to it, being server sided it can't detect that much. Aimbot above a certain FOV for example will get detected. Many cheats also bypass SMAC, they just restrict your FOV and some other features, the same way it is done in Aimstep. \(I think it can detect more than just Aimbot above I think it was 40+ FOV but dunno --TODO\)
 
 ## ESL Wire
 
@@ -41,3 +39,4 @@ SMAC is a plugin server owners can use to protect their servers more. It is used
 ## EAC
 
 --TODO
+
