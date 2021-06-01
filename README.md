@@ -1,4 +1,14 @@
-# Welcome!
+![Logo of csgohacks subreddit](https://i.imgur.com/j0i3g9o.png)
+
+# r/csgohacks masterguide
+
+![](https://img.shields.io/badge/autism-included-brightgreen)
+
+![](https://img.shields.io/badge/gamesense%20invite%20code-begging-green)
+
+![](https://img.shields.io/badge/onetap%20reslover-missing-orange)
+
+![](https://img.shields.io/badge/neverlose-neverwin-blue)
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](./#contributors-)
 
