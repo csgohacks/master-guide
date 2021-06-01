@@ -26,6 +26,7 @@ We highly welcome any to contribute to this master guide by creating a pull requ
 * _clonedbyfeds \(Kamay\)_
 * _panic-at-the-party1 \(Factor\)_
 * _Horsefucker88 \(Dream\)_
+* _ic3dm4ng0 \(invisible name lel\)_
 
 ## License
 
