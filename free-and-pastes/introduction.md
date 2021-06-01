@@ -1,10 +1,10 @@
 # Introduction
 
-Are you being to broke to afford for a cheat, or want to try how it's look like to cheat in CSGO before spending you money to buy one? The CSGO cheating community has come up with some free solution for you to try out! In this section will cover the most popular free cheats available in the internet. This including:
+Are you being to broke to afford a cheat, or want to try to cheat in CS:GO before spending your money to buy a paid cheat? The CSGO cheating community has come up with some free solutions for you to try out! In this section will cover the most popular free cheats available on the internet. This includes:
 
 * Onetap crack
 * Fatality crack
-* Ratpoison
-* Luckycharms
-* osiris
+* RatPoison
+* LuckyCharms
+* Osiris
 
