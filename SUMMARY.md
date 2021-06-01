@@ -54,6 +54,7 @@
   * [Menu introduction](free-and-pastes/luckycharms/menu-introduction.md)
 * [Pastes](free-and-pastes/pastes/README.md)
   * [How to set up the development environment](free-and-pastes/pastes/how-to-set-up-the-development-environment.md)
+  * [Osiris](free-and-pastes/pastes/osiris.md)
   * [Sensum](free-and-pastes/pastes/sensum.md)
   * [Xy0](free-and-pastes/pastes/xy0.md)
 * [Cracks](free-and-pastes/cracks/README.md)
