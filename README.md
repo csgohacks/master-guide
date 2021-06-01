@@ -1,6 +1,6 @@
 # Welcome!
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](./#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-9-orange.svg?style=flat-square)](./#contributors-)
 
 This project aims to provide a master guide on cheating in Counter-Strike: Global Offensive. This guide is divided into five main parts:
 
@@ -26,6 +26,7 @@ We highly welcome any to contribute to this master guide by creating a pull requ
 * _clonedbyfeds \(Kamay\)_
 * _panic-at-the-party1 \(Factor\)_
 * _Horsefucker88 \(Dream\)_
+* _ic3dm4ng0 \(invisible name lel\)_
 
 ## License
 
