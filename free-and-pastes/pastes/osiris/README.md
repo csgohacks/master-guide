@@ -1,7 +1,6 @@
 # Osiris
 
-Osiris is an open-source legit cheat for CS:GO. It is commonly used for pastes.
-In this guide, I will teach you how to make an undetected paste of Osiris.
+Osiris is an open-source legit cheat for CS:GO. It is commonly used as a base for pasted cheats. In this guide by BaconatorPizza, is going to teach how to compile osiris from source.
 
 ***
 
@@ -121,4 +120,4 @@ Find any decent injector (like [Extreme Injector](http://www.extreme-injector.co
 
 Don't share the cheat with very many people or VAC may start detecting it. Also, do these steps again every now and then to change the signature and get any new updates your source may have.
 
-Enjoy! (by BaconatorPizza.)
+Enjoy!
