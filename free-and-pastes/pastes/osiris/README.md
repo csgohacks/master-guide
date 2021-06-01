@@ -43,7 +43,7 @@ On the sidebar, you will see a folder called Hooks, open that up and delete VmtS
 
 Next go into Header Files, and open Hooks.h. You will see 2 lines towards the top:
 
-```
+```cpp
 #include "Hooks/VmtHook.h"
 
 #include "Hooks.VmtSwap.h"
