@@ -109,7 +109,7 @@ If you decided to get VMProtect, run that on your DLL. Take the outputted one, a
 
 Open up SigBench. In the first slot, input the original DLL from earlier. In the second slot, input your new one. Press benchmark.
 
-There should be a pretty big difference in signatures, and it should look something like this: ![https://imgur.com/6kOpTCv](https://images-ext-2.discordapp.net/external/LMWVhpRHkdrgo-EU_qdkTSWpFzxg6bLxbxvP_hbFsgc/https/i.imgur.com/6kOpTCv.png?width=400&height=219)
+There should be a pretty big difference in signatures, and it should look something like this: ![https://imgur.com/6kOpTCv](https://i.imgur.com/6kOpTCv.png)
 
 You are now done!
 
