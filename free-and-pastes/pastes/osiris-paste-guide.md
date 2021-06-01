@@ -118,7 +118,7 @@ You are now done!
 
 Find any decent injector (like [Extreme Injector](http://www.extreme-injector.com/#:~:text=Extreme%20Injector%20is%20a%20small,the%20hacking%20of%20computer%20games.), [Xenos](https://www.unknowncheats.me/forum/general-programming-and-reversing/124013-xenos-injector-v2-3-2-a.html) or the [GH Injector](https://guidedhacking.com/resources/guided-hacking-dll-injector.4/), really anything with manual mapping). Select your finished DLL, and inject!
 
-I also reccomend you use the [VAC Bypass Loader](https://www.youtube.com/watch?v=aPcTKcqG5KY) as it will also greatly reduce your chances of being banned with any cheat.
+I also reccomend you use the [VAC Bypass Loader](https://github.com/danielkrupinski/VAC-Bypass-Loader) as it will also greatly reduce your chances of being banned with any cheat.
 
 Don't share the cheat with very many people or VAC may start detecting it. Also, do these steps again every now and then to change the signature and get any new updates your source may have.
 
