@@ -16,17 +16,17 @@ Lastly, download [the VMProtect demo](https://vmpsoft.com/purchase/buy-online/).
 
 Extract the .ZIP file you downloaded with the Osiris source inside of it. Double click the .sln file inside of the folder you extract. This will open Visual Studio.
 
-![Failed to load image](https://preview.redd.it/1ec9jyqmthi51.png?width=658&format=png&auto=webp&s=6f354cdbff8ddc923a9bea990ad43305fa0feeb4)
+![Disable Optimization](https://preview.redd.it/1ec9jyqmthi51.png?width=658&format=png&auto=webp&s=6f354cdbff8ddc923a9bea990ad43305fa0feeb4)
 
 Right click the text that says 'Osiris' on the sidebar, and click Properties. Click on the arrow next to C/C++, click on Optimization, and set Optimization to 'Disabled \(/Od\)'.
 
 Click OK.
 
-![Failed to load image](https://preview.redd.it/7uc4dzumr8y31.png?width=846&format=png&auto=webp&s=a98d79a9cdd273c142cfe4c6101f10ab63119835)
+![Change it from Debug to Release](https://preview.redd.it/7uc4dzumr8y31.png?width=846&format=png&auto=webp&s=a98d79a9cdd273c142cfe4c6101f10ab63119835)
 
 Then, in the top bar, change Debug to Release, and change the thing next to it to x86 \(it should be x86 by default though\).
 
-![Failed to load image](https://preview.redd.it/pyn1lr6yuhi51.png?width=320&format=png&auto=webp&s=627d3c4b81f3390e18a3457039f18872eec24e93)
+![](https://preview.redd.it/pyn1lr6yuhi51.png?width=320&format=png&auto=webp&s=627d3c4b81f3390e18a3457039f18872eec24e93)
 
 Press Local Windows Debugger \(or whatever it says for you\), and wait for it to build. Then go into your project folder again, and then into Release, you should see a file called Osiris.dll. Copy that file and paste it in another directory for later, like your Desktop.
 
@@ -94,7 +94,7 @@ If you decided to get VMProtect, run that on your DLL. Take the outputted one, a
 
 Open up SigBench. In the first slot, input the original DLL from earlier. In the second slot, input your new one. Press benchmark.
 
-There should be a pretty big difference in signatures, and it should look something like this: ![https://imgur.com/6kOpTCv](https://i.imgur.com/6kOpTCv.png)
+There should be a pretty big difference in signatures, and it should look something like this: ![SigBench after a scan](https://i.imgur.com/6kOpTCv.png)
 
 You are now done!
 
