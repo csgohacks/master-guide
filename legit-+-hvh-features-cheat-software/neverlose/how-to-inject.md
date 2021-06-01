@@ -25,4 +25,4 @@ After you clicked on it, a window will pop up and asking for your desired cheat 
 
 Then, click on "Start".
 
-After a window pop up that says 'Preparing for CSGO....', the whole injector window will disappeared. The default meny key is insert. [How do I found the insert key?](https://www.computerhope.com/jargon/i/insertke.htm)
+After a window pop up that says 'Preparing for CSGO...', the whole injector window will disappeared. The default meny key is insert. [How do I found the insert key?](https://www.computerhope.com/jargon/i/insertke.htm)

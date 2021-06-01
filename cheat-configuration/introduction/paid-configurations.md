@@ -12,14 +12,14 @@ As more cheats developers supports scripting to extend the behaviour of their pr
 
 * Anti-aim scripts: This is a little bit conterversal as some scripts would actually useful, however in fact most of them are useless as desync anti-aims are very limited. Also for newcomers, you will be disappointed that using a anti-aim scripts won't make you become a god instantly, as it is also tied to playstyle. In short, if you don't know how you can set-up these anti-aim scripts, don't buy it.
 
-* "HvH essentials" scripts: The same as above, a lot of them are actually useless. For scripts like these your focus would be on these ehancements:
+* "HvH essentials" scripts: A lot of people will stacking up different essential scripts to hope for a best performance. Which is kinda useless as they are being limited by the cheat they are running on. In short, when getting these scripts you should take a look at:
   * Minium damage override
   * Matchmaking fakeduck
   * //TODO
 
-If your cheat is missing the features above, then you should take at least of these scripts.
+If your cheat is missing the features above, then you should take at least one of these scripts.
 
-* Reslover scripts: Straightforward blatant scam. There is no way to 100% reslove desync anti-aims. Also in the cheat itself, you can both force body-aim a player, or trying to reslover override. (Tho there is no gurantee you will able to kill the enemy player.)
+* Reslover scripts: Straightforward blatant scam. There is no way to 100% reslove desync anti-aims. Also in the cheat itself, you can both force body-aim a player, or trying to reslover override. (That said there is still no gurantee you will able to kill the enemy player.)
 
 ## Leaked Configs
 

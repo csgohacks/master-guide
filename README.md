@@ -32,6 +32,5 @@ We highly welcome any to contribute to this masterguide by creating a pull reque
 This masterguide is created under the MIT License, for more details please read our [LICENSE](https://github.com/csgohacks/master-guide/blob/master/LICENSE) file.
 
 ## In memorial of
+
 * _BigJuicyLawnMover321_
-
-

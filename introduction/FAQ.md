@@ -40,7 +40,7 @@ A: [Check out some examples we covered at here.](/cheat-software/linux-and-mac-c
 
 * Q: I saw [Insert hvh youtuber name here] recommending a cheat. Shall I buy one?
 
-A: Unless he/she is recommending some popular p2c(s), then you should be safe. However it is recommended to [check out this list](/cheat-software/pastes-and-scams.md) to avoid these scams. They only wasting your time on trying it.
+A: Unless he/she is recommending some popular p2c(s), then you should be safe. However it is recommended to [check out this list](/cheat-software/pastes-and-scams.md) to avoid these scams. Those scams would only wasting your time on trying it.
 
 ## Cheat configuration
 
