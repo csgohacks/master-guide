@@ -8,6 +8,32 @@ Ezfrags is technically not a paste, but with it's high detection it is not recom
 
 Plus please do not buy Ezfrag's premium subscription, since it is just the same as Ezfrag's free version, but ironically it has a highly detection rate than the free version. So just stay away from both Ezfrag's plan.
 
+## SmurfWrecker
+
+SmurfWrecker is pasted heavily and is very detected, so you should stay away from it.
+
+Both the Pro and Basic plans are terrible, and the 'legit' you can do with it is terrible, so please do not use it!
+
+## Static-Ware
+
+Static-Ware is literally just renamed SmurfWrecker, they didn't even change the watermark so please don't use it.
+
+## VeteranCheats
+
+Just a shameless cash grab that is probably pasted, has little features and is most likely detected so DO NOT USE.
+
+## SkyCheats
+
+Another shameless cash grab with little features, most likely renamed VeteranCheats so please stay away from it.
+
+## time2win
+
+Renamed VeteranCheats, as usual just a cash grab made by some kids so DO NOT BUY ANY SUBSCRIBTIONS FROM THEM.
+
+## Battlelog
+
+VeteranCheats, this is getting kind of annoying...
+
 ## Project Infinity
 
 Project Infinity also has a free version, but since it has been identified as a paste and having a terrible detection rate, we do not recommend you to try it out, despite for some reason a lot of youtubers have chosen it to demostrate how CSGO cheating looks like.
