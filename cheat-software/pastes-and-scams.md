@@ -34,6 +34,10 @@ Renamed VeteranCheats, as usual just a cash grab made by some kids so DO NOT BUY
 
 VeteranCheats, this is getting kind of annoying...
 
+## Daxhack
+
+Promoted by shady people, obviously a paste of osiris. Dev puts no effort into the project at all. Filled with alot of broken features
+
 ## Project Infinity
 
 Project Infinity also has a free version, but since it has been identified as a paste and having a terrible detection rate, we do not recommend you to try it out, despite for some reason a lot of youtubers have chosen it to demostrate how CSGO cheating looks like.
