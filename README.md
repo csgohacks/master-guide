@@ -31,7 +31,6 @@ We highly welcome any to contribute to this master guide by creating a pull requ
 ### Contributors
 
 * _throwaway27727394927 \(matt1\)_ 
-* _Hackintosh12945_
 * _Earlviking \(mcs\)_
 * _R9119 \(Rami\)_
 * _RatPoisonRat \(Ratto\)_
