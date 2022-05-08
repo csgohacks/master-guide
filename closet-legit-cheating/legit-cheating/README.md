@@ -2,14 +2,13 @@
 
 ## Legit Cheating
 
-When you chooses to legit cheating, which means you have behave like other players,
+Legit cheating means that you look like a player that is not cheating.
 
 ## Some features you should use:
 
-* Radar hack: Radar hack is better than regular ESP because it allows you to expect players, but not exactly where they are.
-* Sound ESP: Sound ESP is much better than regular ESP because you only see it if the player is making noise. This means you know a player is there, however don't peek directly onto their head because the sound isn't that precise and it can be blatant.
-* Charms: Charms makes enmeny players more visable and helps you to aim at them more quicker, but this is up to personal favourite.
-* Gernade helper: Gernade helper helps you to throw gernades in different spots. Some cheats have this feature built in \(Novolinehook-require user set up, spirthack\), while others requires a lua to achieve this job. \(Aimware, onetap, etc\)
+* Radar hack: Radar hack lets you see enemies on your radar. It is better than regular ESP because it allows you to expect players, but not exactly where they are.
+* Sound ESP: Sound ESP is much better for legit play than regular ESP, because you only see it if the player is making noise. This means you know a player is there, however don't peek directly onto their head because the sound isn't that precise and it can be blatant.
+* Grenade helper: Grenade helper helps you throw grenades by showing you the exact path they will travel. Some cheats have this feature built in \(Novolinehook-require user set up, spirthack\), while others requires a lua to achieve this. \(Aimware, onetap, etc\)
 
 ## Lose rounds!
 
