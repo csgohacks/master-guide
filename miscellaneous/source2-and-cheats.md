@@ -1,6 +1,6 @@
 # Source 2 and HvH
 
-As you may (or may not aware), counter-strike with source 2 has been [announced](https://www.counter-strike.net/cs2) today. This updates includes lighting, game mechanics upgrade, map remake and much more. However for you fellow cheaters, the one thing you're concerning is will your favourite works?
+As you may (or may not aware), counter-strike with source 2 has been [announced](https://www.counter-strike.net/cs2) today. This updates includes lighting, game mechanics upgrade, map remake and much more. However for you fellow cheaters, the one thing you're concerning is will your favourite cheats works?
 
 ## How source 2 affects currennt cheat providers
 
