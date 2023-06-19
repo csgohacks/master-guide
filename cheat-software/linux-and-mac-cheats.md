@@ -24,6 +24,13 @@ Valve's VAC team do not actively work on detecting cheats on macOS or Linux. The
 
 [Fuzion](https://github.com/LWSS/Fuzion) is a Linux cheat that is modified from AimTux, another CS:GO cheat that was no longer maintained. It has legit and rage features available. However as mentioned from GitHub, some users have reported that the cheat might be detected, so it is recommend to use other active public forks, like [MissedIT](https://github.com/HackerPolice/MissedIT).
 
+### Osiris
+
+[Osiris](https://github.com/danielkrupinski/Osiris) is also available for linux.  (more info available at the “free-and-pastes” section)
+
+![stepwise procedure](https://github.com/csgohacks/master-guide/assets/61621750/05aa1f57-b8d0-4d1c-85dd-d52aac9a00db)
+
+
 ## macOS
 
 Due to macOS's security features, it is difficult for cheat developers to code a cheat on macOS, however this also applies to VAC, which it's functionality is limited due to the same reason.
