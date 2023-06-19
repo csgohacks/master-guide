@@ -31,7 +31,7 @@ We highly welcome any to contribute to this master guide by creating a pull requ
 ### Contributors
 
 * _throwaway27727394927 \(matt1\)_ 
-* _Earlviking \(mcs\)_
+* _Earlviking \(qinf fuckwave\)_
 * _R9119 \(Rami\)_
 * _RatPoisonRat \(Ratto\)_
 * _clonedbyfeds \(Kamay\)_
